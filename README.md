@@ -91,7 +91,7 @@ The app evaluates all three on the test set (R², MAE) and highlights the best p
 ## 🚀 Running Locally
 
 ```bash
-git clone https://github.com/<your-username>/laptop-price-predictor.git
+git clone https://github.com/Shivakumar391-ux/laptop-price-predictor.git
 cd laptop-price-predictor
 pip install -r requirements.txt
 streamlit run lapapp.py
