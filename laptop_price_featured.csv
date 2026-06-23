@@ -1,0 +1,1304 @@
+Company,TypeName,Inches,Ram_GB,Weight_kg,cpu_brand,cpu_ghz,gpu_brand,storage_type,storage_gb,res_width,res_height,ppi,is_touchscreen,is_ips,os_clean,Price_euros,log_price,ram_tier,storage_tier,cpu_perf_score,is_premium,weight_category
+Apple,Ultrabook,13.3,8,1.37,Intel,2.3,Intel,SSD,128.0,2560.0,1600.0,226.98,0,1,macOS,1339.69,7.200939685789514,Mid (8GB),Low (≤128GB),2.3,1,Ultralight
+Apple,Ultrabook,13.3,8,1.34,Intel,1.8,Intel,SSD,128.0,1440.0,900.0,127.68,0,0,macOS,898.94,6.802328094435323,Mid (8GB),Low (≤128GB),1.8,1,Ultralight
+HP,Notebook,15.6,8,1.86,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,No OS,575.0,6.3561076606958915,Mid (8GB),Mid (256GB),2.5,0,Light
+Apple,Ultrabook,15.4,16,1.83,Intel,2.7,AMD,SSD,512.0,2880.0,1800.0,220.53,0,1,macOS,2537.45,7.839308937522205,High (16GB),High (512GB),2.7,1,Light
+Apple,Ultrabook,13.3,8,1.37,Intel,3.1,Intel,SSD,256.0,2560.0,1600.0,226.98,0,1,macOS,1803.6,7.4980942395604,Mid (8GB),Mid (256GB),3.1,1,Ultralight
+Acer,Notebook,15.6,4,2.1,AMD,2.5,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,400.0,5.993961427306569,Low (≤4GB),High (512GB),2.25,0,Standard
+Apple,Ultrabook,15.4,16,2.04,Intel,2.2,Intel,SSD,256.0,2880.0,1800.0,220.53,0,1,macOS,2139.97,7.669014276347654,High (16GB),Mid (256GB),2.2,1,Standard
+Apple,Ultrabook,13.3,8,1.34,Intel,1.8,Intel,SSD,256.0,1440.0,900.0,127.68,0,0,macOS,1158.7,7.055916629962658,Mid (8GB),Mid (256GB),1.8,1,Ultralight
+Asus,Ultrabook,14.0,16,1.3,Intel,1.8,Nvidia,SSD,512.0,1920.0,1080.0,157.35,0,0,Windows,1495.0,7.310550158534422,High (16GB),High (512GB),1.8,1,Ultralight
+Acer,Ultrabook,14.0,8,1.6,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,770.0,6.647688373563329,Mid (8GB),Mid (256GB),1.6,1,Light
+HP,Notebook,15.6,4,1.86,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,No OS,393.9,5.978632568292603,Low (≤4GB),High (512GB),2.5,0,Light
+HP,Notebook,15.6,4,1.86,Intel,2.5,Intel,HDD,500.0,1920.0,1080.0,141.21,0,0,No OS,344.99,5.846409872905957,Low (≤4GB),High (512GB),2.5,0,Light
+Apple,Ultrabook,15.4,16,1.83,Intel,2.8,AMD,SSD,256.0,2880.0,1800.0,220.53,0,1,macOS,2439.97,7.800150780272373,High (16GB),Mid (256GB),2.8,1,Light
+Dell,Notebook,15.6,4,2.2,Intel,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,498.9,6.214408078419525,Low (≤4GB),Mid (256GB),2.5,0,Standard
+Apple,Ultrabook,12.0,8,0.92,Intel,1.2,Intel,SSD,256.0,2304.0,1440.0,226.42,0,1,macOS,1262.4,7.1415617784646,Mid (8GB),Mid (256GB),1.2,1,Ultralight
+Apple,Ultrabook,13.3,8,1.37,Intel,2.3,Intel,SSD,256.0,2560.0,1600.0,226.98,0,1,macOS,1518.55,7.326169517376512,Mid (8GB),Mid (256GB),2.3,1,Ultralight
+Dell,Notebook,15.6,8,2.2,Intel,2.7,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,745.0,6.61472560020376,Mid (8GB),Mid (256GB),2.7,0,Standard
+Apple,Ultrabook,15.4,16,1.83,Intel,2.9,AMD,SSD,512.0,2880.0,1800.0,220.53,0,1,macOS,2858.0,7.958227192322312,High (16GB),High (512GB),2.9,1,Light
+Lenovo,Notebook,15.6,8,2.2,Intel,2.4,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,No OS,499.0,6.214608098422191,Mid (8GB),Ultra (1TB+),2.4,0,Standard
+Dell,Ultrabook,13.3,8,1.22,Intel,1.6,Intel,SSD,128.0,1920.0,1080.0,165.63,1,1,Windows,979.0,6.887552571664617,Mid (8GB),Low (≤128GB),1.6,1,Ultralight
+Asus,Netbook,11.6,2,0.98,Intel,1.44,Intel,SSD,32.0,1366.0,768.0,135.09,0,0,Windows,191.9,5.262171919911683,Low (≤4GB),Low (≤128GB),1.44,0,Ultralight
+Lenovo,Gaming,15.6,8,2.5,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,999.0,6.907755278982137,Mid (8GB),Ultra (1TB+),2.5,1,Heavy
+HP,Notebook,15.6,4,1.86,AMD,1.5,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,No OS,258.0,5.556828061699537,Low (≤4GB),High (512GB),1.35,0,Light
+Dell,2 in 1 Convertible,13.3,8,1.62,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,819.0,6.709304340258299,Mid (8GB),Mid (256GB),1.6,0,Light
+HP,Ultrabook,15.6,8,1.91,Intel,1.8,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,659.0,6.492239835020471,Mid (8GB),Mid (256GB),1.8,1,Light
+Dell,Notebook,15.6,4,2.3,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,418.64,6.039397200863284,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Apple,Ultrabook,13.3,8,1.35,Intel,1.6,Intel,SSD,128.0,1440.0,900.0,127.68,0,0,macOS,1099.0,7.003065458786462,Mid (8GB),Low (≤128GB),1.6,1,Ultralight
+Dell,Notebook,15.6,8,2.2,Intel,1.6,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,800.0,6.68586094706836,Mid (8GB),Mid (256GB),1.6,0,Standard
+Dell,Ultrabook,15.6,8,1.88,Intel,1.9,Intel,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,1298.0,7.1693500166706,Mid (8GB),High (512GB),1.9,1,Light
+HP,Notebook,17.3,8,2.5,Intel,1.6,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,0,Windows,896.0,6.799055862058796,Mid (8GB),Ultra (1TB+),1.6,0,Heavy
+Chuwi,Notebook,15.6,4,1.89,Intel,1.44,Intel,SSD,64.0,1920.0,1080.0,141.21,0,0,Windows,244.99,5.505290884699608,Low (≤4GB),Low (≤128GB),1.44,0,Light
+Asus,Notebook,14.0,2,1.65,AMD,1.5,AMD,SSD,32.0,1366.0,768.0,111.94,0,0,Windows,199.0,5.298317366548036,Low (≤4GB),Low (≤128GB),1.35,0,Light
+HP,Notebook,17.3,4,2.71,AMD,2.5,AMD,HDD,500.0,1920.0,1080.0,127.34,0,0,Windows,439.0,6.0867747269123065,Low (≤4GB),High (512GB),2.25,0,Heavy
+Dell,Ultrabook,13.3,16,1.2,Intel,1.8,Intel,SSD,512.0,3200.0,1800.0,276.05,1,0,Windows,1869.0,7.533693709848633,High (16GB),High (512GB),1.8,1,Ultralight
+Apple,Ultrabook,13.3,8,1.35,Intel,1.6,Intel,SSD,256.0,1440.0,900.0,127.68,0,0,macOS,998.0,6.906754778648554,Mid (8GB),Mid (256GB),1.6,1,Ultralight
+Lenovo,Notebook,14.0,4,1.44,Intel,1.1,Intel,SSD,64.0,1366.0,768.0,111.94,0,0,Windows,249.0,5.521460917862246,Low (≤4GB),Low (≤128GB),1.1,0,Ultralight
+Acer,Notebook,15.6,4,2.1,Intel,2.7,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,367.0,5.908082938168931,Low (≤4GB),Ultra (1TB+),2.7,0,Standard
+Dell,Notebook,17.3,8,2.8,Intel,1.6,AMD,Hybrid,1152.0,1920.0,1080.0,127.34,0,1,Windows,979.0,6.887552571664617,Mid (8GB),Ultra (1TB+),1.6,0,Heavy
+HP,Notebook,15.6,4,1.86,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,488.69,6.193772537834054,Low (≤4GB),Ultra (1TB+),2.5,0,Light
+HP,Notebook,15.6,8,2.1,Intel,1.6,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,879.0,6.779921907472252,Mid (8GB),Mid (256GB),1.6,0,Standard
+Asus,Notebook,15.6,4,2.0,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Linux,389.0,5.966146739123692,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Dell,Gaming,15.6,16,2.65,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,1,Windows,1499.0,7.313220387090301,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Asus,Notebook,15.6,8,2.3,Intel,2.5,Nvidia,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,522.99,6.261472600169475,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Acer,Notebook,15.6,4,2.2,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,682.0,6.52649485957079,Low (≤4GB),Mid (256GB),1.6,0,Standard
+Dell,2 in 1 Convertible,17.3,12,2.77,Intel,1.6,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,1,0,Windows,999.0,6.907755278982137,High (16GB),Ultra (1TB+),1.6,0,Heavy
+Apple,Ultrabook,13.3,8,1.37,Intel,2.0,Intel,SSD,256.0,2560.0,1600.0,226.98,0,1,macOS,1419.0,7.258412150595307,Mid (8GB),Mid (256GB),2.0,1,Ultralight
+Lenovo,Notebook,15.6,4,2.2,Intel,2.5,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,No OS,369.0,5.91350300563827,Low (≤4GB),Low (≤128GB),2.5,0,Standard
+Asus,Gaming,17.3,8,3.2,AMD,2.5,AMD,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1299.0,7.170119543449628,Mid (8GB),Ultra (1TB+),2.25,1,Heavy
+Dell,Notebook,15.6,4,2.3,Intel,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,639.0,6.461468176353717,Low (≤4GB),Mid (256GB),2.5,0,Standard
+Asus,Notebook,17.3,4,2.8,Intel,1.1,Nvidia,HDD,1024.0,1366.0,768.0,90.58,0,0,Windows,466.0,6.1463292576688975,Low (≤4GB),Ultra (1TB+),1.1,0,Heavy
+Lenovo,2 in 1 Convertible,10.1,4,0.69,Intel,1.44,Intel,SSD,64.0,1920.0,1200.0,224.17,1,1,Other,319.0,5.768320995793772,Low (≤4GB),Low (≤128GB),1.44,0,Ultralight
+Acer,Notebook,15.6,8,2.2,Intel,1.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,841.0,6.7357800142423265,Mid (8GB),Mid (256GB),1.8,0,Standard
+HP,Notebook,15.6,4,1.86,AMD,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,398.49,5.99018873360393,Low (≤4GB),Mid (256GB),2.25,0,Light
+HP,Notebook,13.3,8,1.49,Intel,1.8,Intel,SSD,512.0,1920.0,1080.0,165.63,0,0,Windows,1103.0,7.00669522683704,Mid (8GB),High (512GB),1.8,1,Ultralight
+Acer,Notebook,15.6,4,2.4,Intel,2.4,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,384.0,5.953243334287785,Low (≤4GB),Ultra (1TB+),2.4,0,Standard
+Dell,Notebook,15.6,8,2.13,Intel,1.8,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,767.8,6.644830857656083,Mid (8GB),Mid (256GB),1.8,0,Standard
+HP,Notebook,15.6,4,1.91,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,141.21,0,0,Windows,439.0,6.0867747269123065,Low (≤4GB),Low (≤128GB),2.5,0,Light
+Asus,Notebook,15.6,4,2.0,Intel,2.5,Intel,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,586.19,6.375348447182542,Low (≤4GB),Mid (256GB),2.5,0,Standard
+MSI,Gaming,17.3,16,2.43,Intel,2.8,Nvidia,Hybrid,2304.0,1920.0,1080.0,127.34,0,0,Windows,2449.0,7.803843303538772,High (16GB),Ultra (1TB+),2.8,1,Standard
+Asus,Notebook,15.6,4,2.0,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Linux,415.0,6.030685260261263,Low (≤4GB),Mid (256GB),2.5,0,Standard
+Dell,Notebook,17.3,16,2.8,Intel,1.8,AMD,Hybrid,2304.0,1920.0,1080.0,127.34,0,0,Windows,1299.0,7.170119543449628,High (16GB),Ultra (1TB+),1.8,1,Heavy
+Dell,Ultrabook,14.0,8,1.7,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,879.0,6.779921907472252,Mid (8GB),Mid (256GB),1.6,1,Light
+Lenovo,Notebook,14.0,8,1.7,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,No OS,599.0,6.396929655216146,Mid (8GB),Mid (256GB),2.7,0,Light
+Asus,Notebook,14.0,8,1.4,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,941.0,6.848005274576363,Mid (8GB),Mid (256GB),1.6,0,Ultralight
+HP,Notebook,15.6,8,1.86,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,690.0,6.53813982376767,Mid (8GB),Mid (256GB),2.5,0,Light
+Asus,Ultrabook,15.6,16,1.8,Intel,2.8,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,1983.0,7.592870287844818,High (16GB),High (512GB),2.8,1,Light
+HP,Notebook,15.6,4,1.86,Intel,2.5,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,438.69,6.086069933148976,Low (≤4GB),High (512GB),2.5,0,Light
+HP,Notebook,14.0,4,1.44,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,111.94,0,0,Windows,229.0,5.438079308923196,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Lenovo,Notebook,15.6,4,1.9,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,549.0,6.309918278226516,Low (≤4GB),Ultra (1TB+),2.5,0,Light
+Asus,Gaming,17.3,12,3.0,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,0,Linux,949.0,6.856461984594587,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Microsoft,Ultrabook,13.5,4,1.252,Intel,2.5,Intel,SSD,128.0,2256.0,1504.0,200.84,1,0,Windows,1089.0,6.993932975223189,Low (≤4GB),Low (≤128GB),2.5,1,Ultralight
+Dell,Ultrabook,13.3,8,1.4,Intel,1.8,AMD,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,955.0,6.862757913051401,Mid (8GB),Mid (256GB),1.8,1,Ultralight
+Dell,Notebook,15.6,8,2.2,Intel,1.8,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,870.0,6.769641976852503,Mid (8GB),Mid (256GB),1.8,0,Standard
+MSI,Gaming,17.3,8,2.7,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,1095.0,6.999422467507961,Mid (8GB),Ultra (1TB+),2.5,1,Heavy
+Acer,Notebook,14.0,8,2.1,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,111.94,0,0,Windows,389.0,5.966146739123692,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Asus,Gaming,15.6,8,2.2,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,949.0,6.856461984594587,Mid (8GB),Ultra (1TB+),2.8,1,Standard
+Lenovo,Notebook,15.6,8,2.2,Intel,2.5,Intel,HDD,2048.0,1920.0,1080.0,141.21,0,0,No OS,519.0,6.253828811575473,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Dell,Notebook,15.6,8,2.02,Intel,1.8,Intel,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,855.0,6.752270376141742,Mid (8GB),Ultra (1TB+),1.8,0,Standard
+Acer,Notebook,15.6,4,2.2,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,530.0,6.274762021241939,Low (≤4GB),Ultra (1TB+),2.7,0,Standard
+HP,Notebook,17.3,8,2.5,Intel,1.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,977.0,6.885509670034818,Mid (8GB),Ultra (1TB+),1.6,0,Heavy
+Dell,Ultrabook,15.6,8,1.88,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1096.16,7.000480301964336,Mid (8GB),Mid (256GB),1.6,1,Light
+Apple,Ultrabook,12.0,8,0.92,Intel,1.3,Intel,SSD,512.0,2304.0,1440.0,226.42,0,1,macOS,1510.0,7.32052696227274,Mid (8GB),High (512GB),1.3,1,Ultralight
+HP,Notebook,14.0,8,1.63,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,860.0,6.7580945044277305,Mid (8GB),Mid (256GB),1.6,0,Light
+Lenovo,Notebook,15.6,4,2.2,AMD,2.5,AMD,SSD,128.0,1920.0,1080.0,141.21,0,0,Windows,399.0,5.991464547107982,Low (≤4GB),Low (≤128GB),2.25,0,Standard
+Acer,Notebook,15.6,4,2.1,AMD,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,395.0,5.981414211254481,Low (≤4GB),Ultra (1TB+),2.25,0,Standard
+Dell,Gaming,15.6,16,2.65,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1349.0,7.2078598714324755,High (16GB),Ultra (1TB+),2.8,1,Heavy
+HP,Ultrabook,15.6,8,1.83,Intel,1.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,699.0,6.551080335043404,Mid (8GB),Mid (256GB),1.8,1,Light
+HP,Notebook,15.6,8,1.96,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,598.99,6.396912988410589,Mid (8GB),Mid (256GB),2.5,0,Light
+Asus,Gaming,15.6,16,2.2,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1449.0,7.27931883541462,High (16GB),Ultra (1TB+),2.8,1,Standard
+Dell,Ultrabook,13.3,8,1.21,Intel,1.8,Intel,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,1649.0,7.408530566894626,Mid (8GB),Mid (256GB),1.8,1,Ultralight
+Asus,Gaming,15.6,8,2.45,AMD,2.5,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,699.0,6.551080335043404,Mid (8GB),Ultra (1TB+),2.25,1,Standard
+Acer,Notebook,15.6,8,2.2,Intel,1.8,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,689.0,6.536691597591305,Mid (8GB),Ultra (1TB+),1.8,0,Standard
+HP,Notebook,13.3,16,1.49,Intel,1.8,Intel,SSD,512.0,1920.0,1080.0,165.63,0,0,Windows,1197.0,7.088408778675395,High (16GB),High (512GB),1.8,1,Ultralight
+Dell,Gaming,15.6,8,2.65,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1195.0,7.086737934510577,Mid (8GB),Mid (256GB),2.5,1,Heavy
+Asus,Ultrabook,14.0,8,1.25,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1049.0,6.956545443151569,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Acer,2 in 1 Convertible,13.3,8,1.5,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,165.63,1,1,Windows,847.0,6.742880635791903,Mid (8GB),Mid (256GB),1.6,0,Light
+Dell,Notebook,15.6,8,2.2,Intel,2.7,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Linux,599.9,6.398428531339882,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Dell,Notebook,15.6,4,2.2,Intel,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Linux,485.0,6.186208623900494,Low (≤4GB),Mid (256GB),2.5,0,Standard
+Asus,Notebook,15.6,6,2.0,Intel,2.4,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,577.0,6.359573868672378,Mid (8GB),Mid (256GB),2.4,0,Standard
+HP,Gaming,15.6,12,2.62,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1249.0,7.1308988302963465,High (16GB),Ultra (1TB+),2.8,1,Heavy
+HP,Notebook,15.6,8,1.91,Intel,2.7,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,719.0,6.579251212010101,Mid (8GB),Mid (256GB),2.7,0,Light
+HP,Notebook,15.6,4,2.1,AMD,1.5,AMD,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,349.0,5.857933154483459,Low (≤4GB),High (512GB),1.35,0,Standard
+Dell,Notebook,15.6,8,2.2,Intel,1.6,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Linux,647.0,6.473890696352274,Mid (8GB),Ultra (1TB+),1.6,0,Standard
+HP,Ultrabook,13.3,8,1.38,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,1119.0,7.02108396428914,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Microsoft,Ultrabook,13.5,8,1.252,Intel,2.5,Intel,SSD,256.0,2256.0,1504.0,200.84,1,0,Windows,1340.0,7.201170883281678,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+HP,Notebook,14.0,6,1.58,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,659.0,6.492239835020471,Mid (8GB),Mid (256GB),2.5,0,Light
+Lenovo,Notebook,15.6,4,1.85,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,414.9,6.030444846748866,Low (≤4GB),Ultra (1TB+),2.5,0,Light
+Asus,Ultrabook,14.0,8,1.3,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1193.0,7.085064293952548,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+MSI,Gaming,15.6,16,2.2,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,1299.0,7.170119543449628,High (16GB),Ultra (1TB+),2.8,1,Standard
+Lenovo,Notebook,14.0,8,1.58,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1480.0,7.300472814267799,Mid (8GB),Mid (256GB),2.7,0,Light
+Asus,Ultrabook,15.6,16,1.5,Intel,1.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,1262.0,7.141245122350491,High (16GB),Ultra (1TB+),1.8,1,Light
+Dell,Ultrabook,13.3,8,1.23,Intel,2.4,Intel,SSD,256.0,3200.0,1800.0,276.05,1,0,Windows,1379.0,7.22983877815125,Mid (8GB),Mid (256GB),2.4,1,Ultralight
+Lenovo,2 in 1 Convertible,13.3,8,1.37,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,1,1,Windows,1399.0,7.24422751560335,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+HP,Notebook,14.0,4,1.63,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,111.94,0,1,Windows,722.0,6.583409222158765,Low (≤4GB),High (512GB),1.6,0,Light
+Dell,Ultrabook,13.3,8,1.21,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,1629.0,7.396335293800808,Mid (8GB),Mid (256GB),1.6,1,Ultralight
+HP,2 in 1 Convertible,13.3,8,1.26,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,165.63,1,1,Windows,1398.99,7.244220372720696,Mid (8GB),Mid (256GB),1.6,0,Ultralight
+HP,Notebook,14.0,8,1.63,Intel,1.8,Intel,SSD,512.0,1920.0,1080.0,157.35,0,0,Windows,1084.0,6.98933526597456,Mid (8GB),High (512GB),1.8,1,Light
+Dell,Notebook,15.6,8,2.16,Intel,1.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,1,Windows,1130.33,7.031149210745764,Mid (8GB),Ultra (1TB+),1.8,0,Standard
+Asus,Notebook,17.3,4,2.0,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,0,Windows,564.0,6.336825731146441,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Asus,Notebook,15.6,8,1.7,Intel,1.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1118.0,7.020190708311925,Mid (8GB),Mid (256GB),1.8,0,Light
+Acer,Notebook,15.6,6,2.1,Intel,2.4,Intel,HDD,1024.0,1920.0,1080.0,141.21,1,1,Windows,479.0,6.173786103901937,Mid (8GB),Ultra (1TB+),2.4,0,Standard
+MSI,Gaming,15.6,16,1.8,Intel,2.8,Nvidia,Hybrid,2304.0,1920.0,1080.0,141.21,0,0,Windows,2241.5,7.715346593932951,High (16GB),Ultra (1TB+),2.8,1,Light
+Lenovo,Notebook,15.6,8,2.2,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,No OS,629.0,6.4457198193855785,Mid (8GB),Mid (256GB),2.5,0,Standard
+HP,Notebook,17.3,16,2.5,Intel,1.8,Nvidia,SSD,512.0,1920.0,1080.0,127.34,0,0,Windows,1271.0,7.148345743900068,High (16GB),High (512GB),1.8,1,Heavy
+Acer,Notebook,15.6,4,2.1,AMD,2.5,AMD,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,451.0,6.113682179832232,Low (≤4GB),Mid (256GB),2.25,0,Standard
+HP,Notebook,15.6,4,1.86,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,No OS,259.0,5.560681631015528,Low (≤4GB),High (512GB),1.6,0,Light
+HP,Notebook,14.0,8,1.63,Intel,1.6,Intel,HDD,1024.0,1920.0,1080.0,157.35,0,0,Windows,812.0,6.70073110954781,Mid (8GB),Ultra (1TB+),1.6,0,Light
+Asus,Notebook,14.0,4,1.65,AMD,1.5,AMD,SSD,64.0,1366.0,768.0,111.94,0,0,Windows,277.99,5.631175938885108,Low (≤4GB),Low (≤128GB),1.35,0,Light
+Dell,Notebook,17.3,16,2.8,Intel,1.8,AMD,Hybrid,2304.0,1920.0,1080.0,127.34,0,0,Windows,1396.0,7.242082359256962,High (16GB),Ultra (1TB+),1.8,1,Heavy
+HP,Notebook,17.3,8,2.5,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,127.34,0,0,Windows,928.0,6.834108738813838,Mid (8GB),Mid (256GB),1.6,0,Heavy
+Dell,Notebook,15.6,8,2.36,Intel,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,638.99,6.461452551231646,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Dell,Notebook,15.6,4,2.2,Intel,2.5,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,449.0,6.1092475827643655,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Acer,Ultrabook,14.0,8,1.6,Intel,1.8,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,884.0,6.785587645007929,Mid (8GB),Mid (256GB),1.8,1,Light
+Acer,Notebook,15.6,4,2.2,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,572.0,6.35088571671474,Low (≤4GB),Mid (256GB),2.7,0,Standard
+HP,Notebook,15.6,8,2.05,Intel,2.7,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,598.0,6.395261598115449,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+HP,Notebook,14.0,8,1.63,Intel,1.8,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,988.0,6.8966943316227125,Mid (8GB),Mid (256GB),1.8,0,Light
+Lenovo,Notebook,15.6,4,1.9,Intel,1.1,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,No OS,252.36,5.5348114022303845,Low (≤4GB),Ultra (1TB+),1.1,0,Light
+Asus,Gaming,17.3,8,3.0,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,938.0,6.844815479208263,Mid (8GB),Ultra (1TB+),2.5,1,Heavy
+Lenovo,Notebook,15.6,4,2.2,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,No OS,499.0,6.214608098422191,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+HP,Notebook,13.3,4,1.32,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,699.0,6.551080335043404,Low (≤4GB),Mid (256GB),2.5,0,Ultralight
+Acer,Notebook,17.3,4,3.0,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,1,Windows,655.0,6.486160788944089,Low (≤4GB),Ultra (1TB+),2.7,0,Heavy
+Lenovo,Notebook,14.0,8,1.75,Intel,1.6,AMD,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1116.02,7.018419704011861,Mid (8GB),Mid (256GB),1.6,0,Light
+Lenovo,Gaming,15.6,8,2.4,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,No OS,869.0,6.76849321164863,Mid (8GB),Mid (256GB),2.8,1,Standard
+Toshiba,Notebook,15.6,4,2.1,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,602.0,6.401917196727186,Low (≤4GB),High (512GB),2.3,0,Standard
+HP,Notebook,15.6,4,1.86,AMD,2.5,AMD,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,369.0,5.91350300563827,Low (≤4GB),Mid (256GB),2.25,0,Light
+Asus,Ultrabook,14.0,8,1.25,Intel,1.8,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1099.0,7.003065458786462,Mid (8GB),Mid (256GB),1.8,1,Ultralight
+HP,Ultrabook,12.5,8,0.97,Intel,1.2,Intel,SSD,512.0,3840.0,2160.0,352.47,1,1,Windows,2014.0,7.608374474380783,Mid (8GB),High (512GB),1.2,1,Ultralight
+Asus,Notebook,15.6,4,2.0,Intel,1.1,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,344.0,5.84354441703136,Low (≤4GB),Ultra (1TB+),1.1,0,Standard
+MSI,Gaming,17.3,16,2.9,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,2029.0,7.615791072035833,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Acer,Notebook,15.6,4,2.1,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,447.0,6.104793232414985,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Dell,Gaming,15.6,16,2.56,Intel,2.8,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,1249.26,7.131106808667346,High (16GB),High (512GB),2.8,1,Heavy
+Dell,Gaming,15.6,8,2.62,Intel,2.8,Nvidia,Other,1024.0,1920.0,1080.0,141.21,0,0,Windows,899.0,6.802394763324311,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,15.6,4,1.9,Intel,2.5,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,498.0,6.212606095751519,Low (≤4GB),Low (≤128GB),2.5,0,Light
+MSI,Gaming,17.3,16,2.8,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1890.0,7.544861068658458,High (16GB),Ultra (1TB+),2.8,1,Heavy
+HP,Ultrabook,14.0,4,1.48,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1082.0,6.9874902470009905,Low (≤4GB),Mid (256GB),2.7,1,Ultralight
+HP,Notebook,15.6,6,1.91,Intel,1.6,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,619.0,6.429719478039138,Mid (8GB),Mid (256GB),1.6,0,Light
+Lenovo,2 in 1 Convertible,14.0,4,1.74,Intel,2.4,Intel,SSD,256.0,1920.0,1080.0,157.35,1,1,Windows,629.0,6.4457198193855785,Low (≤4GB),Mid (256GB),2.4,0,Light
+Asus,2 in 1 Convertible,13.3,8,1.1,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,1315.0,7.182352111885263,Mid (8GB),Mid (256GB),1.6,0,Ultralight
+Dell,2 in 1 Convertible,15.6,8,1.56,Intel,1.8,Intel,SSD,256.0,1920.0,1080.0,141.21,1,0,Windows,1049.0,6.956545443151569,Mid (8GB),Mid (256GB),1.8,0,Light
+Toshiba,Notebook,15.6,4,2.1,Intel,2.2,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,447.0,6.104793232414985,Low (≤4GB),High (512GB),2.2,0,Standard
+Asus,Notebook,15.6,4,2.03,AMD,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,403.0,6.0014148779611505,Low (≤4GB),Ultra (1TB+),2.25,0,Standard
+Acer,Notebook,17.3,4,3.0,Intel,1.6,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,1,Windows,805.0,6.692083742506628,Low (≤4GB),Mid (256GB),1.6,0,Heavy
+Dell,Notebook,15.6,8,2.13,Intel,1.6,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,728.0,6.591673732008658,Mid (8GB),Mid (256GB),1.6,0,Standard
+Lenovo,Gaming,15.6,16,2.5,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1079.0,6.984716320118265,High (16GB),Mid (256GB),2.8,1,Heavy
+Acer,Notebook,15.6,4,2.1,Intel,1.1,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,348.0,5.855071922202427,Low (≤4GB),Ultra (1TB+),1.1,0,Standard
+MSI,Gaming,15.6,16,2.4,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,1,Windows,1799.0,7.495541943884256,High (16GB),Ultra (1TB+),2.8,1,Standard
+Acer,Notebook,15.6,4,2.1,Intel,1.1,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,363.51,5.898553985914634,Low (≤4GB),Ultra (1TB+),1.1,0,Standard
+Dell,Gaming,15.6,8,2.56,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1060.49,6.967428860467754,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Acer,Notebook,17.3,8,3.0,Intel,1.6,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,1,Windows,854.0,6.75110146893676,Mid (8GB),Mid (256GB),1.6,0,Heavy
+HP,Notebook,13.3,4,1.49,Intel,1.6,Intel,HDD,500.0,1920.0,1080.0,165.63,0,1,Windows,754.0,6.626717749249025,Low (≤4GB),High (512GB),1.6,0,Ultralight
+Huawei,Ultrabook,13.0,8,1.05,Intel,2.5,Intel,SSD,256.0,2160.0,1440.0,199.69,0,1,Windows,1349.0,7.2078598714324755,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+HP,Notebook,17.3,6,2.71,Intel,2.5,AMD,HDD,2048.0,1920.0,1080.0,127.34,0,1,Windows,699.0,6.551080335043404,Mid (8GB),Ultra (1TB+),2.5,0,Heavy
+Lenovo,Notebook,15.6,4,2.2,AMD,2.9,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,No OS,309.0,5.736572297479192,Low (≤4GB),High (512GB),2.61,0,Standard
+Toshiba,Notebook,15.6,4,2.0,Intel,2.4,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,489.0,6.194405391104672,Low (≤4GB),High (512GB),2.4,0,Standard
+HP,Notebook,17.3,8,2.5,Intel,1.6,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,0,Windows,923.0,6.828712071641684,Mid (8GB),Mid (256GB),1.6,0,Heavy
+Dell,Notebook,15.6,8,2.3,Intel,2.4,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,459.0,6.131226489483141,Mid (8GB),Ultra (1TB+),2.4,0,Standard
+Acer,Notebook,15.6,4,2.1,Intel,2.5,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,449.0,6.1092475827643655,Low (≤4GB),Low (≤128GB),2.5,0,Standard
+MSI,Gaming,18.4,32,4.4,Intel,2.9,Nvidia,Hybrid,1536.0,1920.0,1080.0,119.72,0,0,Windows,2799.0,7.937374696163295,Ultra (32GB+),Ultra (1TB+),2.9,1,Heavy
+Lenovo,Notebook,15.6,8,1.9,Intel,2.5,AMD,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,813.0,6.70196036600254,Mid (8GB),Ultra (1TB+),2.5,0,Light
+HP,2 in 1 Convertible,13.3,8,1.29,Intel,1.6,Intel,SSD,256.0,3840.0,2160.0,331.26,1,1,Windows,1499.0,7.313220387090301,Mid (8GB),Mid (256GB),1.6,0,Ultralight
+Dell,Notebook,15.6,16,2.02,Intel,1.8,AMD,Hybrid,2304.0,1920.0,1080.0,141.21,0,0,Linux,1049.0,6.956545443151569,High (16GB),Ultra (1TB+),1.8,1,Standard
+Dell,Ultrabook,13.3,8,1.23,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1399.0,7.24422751560335,Mid (8GB),Mid (256GB),1.6,1,Ultralight
+Lenovo,2 in 1 Convertible,13.9,16,1.4,Intel,1.8,Intel,SSD,512.0,3840.0,2160.0,316.97,1,1,Windows,1849.0,7.52294091807237,High (16GB),High (512GB),1.8,1,Ultralight
+Toshiba,Notebook,15.6,8,2.0,Intel,2.5,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,793.0,6.677083461247136,Mid (8GB),Low (≤128GB),2.5,0,Standard
+Xiaomi,Notebook,15.6,8,1.95,Intel,1.6,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,No OS,1199.0,7.090076835776092,Mid (8GB),Mid (256GB),1.6,0,Light
+Dell,Notebook,17.3,16,2.77,Intel,1.8,Nvidia,SSD,512.0,1920.0,1080.0,127.34,1,0,Windows,1549.0,7.346010209913293,High (16GB),High (512GB),1.8,1,Heavy
+Dell,Notebook,15.6,16,2.06,Intel,2.8,Nvidia,SSD,512.0,3840.0,2160.0,282.42,1,0,Windows,2397.0,7.7823903355874595,High (16GB),High (512GB),2.8,1,Standard
+Lenovo,Gaming,15.6,8,2.4,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,No OS,779.0,6.659293919683638,Mid (8GB),Mid (256GB),2.5,1,Standard
+Acer,Ultrabook,13.3,8,1.12,Intel,1.2,Intel,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,989.0,6.897704943128636,Mid (8GB),Mid (256GB),1.2,1,Ultralight
+Dell,Notebook,17.3,8,2.8,Intel,1.8,AMD,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,1085.0,6.990256500493881,Mid (8GB),Ultra (1TB+),1.8,0,Heavy
+Lenovo,2 in 1 Convertible,14.0,16,1.42,Intel,2.7,Intel,SSD,1024.0,2560.0,1440.0,209.8,1,0,Windows,2824.0,7.946263643580541,High (16GB),Ultra (1TB+),2.7,1,Ultralight
+Vero,Notebook,14.0,4,1.3,Intel,1.1,Intel,SSD,32.0,1920.0,1080.0,157.35,0,1,Windows,260.0,5.564520407322694,Low (≤4GB),Low (≤128GB),1.1,0,Ultralight
+Xiaomi,Ultrabook,13.3,8,1.3,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,165.63,0,1,No OS,999.9,6.908654874224973,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Lenovo,Notebook,17.3,8,2.8,Intel,1.6,Nvidia,SSD,256.0,1600.0,900.0,106.11,0,0,No OS,698.0,6.54965074223381,Mid (8GB),Mid (256GB),1.6,0,Heavy
+Dell,2 in 1 Convertible,13.3,8,1.62,Intel,1.8,Intel,HDD,1024.0,1920.0,1080.0,165.63,1,1,Windows,839.0,6.733401891837359,Mid (8GB),Ultra (1TB+),1.8,0,Light
+HP,Notebook,17.3,8,2.5,Intel,1.6,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,1,Windows,914.0,6.818924065275521,Mid (8GB),Ultra (1TB+),1.6,0,Heavy
+Razer,Gaming,17.3,32,3.49,Intel,2.9,Nvidia,SSD,1024.0,3840.0,2160.0,254.67,1,0,Windows,6099.0,8.716044050161402,Ultra (32GB+),Ultra (1TB+),2.9,1,Heavy
+HP,Notebook,13.3,8,1.49,Intel,1.6,Intel,SSD,512.0,1920.0,1080.0,165.63,0,0,Windows,959.0,6.866933284461882,Mid (8GB),High (512GB),1.6,1,Ultralight
+HP,Gaming,17.3,16,3.35,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,1,Windows,1379.0,7.22983877815125,High (16GB),Ultra (1TB+),2.8,1,Heavy
+HP,Notebook,17.3,8,2.5,Intel,1.8,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,0,Windows,1045.0,6.952728644624869,Mid (8GB),Mid (256GB),1.8,0,Heavy
+Dell,Gaming,15.6,16,2.65,Intel,2.8,Nvidia,Hybrid,1536.0,3840.0,2160.0,282.42,0,1,Windows,1845.0,7.520776415062797,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,15.6,4,2.1,Intel,2.3,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,493.0,6.202535517187923,Low (≤4GB),Low (≤128GB),2.3,0,Standard
+Acer,Notebook,15.6,8,2.23,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,742.0,6.610696044717759,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Lenovo,Gaming,15.6,16,3.2,Intel,2.8,Nvidia,Hybrid,1536.0,1920.0,1080.0,141.21,0,1,Windows,1749.0,7.4673710669175595,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Dell,Workstation,15.6,16,2.8,Intel,2.5,Nvidia,Hybrid,1280.0,3840.0,2160.0,282.42,0,0,Windows,3055.0,8.024862150286411,High (16GB),Ultra (1TB+),2.5,1,Heavy
+Lenovo,Gaming,15.6,16,2.4,Intel,2.8,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,0,No OS,1398.0,7.243512974665482,High (16GB),High (512GB),2.8,1,Standard
+Dell,Notebook,15.6,6,2.3,Intel,2.4,Intel,HDD,1024.0,1366.0,768.0,100.45,1,0,Windows,439.0,6.0867747269123065,Mid (8GB),Ultra (1TB+),2.4,0,Standard
+Dell,Ultrabook,13.3,8,1.21,Intel,1.8,Intel,SSD,256.0,3840.0,2160.0,331.26,1,1,Windows,1949.0,7.575584651557793,Mid (8GB),Mid (256GB),1.8,1,Ultralight
+Dell,Ultrabook,13.3,8,1.2,Intel,1.8,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1449.0,7.27931883541462,Mid (8GB),Mid (256GB),1.8,1,Ultralight
+Lenovo,Notebook,15.6,8,2.2,Intel,2.5,Intel,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,597.0,6.393590753950631,Mid (8GB),Mid (256GB),2.5,0,Standard
+Acer,Notebook,15.6,8,2.4,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Linux,779.0,6.659293919683638,Mid (8GB),Ultra (1TB+),2.8,0,Standard
+Asus,Gaming,17.3,16,2.9,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1407.0,7.249925536717988,High (16GB),Ultra (1TB+),2.8,1,Heavy
+HP,Notebook,15.6,4,2.1,Intel,2.5,Intel,HDD,500.0,1920.0,1080.0,141.21,0,0,No OS,349.0,5.857933154483459,Low (≤4GB),High (512GB),2.5,0,Standard
+Lenovo,Notebook,15.6,8,2.2,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,No OS,549.0,6.309918278226516,Mid (8GB),Mid (256GB),2.5,0,Standard
+Huawei,Ultrabook,13.0,8,1.05,Intel,2.7,Intel,SSD,512.0,2160.0,1440.0,199.69,0,1,Windows,1499.0,7.313220387090301,Mid (8GB),High (512GB),2.7,1,Ultralight
+Dell,Ultrabook,13.3,8,1.4,Intel,1.8,AMD,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,931.88,6.8382765752120775,Mid (8GB),Mid (256GB),1.8,1,Ultralight
+Lenovo,Notebook,17.3,8,2.8,Intel,2.5,Nvidia,HDD,1024.0,1600.0,900.0,106.11,0,0,No OS,589.0,6.380122536899765,Mid (8GB),Ultra (1TB+),2.5,0,Heavy
+HP,Notebook,14.0,8,1.63,Intel,1.8,Nvidia,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1031.0,6.939253946041508,Mid (8GB),Mid (256GB),1.8,0,Light
+Dell,Ultrabook,14.0,8,1.6,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1149.0,7.047517221357296,Mid (8GB),Mid (256GB),1.6,1,Light
+Dell,2 in 1 Convertible,13.3,16,1.62,Intel,1.8,Intel,SSD,512.0,1920.0,1080.0,165.63,1,0,Windows,1279.0,7.154615356913663,High (16GB),High (512GB),1.8,1,Light
+Dell,Notebook,15.6,8,2.2,Intel,1.6,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Linux,677.35,6.519663378931318,Mid (8GB),Mid (256GB),1.6,0,Standard
+Lenovo,2 in 1 Convertible,14.0,8,1.74,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,899.0,6.802394763324311,Mid (8GB),Mid (256GB),1.6,0,Light
+Toshiba,Ultrabook,13.3,8,1.2,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1363.0,7.218176838403408,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+HP,Notebook,15.6,8,2.1,Intel,1.6,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,794.0,6.678342114654332,Mid (8GB),Ultra (1TB+),1.6,0,Standard
+Dell,Gaming,17.3,16,4.42,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,1,Windows,2456.34,7.806834743085911,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Acer,Notebook,15.6,8,2.2,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,832.0,6.725033642166843,Mid (8GB),Mid (256GB),2.7,0,Standard
+Dell,Notebook,15.6,16,2.3,Intel,2.7,AMD,HDD,1024.0,1920.0,1080.0,141.21,1,0,Windows,859.01,6.756944017086926,High (16GB),Ultra (1TB+),2.7,1,Standard
+Asus,Notebook,15.6,8,2.0,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,769.0,6.646390514847729,Mid (8GB),Mid (256GB),2.5,0,Standard
+Asus,Notebook,17.3,8,2.69,Intel,2.5,Nvidia,Hybrid,756.0,1920.0,1080.0,127.34,0,0,Windows,891.0,6.79346613258001,Mid (8GB),Ultra (1TB+),2.5,0,Heavy
+HP,Notebook,15.6,8,1.9,Intel,2.7,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,1269.0,7.146772179452637,Mid (8GB),Ultra (1TB+),2.7,0,Light
+Asus,Notebook,15.6,4,2.37,Intel,2.4,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,398.99,5.991439546795477,Low (≤4GB),Ultra (1TB+),2.4,0,Standard
+HP,Notebook,15.6,4,2.1,AMD,1.5,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,330.0,5.802118375377063,Low (≤4GB),High (512GB),1.35,0,Standard
+Lenovo,Gaming,15.6,16,3.2,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,1,Windows,1499.0,7.313220387090301,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Dell,Notebook,14.0,8,1.6,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,859.0,6.756932389247553,Mid (8GB),Mid (256GB),2.5,0,Light
+Acer,2 in 1 Convertible,13.3,8,1.6,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,165.63,1,1,Windows,689.0,6.536691597591305,Mid (8GB),Mid (256GB),2.3,0,Light
+Dell,Notebook,15.6,16,2.36,Intel,2.7,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Linux,899.0,6.802394763324311,High (16GB),Mid (256GB),2.7,1,Standard
+Acer,Notebook,15.6,4,2.1,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,390.0,5.968707559985366,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Asus,Notebook,15.6,4,2.2,AMD,2.5,AMD,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,575.0,6.3561076606958915,Low (≤4GB),Ultra (1TB+),2.25,0,Standard
+Asus,Gaming,17.3,32,4.7,Intel,2.9,Nvidia,Hybrid,1536.0,1920.0,1080.0,127.34,0,0,Windows,3890.0,8.266421472984554,Ultra (32GB+),Ultra (1TB+),2.9,1,Heavy
+Acer,Gaming,15.6,8,2.5,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,846.0,6.741700694652055,Mid (8GB),Mid (256GB),2.5,1,Heavy
+Lenovo,Notebook,15.6,8,2.2,Intel,2.5,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,589.0,6.380122536899765,Mid (8GB),Low (≤128GB),2.5,0,Standard
+Asus,Notebook,17.3,8,2.1,Intel,1.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,1145.0,7.044032897274685,Mid (8GB),Ultra (1TB+),1.8,0,Standard
+Asus,Notebook,17.3,8,2.69,Intel,2.7,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,No OS,889.0,6.7912214627261855,Mid (8GB),Ultra (1TB+),2.7,0,Heavy
+Dell,Gaming,15.6,8,2.56,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,879.0,6.779921907472252,Mid (8GB),Mid (256GB),2.5,1,Heavy
+Lenovo,2 in 1 Convertible,13.9,8,1.38,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,158.48,1,1,Windows,1079.0,6.984716320118265,Mid (8GB),Mid (256GB),2.7,0,Ultralight
+Dell,Notebook,15.6,8,2.2,Intel,1.8,AMD,Hybrid,2176.0,1920.0,1080.0,141.21,0,0,Windows,985.0,6.893656354602635,Mid (8GB),Ultra (1TB+),1.8,0,Standard
+HP,Notebook,15.6,8,2.04,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,1,0,Windows,559.0,6.327936783729195,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Asus,Gaming,17.3,16,3.6,Intel,2.9,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,0,Windows,2999.0,8.006367567650246,High (16GB),Mid (256GB),2.9,1,Heavy
+HP,Notebook,13.3,4,1.49,Intel,1.6,Intel,HDD,500.0,1920.0,1080.0,165.63,0,1,Windows,675.0,6.516193076042964,Low (≤4GB),High (512GB),1.6,0,Ultralight
+Apple,Ultrabook,13.3,8,1.37,Intel,3.1,Intel,SSD,512.0,2560.0,1600.0,226.98,0,1,macOS,2040.0,7.621195162809845,Mid (8GB),High (512GB),3.1,1,Ultralight
+Dell,2 in 1 Convertible,15.6,8,2.08,Intel,1.8,Intel,HDD,1024.0,1920.0,1080.0,141.21,1,1,Windows,819.0,6.709304340258299,Mid (8GB),Ultra (1TB+),1.8,0,Standard
+Asus,Gaming,17.3,16,4.3,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1799.0,7.495541943884256,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Asus,Notebook,15.6,4,1.68,AMD,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,469.0,6.152732694704104,Low (≤4GB),Ultra (1TB+),2.25,0,Light
+Lenovo,2 in 1 Convertible,13.9,8,1.37,Intel,1.8,Intel,SSD,512.0,1920.0,1080.0,158.48,1,1,Windows,1849.0,7.52294091807237,Mid (8GB),High (512GB),1.8,1,Ultralight
+Acer,Notebook,17.3,4,3.0,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,1,Windows,702.0,6.555356891810665,Low (≤4GB),Mid (256GB),2.7,0,Heavy
+Dell,Ultrabook,13.3,8,1.41,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,949.0,6.856461984594587,Mid (8GB),Mid (256GB),1.6,1,Ultralight
+HP,Notebook,15.6,8,1.91,AMD,2.5,AMD,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,445.9,6.1023348559394055,Mid (8GB),Low (≤128GB),2.25,0,Light
+HP,Notebook,17.3,16,2.9,Intel,1.8,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,1,Windows,1059.0,6.966024187106113,High (16GB),Ultra (1TB+),1.8,1,Heavy
+MSI,Gaming,17.3,16,4.14,Intel,2.8,Nvidia,Hybrid,1536.0,1920.0,1080.0,127.34,0,0,Windows,2499.0,7.824046010856292,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,2 in 1 Convertible,15.6,8,2.0,Intel,2.8,Nvidia,SSD,512.0,1920.0,1080.0,141.21,1,1,Windows,1699.0,7.438383530044307,Mid (8GB),High (512GB),2.8,1,Standard
+Dell,Notebook,17.3,8,2.8,Intel,1.8,AMD,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,1142.0,7.04141166379481,Mid (8GB),Ultra (1TB+),1.8,0,Heavy
+Lenovo,Notebook,15.6,4,2.2,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,No OS,444.0,6.09807428216624,Low (≤4GB),Mid (256GB),2.5,0,Standard
+HP,Notebook,15.6,4,2.1,Intel,1.6,Intel,HDD,500.0,1920.0,1080.0,141.21,0,1,Windows,722.0,6.583409222158765,Low (≤4GB),High (512GB),1.6,0,Standard
+Dell,Notebook,15.6,4,2.18,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,657.0,6.489204931325317,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Dell,Notebook,15.6,8,2.24,Intel,2.5,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,565.0,6.338594078203183,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Dell,2 in 1 Convertible,15.6,8,2.67,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,141.21,1,0,Windows,799.0,6.684611727667927,Mid (8GB),Mid (256GB),1.6,0,Heavy
+Asus,2 in 1 Convertible,13.3,8,1.1,Intel,1.8,Intel,SSD,1024.0,1920.0,1080.0,165.63,1,0,Windows,1499.0,7.313220387090301,Mid (8GB),Ultra (1TB+),1.8,1,Ultralight
+Lenovo,Notebook,15.6,4,2.2,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,No OS,467.0,6.148468295917647,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+HP,Notebook,17.3,8,2.5,Intel,1.8,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,0,Windows,1018.0,6.926577033222725,Mid (8GB),Ultra (1TB+),1.8,0,Heavy
+Lenovo,Notebook,15.6,8,2.05,Intel,1.8,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,880.0,6.78105762593618,Mid (8GB),Mid (256GB),1.8,0,Standard
+Apple,Ultrabook,13.3,8,1.37,Intel,2.9,Intel,SSD,512.0,2560.0,1600.0,226.98,0,1,macOS,1958.9,7.580648730514814,Mid (8GB),High (512GB),2.9,1,Ultralight
+Asus,Gaming,17.3,16,3.2,AMD,2.5,AMD,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1549.0,7.346010209913293,High (16GB),Ultra (1TB+),2.25,1,Heavy
+Dell,Notebook,15.6,8,2.14,Intel,1.8,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Linux,735.07,6.601325222901983,Mid (8GB),Mid (256GB),1.8,0,Standard
+Lenovo,2 in 1 Convertible,14.0,16,1.36,Intel,2.6,Intel,SSD,512.0,2560.0,1440.0,209.8,1,0,Windows,2499.0,7.824046010856292,High (16GB),High (512GB),2.6,1,Ultralight
+Toshiba,Notebook,15.6,8,2.2,Intel,2.5,Nvidia,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,812.0,6.70073110954781,Mid (8GB),High (512GB),2.5,0,Standard
+Dell,Notebook,15.6,12,2.3,Intel,2.7,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,713.07,6.570980996749741,High (16GB),Ultra (1TB+),2.7,0,Standard
+Dell,Notebook,17.3,8,2.8,Intel,1.8,AMD,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Linux,1099.0,7.003065458786462,Mid (8GB),Ultra (1TB+),1.8,0,Heavy
+Acer,Notebook,15.6,8,2.2,Intel,1.8,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,745.0,6.61472560020376,Mid (8GB),Ultra (1TB+),1.8,0,Standard
+Lenovo,Notebook,17.3,4,2.8,Intel,2.5,Intel,HDD,1024.0,1600.0,900.0,106.11,0,0,Windows,489.0,6.194405391104672,Low (≤4GB),Ultra (1TB+),2.5,0,Heavy
+Lenovo,Notebook,17.3,8,2.8,Intel,1.8,Nvidia,HDD,2048.0,1920.0,1080.0,127.34,0,0,No OS,849.0,6.745236349484362,Mid (8GB),Ultra (1TB+),1.8,0,Heavy
+Lenovo,Notebook,17.3,6,2.8,Intel,2.7,Nvidia,Hybrid,1152.0,1600.0,900.0,106.11,0,0,Windows,859.0,6.756932389247553,Mid (8GB),Ultra (1TB+),2.7,0,Heavy
+Dell,Notebook,15.6,4,2.25,Intel,2.0,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Linux,428.0,6.061456918928017,Low (≤4GB),Ultra (1TB+),2.0,0,Standard
+Lenovo,Gaming,15.6,8,2.5,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,829.0,6.721425700790643,Mid (8GB),Mid (256GB),2.5,1,Heavy
+Lenovo,Notebook,15.6,6,2.2,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,579.0,6.363028103540465,Mid (8GB),Mid (256GB),2.5,0,Standard
+Acer,Notebook,15.6,8,3.0,Intel,1.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,951.0,6.858565034791365,Mid (8GB),Mid (256GB),1.8,0,Heavy
+Acer,Notebook,15.6,12,2.15,Intel,2.7,Intel,HDD,1024.0,1920.0,1080.0,141.21,1,1,Windows,659.0,6.492239835020471,High (16GB),Ultra (1TB+),2.7,0,Standard
+Lenovo,Notebook,15.6,8,1.95,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1097.0,7.001245622069476,Mid (8GB),Mid (256GB),2.7,0,Light
+Asus,Ultrabook,15.6,8,1.7,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,977.0,6.885509670034818,Mid (8GB),Mid (256GB),2.5,1,Light
+Lenovo,Gaming,15.6,16,2.5,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,1,Windows,1179.0,7.07326971745971,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,15.6,8,2.2,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,No OS,659.01,6.49225498642084,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Acer,Notebook,15.6,2,2.19,Intel,1.5,Intel,SSD,16.0,1366.0,768.0,100.45,0,0,Chrome OS,199.0,5.298317366548036,Low (≤4GB),Low (≤128GB),1.5,0,Standard
+Asus,Gaming,17.3,8,3.0,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,0,Windows,1187.0,7.080026499922591,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+HP,Notebook,17.3,8,2.54,Intel,2.5,Intel,HDD,1024.0,1600.0,900.0,106.11,0,0,Windows,489.0,6.194405391104672,Mid (8GB),Ultra (1TB+),2.5,0,Heavy
+Dell,Notebook,15.6,8,2.0,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1829.0,7.512071245835466,Mid (8GB),Mid (256GB),2.8,0,Standard
+Lenovo,Notebook,15.6,8,2.05,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,739.0,6.606650186198215,Mid (8GB),Mid (256GB),1.6,0,Standard
+Lenovo,Gaming,15.6,8,3.2,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,1299.0,7.170119543449628,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Acer,Notebook,15.6,8,2.5,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Linux,979.0,6.887552571664617,Mid (8GB),Mid (256GB),2.8,0,Heavy
+Dell,Workstation,17.3,16,3.42,Intel,2.9,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,0,Windows,2884.86,7.967578228108656,High (16GB),Mid (256GB),2.9,1,Heavy
+Lenovo,Notebook,15.6,6,2.4,AMD,2.4,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,499.0,6.214608098422191,Mid (8GB),Ultra (1TB+),2.16,0,Standard
+Asus,Ultrabook,15.6,16,1.63,Intel,2.7,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,1468.0,7.292337176173877,High (16GB),High (512GB),2.7,1,Light
+Asus,Notebook,14.0,4,1.3,Intel,2.4,Intel,SSD,128.0,1366.0,768.0,111.94,0,0,Windows,509.0,6.234410725718371,Low (≤4GB),Low (≤128GB),2.4,0,Ultralight
+Asus,Gaming,17.3,16,2.9,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,2122.0,7.660585461703256,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,17.3,6,2.8,Intel,2.5,Nvidia,HDD,1024.0,1600.0,900.0,106.11,0,0,Windows,649.0,6.476972362889683,Mid (8GB),Ultra (1TB+),2.5,0,Heavy
+Lenovo,Notebook,15.6,8,2.2,Intel,2.5,Nvidia,HDD,2048.0,1366.0,768.0,100.45,0,0,No OS,549.0,6.309918278226516,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Asus,Gaming,15.6,8,2.5,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1265.0,7.143617602704121,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,15.6,4,2.2,Intel,1.1,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,No OS,359.99,5.888850257118181,Low (≤4GB),Ultra (1TB+),1.1,0,Standard
+HP,2 in 1 Convertible,13.3,16,1.28,Intel,2.8,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,1975.0,7.588829878307813,High (16GB),Mid (256GB),2.8,1,Ultralight
+Toshiba,Notebook,15.6,8,2.2,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1043.0,6.950814768442584,Mid (8GB),Mid (256GB),2.5,0,Standard
+Lenovo,Notebook,15.6,8,2.3,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,819.0,6.709304340258299,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+HP,Notebook,15.6,4,1.86,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,469.0,6.152732694704104,Low (≤4GB),Ultra (1TB+),2.5,0,Light
+Lenovo,Notebook,13.3,8,1.1,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,999.0,6.907755278982137,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Dell,Ultrabook,13.3,16,1.21,Intel,1.8,Intel,SSD,1024.0,3840.0,2160.0,331.26,1,1,Windows,2499.0,7.824046010856292,High (16GB),Ultra (1TB+),1.8,1,Ultralight
+MSI,Gaming,15.6,16,2.8,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,1,Windows,2099.0,7.649692623711514,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Acer,Notebook,15.6,8,2.23,AMD,2.2,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,469.0,6.152732694704104,Mid (8GB),Mid (256GB),1.98,0,Standard
+Asus,2 in 1 Convertible,11.6,2,1.1,Intel,1.1,Intel,SSD,32.0,1366.0,768.0,135.09,1,0,Windows,275.0,5.62040086571715,Low (≤4GB),Low (≤128GB),1.1,0,Ultralight
+Dell,Notebook,15.6,8,2.33,Intel,1.6,AMD,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,844.0,6.739336627357174,Mid (8GB),Ultra (1TB+),1.6,0,Standard
+HP,2 in 1 Convertible,13.3,16,1.29,Intel,1.8,Intel,SSD,1024.0,3840.0,2160.0,331.26,1,1,Windows,2449.0,7.803843303538772,High (16GB),Ultra (1TB+),1.8,1,Ultralight
+Lenovo,Notebook,13.3,4,1.45,Intel,1.6,Intel,SSD,16.0,1366.0,768.0,117.83,0,0,Chrome OS,459.9,6.133181099726462,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+HP,Notebook,14.0,8,1.95,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,980.0,6.8885724595653635,Mid (8GB),Mid (256GB),2.5,0,Light
+Acer,Notebook,11.6,4,1.4,Intel,1.6,Intel,SSD,128.0,1366.0,768.0,135.09,0,0,Windows,485.0,6.186208623900494,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+HP,Notebook,14.0,8,1.48,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1292.0,7.164720378771857,Mid (8GB),Mid (256GB),2.7,0,Ultralight
+Lenovo,Notebook,17.3,4,2.79,Intel,2.5,Nvidia,HDD,1024.0,1600.0,900.0,106.11,0,0,Windows,589.0,6.380122536899765,Low (≤4GB),Ultra (1TB+),2.5,0,Heavy
+Asus,Notebook,14.0,8,2.0,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1094.0,6.9985096422506015,Mid (8GB),Mid (256GB),2.7,0,Standard
+HP,Notebook,15.6,8,2.1,Intel,1.8,Intel,HDD,1024.0,1366.0,768.0,100.45,0,1,Windows,902.0,6.805722553416985,Mid (8GB),Ultra (1TB+),1.8,0,Standard
+Acer,Notebook,15.6,8,2.2,AMD,2.7,AMD,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,659.0,6.492239835020471,Mid (8GB),Mid (256GB),2.43,0,Standard
+Lenovo,Notebook,14.0,4,1.44,Intel,1.1,Intel,SSD,32.0,1366.0,768.0,111.94,0,0,Windows,292.0,5.680172609017068,Low (≤4GB),Low (≤128GB),1.1,0,Ultralight
+Acer,Notebook,15.6,6,2.23,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,549.0,6.309918278226516,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Asus,Ultrabook,15.6,8,1.7,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1049.9,6.957402218871551,Mid (8GB),Mid (256GB),2.7,1,Light
+HP,Ultrabook,12.5,8,1.26,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,176.23,0,0,Windows,1335.0,7.197435354096591,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Dell,Notebook,15.6,32,2.06,Intel,2.8,Nvidia,SSD,1024.0,3840.0,2160.0,282.42,1,0,Windows,2639.0,7.878534196140362,Ultra (32GB+),Ultra (1TB+),2.8,1,Standard
+MSI,Gaming,17.3,8,2.7,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1199.0,7.090076835776092,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Toshiba,Notebook,15.6,8,2.0,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,943.0,6.8501261661455,Mid (8GB),Mid (256GB),2.5,0,Standard
+Asus,Notebook,14.0,8,2.0,Intel,2.7,Intel,Hybrid,1280.0,1920.0,1080.0,157.35,0,0,Windows,1334.0,7.19668657083435,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Lenovo,Notebook,15.6,4,1.85,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,449.0,6.1092475827643655,Low (≤4GB),Ultra (1TB+),2.5,0,Light
+Asus,Gaming,15.6,8,2.5,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,999.0,6.907755278982137,Mid (8GB),Mid (256GB),2.8,1,Heavy
+HP,Notebook,14.0,8,1.48,Intel,2.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1268.0,7.1459844677143876,Mid (8GB),Mid (256GB),2.6,0,Ultralight
+Dell,Ultrabook,15.6,8,1.9,Intel,1.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1049.0,6.956545443151569,Mid (8GB),Ultra (1TB+),1.6,1,Light
+HP,Notebook,15.6,8,1.84,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1144.0,7.0431599159883405,Mid (8GB),Mid (256GB),2.5,0,Light
+Asus,Notebook,15.6,4,2.0,Intel,1.1,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,274.99,5.620364633176702,Low (≤4GB),Ultra (1TB+),1.1,0,Standard
+Dell,Notebook,15.6,8,2.0,Intel,1.6,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1142.75,7.042067616589731,Mid (8GB),Mid (256GB),1.6,0,Standard
+Dell,Notebook,15.6,4,2.2,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Linux,274.9,5.62003848122324,Low (≤4GB),High (512GB),1.6,0,Standard
+Lenovo,Notebook,15.6,12,2.2,AMD,3.6,AMD,HDD,2048.0,1920.0,1080.0,141.21,0,0,Windows,899.0,6.802394763324311,High (16GB),Ultra (1TB+),3.24,0,Standard
+HP,Notebook,15.6,8,2.1,Intel,2.4,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,716.0,6.57507584059962,Mid (8GB),Ultra (1TB+),2.4,0,Standard
+Lenovo,2 in 1 Convertible,13.9,16,1.4,Intel,1.8,Intel,SSD,512.0,3840.0,2160.0,316.97,1,1,Windows,2099.0,7.649692623711514,High (16GB),High (512GB),1.8,1,Ultralight
+Dell,Ultrabook,13.3,8,1.2,Intel,1.8,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1579.0,7.365180126021013,Mid (8GB),Mid (256GB),1.8,1,Ultralight
+Lenovo,Gaming,15.6,16,2.4,Intel,2.8,Nvidia,Hybrid,2304.0,1920.0,1080.0,141.21,0,1,Windows,1129.0,7.029972911706386,High (16GB),Ultra (1TB+),2.8,1,Standard
+HP,Notebook,14.0,2,1.44,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,111.94,0,0,Windows,279.0,5.634789603169249,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Dell,Ultrabook,15.6,16,1.88,Intel,1.9,Intel,SSD,768.0,1920.0,1080.0,141.21,0,0,Windows,1607.96,7.383343286521773,High (16GB),Ultra (1TB+),1.9,1,Light
+Asus,2 in 1 Convertible,11.6,4,1.5,Intel,1.1,Intel,SSD,32.0,1366.0,768.0,135.09,1,0,Windows,375.0,5.929589143389895,Low (≤4GB),Low (≤128GB),1.1,0,Light
+Dell,Ultrabook,15.6,8,1.9,Intel,1.6,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,663.0,6.498282149476434,Mid (8GB),Ultra (1TB+),1.6,1,Light
+Dell,Notebook,15.6,16,2.06,Intel,2.8,Nvidia,SSD,512.0,3840.0,2160.0,282.42,1,0,Windows,2027.42,7.615012443860422,High (16GB),High (512GB),2.8,1,Standard
+HP,Notebook,15.6,8,1.84,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1304.0,7.173958319756794,Mid (8GB),Mid (256GB),2.7,0,Light
+MSI,Gaming,17.3,8,2.7,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,1409.0,7.251344983372214,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+HP,Workstation,15.6,8,2.6,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1738.27,7.461220763947065,Mid (8GB),Mid (256GB),2.8,1,Heavy
+Toshiba,Notebook,15.6,16,2.4,Intel,2.5,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,1,Windows,1403.0,7.247080584585756,High (16GB),High (512GB),2.5,1,Standard
+Dell,Notebook,15.6,8,2.02,Intel,1.8,AMD,Hybrid,2176.0,1920.0,1080.0,141.21,0,0,Windows,970.9,6.879252918509425,Mid (8GB),Ultra (1TB+),1.8,0,Standard
+Lenovo,Notebook,15.6,4,2.2,Intel,1.1,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,No OS,321.99,5.777621362991072,Low (≤4GB),Ultra (1TB+),1.1,0,Standard
+Dell,Gaming,15.6,8,2.65,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,999.0,6.907755278982137,Mid (8GB),Ultra (1TB+),2.5,1,Heavy
+Dell,Notebook,15.6,8,2.36,Intel,2.5,Intel,HDD,2048.0,1366.0,768.0,100.45,1,0,Windows,557.37,6.32502182507656,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Dell,Notebook,14.0,8,1.36,Intel,2.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1427.0,7.2640301428995295,Mid (8GB),Mid (256GB),2.6,0,Ultralight
+HP,Notebook,15.6,4,1.86,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,439.0,6.0867747269123065,Low (≤4GB),High (512GB),2.5,0,Light
+Asus,Notebook,14.0,8,2.0,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,945.0,6.852242569051878,Mid (8GB),Mid (256GB),2.5,0,Standard
+Lenovo,Notebook,17.3,6,2.8,Intel,2.5,Nvidia,Hybrid,1152.0,1600.0,900.0,106.11,0,0,Windows,719.0,6.579251212010101,Mid (8GB),Ultra (1TB+),2.5,0,Heavy
+HP,Notebook,15.6,8,1.86,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,639.0,6.461468176353717,Mid (8GB),Ultra (1TB+),2.5,0,Light
+Lenovo,Notebook,15.6,8,2.2,Intel,2.5,Nvidia,SSD,256.0,1366.0,768.0,100.45,0,0,No OS,499.0,6.214608098422191,Mid (8GB),Mid (256GB),2.5,0,Standard
+HP,Notebook,15.6,8,2.04,Intel,1.6,Intel,HDD,2048.0,1366.0,768.0,100.45,0,0,Windows,389.0,5.966146739123692,Mid (8GB),Ultra (1TB+),1.6,0,Standard
+Dell,Notebook,17.3,8,2.8,Intel,1.6,AMD,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,1085.0,6.990256500493881,Mid (8GB),Ultra (1TB+),1.6,0,Heavy
+Lenovo,Gaming,15.6,8,2.4,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,No OS,809.0,6.697034247666484,Mid (8GB),Ultra (1TB+),2.5,1,Standard
+Dell,Notebook,15.6,8,2.33,Intel,2.7,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,899.0,6.802394763324311,Mid (8GB),Mid (256GB),2.7,0,Standard
+HP,Ultrabook,14.0,8,1.36,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1750.0,7.467942332285852,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Asus,2 in 1 Convertible,15.6,12,2.26,Intel,2.7,Nvidia,Hybrid,2560.0,1920.0,1080.0,141.21,1,0,Windows,1099.0,7.003065458786462,High (16GB),Ultra (1TB+),2.7,0,Standard
+Acer,Notebook,15.6,4,2.1,AMD,2.5,AMD,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,426.0,6.056784013228625,Low (≤4GB),Low (≤128GB),2.25,0,Standard
+Asus,Gaming,17.3,16,3.25,AMD,2.5,AMD,Hybrid,1280.0,1920.0,1080.0,127.34,0,1,Windows,2199.0,7.696212639346407,High (16GB),Ultra (1TB+),2.25,1,Heavy
+Lenovo,Notebook,17.3,4,2.6,AMD,2.2,AMD,SSD,128.0,1600.0,900.0,106.11,0,0,Windows,489.0,6.194405391104672,Low (≤4GB),Low (≤128GB),1.98,0,Heavy
+Dell,2 in 1 Convertible,13.3,8,1.62,Intel,1.8,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,869.01,6.768504705835444,Mid (8GB),Mid (256GB),1.8,0,Light
+HP,Notebook,15.6,4,1.91,AMD,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,488.99,6.194384982733157,Low (≤4GB),Mid (256GB),2.25,0,Light
+Lenovo,Netbook,11.6,4,1.59,Intel,1.1,Intel,SSD,128.0,1366.0,768.0,135.09,0,1,Windows,553.0,6.317164686747284,Low (≤4GB),Low (≤128GB),1.1,0,Light
+Dell,Notebook,15.6,4,1.8,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,309.0,5.736572297479192,Low (≤4GB),High (512GB),1.6,0,Light
+Asus,Notebook,14.0,4,1.5,Intel,1.1,Intel,SSD,32.0,1366.0,768.0,111.94,0,0,Windows,286.0,5.659482215759621,Low (≤4GB),Low (≤128GB),1.1,0,Light
+Acer,Notebook,15.6,8,2.4,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Linux,846.0,6.741700694652055,Mid (8GB),Ultra (1TB+),2.8,0,Standard
+HP,Gaming,17.3,8,3.35,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,1,Windows,1191.0,7.083387847625295,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,15.6,4,1.85,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,141.21,0,0,No OS,403.5,6.002651736498547,Low (≤4GB),Low (≤128GB),2.5,0,Light
+Asus,Gaming,15.6,8,2.3,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1655.0,7.412160334945205,Mid (8GB),Ultra (1TB+),2.8,1,Standard
+Lenovo,Notebook,14.0,8,1.5,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1099.0,7.003065458786462,Mid (8GB),Mid (256GB),2.5,0,Light
+Asus,Ultrabook,13.3,16,1.1,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,165.63,1,0,Windows,1748.9,7.467313922427702,High (16GB),High (512GB),2.7,1,Ultralight
+Lenovo,Ultrabook,14.0,8,1.13,Intel,2.7,Intel,SSD,512.0,2560.0,1440.0,209.8,0,1,Windows,2282.0,7.733245646529795,Mid (8GB),High (512GB),2.7,1,Ultralight
+Lenovo,Notebook,13.3,4,1.5,Intel,2.4,Intel,SSD,128.0,1920.0,1080.0,165.63,0,1,Windows,549.0,6.309918278226516,Low (≤4GB),Low (≤128GB),2.4,0,Light
+Dell,Workstation,15.6,8,2.23,Intel,2.6,AMD,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,1369.0,7.222566018822171,Mid (8GB),High (512GB),2.6,1,Standard
+Dell,Workstation,15.6,8,2.0,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,2135.0,7.666690200080086,Mid (8GB),Mid (256GB),2.7,1,Standard
+Lenovo,2 in 1 Convertible,14.0,16,1.42,Intel,2.7,Intel,SSD,512.0,2560.0,1440.0,209.8,1,0,Windows,2509.0,7.828038032125829,High (16GB),High (512GB),2.7,1,Ultralight
+Asus,Gaming,17.3,8,3.0,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,0,Windows,1039.0,6.946975992135418,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Asus,Gaming,17.3,16,3.0,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1591.0,7.3727463664043285,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Acer,Notebook,15.6,12,2.2,Intel,1.6,Nvidia,HDD,1024.0,1366.0,768.0,100.45,0,1,Windows,693.99,6.5438974569720685,High (16GB),Ultra (1TB+),1.6,0,Standard
+MSI,Gaming,17.3,8,2.7,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,0,Windows,1349.0,7.2078598714324755,Mid (8GB),Mid (256GB),2.8,1,Heavy
+Dell,Notebook,15.6,8,2.33,Intel,2.7,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Linux,778.87,6.659127239126539,Mid (8GB),Mid (256GB),2.7,0,Standard
+HP,Ultrabook,15.6,4,1.91,AMD,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,499.0,6.214608098422191,Low (≤4GB),Mid (256GB),2.25,1,Light
+Lenovo,Notebook,15.6,8,2.1,Intel,1.8,AMD,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1229.56,7.115224629308743,Mid (8GB),Mid (256GB),1.8,0,Standard
+Lenovo,Notebook,14.0,8,1.9,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,938.0,6.844815479208263,Mid (8GB),Mid (256GB),2.5,0,Light
+Dell,Workstation,15.6,8,1.78,Intel,2.8,Nvidia,SSD,256.0,3840.0,2160.0,282.42,1,0,Windows,2712.0,7.905810312658931,Mid (8GB),Mid (256GB),2.8,1,Light
+Lenovo,Ultrabook,14.0,16,1.13,Intel,2.7,Intel,SSD,1024.0,2560.0,1440.0,209.8,0,1,Windows,2625.0,7.873217054862741,High (16GB),Ultra (1TB+),2.7,1,Ultralight
+Lenovo,Notebook,15.6,4,2.2,Intel,1.1,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,306.0,5.726847747587197,Low (≤4GB),Ultra (1TB+),1.1,0,Standard
+Asus,Gaming,17.3,16,2.9,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1529.0,7.333023014386481,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,15.6,8,2.1,Intel,1.6,AMD,Hybrid,1280.0,1920.0,1080.0,141.21,0,1,Windows,1144.5,7.04359650189355,Mid (8GB),Ultra (1TB+),1.6,0,Standard
+Acer,Notebook,15.6,8,2.5,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Linux,879.0,6.779921907472252,Mid (8GB),Mid (256GB),2.8,0,Heavy
+MSI,Gaming,17.3,16,2.8,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,2249.0,7.718685495198466,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Asus,Ultrabook,14.0,8,1.1,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,157.35,0,0,Windows,1873.0,7.535830462798367,Mid (8GB),High (512GB),2.7,1,Ultralight
+Toshiba,Ultrabook,13.3,16,1.2,Intel,2.5,Intel,SSD,512.0,1920.0,1080.0,165.63,0,0,Windows,1747.0,7.466227556215481,High (16GB),High (512GB),2.5,1,Ultralight
+Dell,Ultrabook,14.0,8,1.36,Intel,2.8,Intel,SSD,512.0,1920.0,1080.0,157.35,0,0,Windows,1680.0,7.427144133408616,Mid (8GB),High (512GB),2.8,1,Ultralight
+Lenovo,Notebook,15.6,4,2.2,Intel,2.5,Intel,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,409.0,6.016157159698354,Low (≤4GB),High (512GB),2.5,0,Standard
+Lenovo,Notebook,11.6,2,1.15,Intel,1.1,Intel,SSD,32.0,1366.0,768.0,135.09,0,0,Windows,304.45,5.721786099095776,Low (≤4GB),Low (≤128GB),1.1,0,Ultralight
+Lenovo,Workstation,15.6,8,2.67,Intel,2.8,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,1925.0,7.563200592358071,Mid (8GB),High (512GB),2.8,1,Heavy
+Lenovo,Ultrabook,14.0,8,1.7,Intel,2.8,Nvidia,SSD,512.0,2560.0,1440.0,209.8,0,1,Windows,1943.0,7.572502985020384,Mid (8GB),High (512GB),2.8,1,Light
+HP,Notebook,15.6,4,2.1,Intel,2.5,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,469.0,6.152732694704104,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Acer,2 in 1 Convertible,13.3,8,1.6,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,1,1,Windows,789.01,6.672045603608801,Mid (8GB),Mid (256GB),2.5,0,Light
+Asus,2 in 1 Convertible,13.3,8,1.27,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,1,1,Windows,928.0,6.834108738813838,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Dell,Notebook,15.6,4,2.3,Intel,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Linux,598.9,6.3967629746590475,Low (≤4GB),Mid (256GB),2.5,0,Standard
+Dell,Notebook,13.3,4,1.65,Intel,2.5,Intel,SSD,128.0,1366.0,768.0,117.83,0,0,Windows,689.0,6.536691597591305,Low (≤4GB),Low (≤128GB),2.5,0,Light
+HP,Ultrabook,14.0,8,1.43,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1500.0,7.313886831633462,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Dell,Notebook,15.6,8,2.14,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,539.95,6.293326853133583,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Lenovo,Ultrabook,14.0,8,1.75,Intel,1.8,AMD,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1215.38,7.103634513708157,Mid (8GB),Mid (256GB),1.8,1,Light
+Lenovo,2 in 1 Convertible,15.6,16,2.0,Intel,2.8,Nvidia,SSD,512.0,3840.0,2160.0,282.42,1,1,Windows,1899.0,7.549609165154532,High (16GB),High (512GB),2.8,1,Standard
+Chuwi,Notebook,12.3,6,1.4,Intel,1.1,Intel,SSD,64.0,2736.0,1824.0,267.34,0,1,Windows,449.0,6.1092475827643655,Mid (8GB),Low (≤128GB),1.1,0,Ultralight
+HP,Notebook,15.6,8,2.31,Intel,2.9,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1427.0,7.2640301428995295,Mid (8GB),Mid (256GB),2.9,0,Standard
+Asus,Notebook,15.6,8,2.3,Intel,2.4,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Linux,597.0,6.393590753950631,Mid (8GB),Ultra (1TB+),2.4,0,Standard
+Dell,Gaming,17.3,16,4.42,Intel,2.9,Nvidia,Hybrid,1280.0,2560.0,1440.0,169.78,0,1,Windows,2799.0,7.937374696163295,High (16GB),Ultra (1TB+),2.9,1,Heavy
+Dell,Gaming,15.6,8,2.62,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1159.0,7.05617528410041,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Dell,Notebook,15.6,8,2.02,Intel,1.8,AMD,Hybrid,2304.0,1920.0,1080.0,141.21,0,0,Windows,1142.4,7.041761558829871,Mid (8GB),Ultra (1TB+),1.8,0,Standard
+Dell,Ultrabook,14.0,8,1.6,Intel,2.8,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Linux,1099.0,7.003065458786462,Mid (8GB),Mid (256GB),2.8,1,Light
+HP,Gaming,17.3,12,3.35,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1999.0,7.600902459542082,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Mediacom,2 in 1 Convertible,11.6,4,1.16,Intel,1.1,Intel,SSD,32.0,1920.0,1080.0,189.91,1,1,Windows,299.0,5.703782474656201,Low (≤4GB),Low (≤128GB),1.1,0,Ultralight
+Samsung,Netbook,11.6,4,1.15,Intel,1.6,Intel,SSD,16.0,1366.0,768.0,135.09,0,0,Chrome OS,269.0,5.598421958998375,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Lenovo,Notebook,13.3,8,1.4,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,1010.0,6.918695219020472,Mid (8GB),Mid (256GB),2.7,0,Ultralight
+Lenovo,Notebook,14.0,4,1.7,Intel,2.7,Intel,SSD,128.0,1920.0,1080.0,157.35,0,1,Windows,599.0,6.396929655216146,Low (≤4GB),Low (≤128GB),2.7,0,Light
+Lenovo,Workstation,15.6,16,2.3,Intel,2.8,Nvidia,SSD,512.0,3840.0,2160.0,282.42,0,1,Windows,2445.0,7.802209316247118,High (16GB),High (512GB),2.8,1,Standard
+Lenovo,Notebook,15.6,16,2.5,Intel,2.9,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,2449.0,7.803843303538772,High (16GB),High (512GB),2.9,1,Heavy
+Asus,Gaming,17.3,8,3.2,AMD,3.2,AMD,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1695.0,7.4360278163518485,Mid (8GB),Ultra (1TB+),2.88,1,Heavy
+HP,Notebook,15.6,4,2.1,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,347.0,5.8522024797744745,Low (≤4GB),High (512GB),1.6,0,Standard
+Google,Ultrabook,12.3,16,1.1,Intel,1.3,Intel,SSD,512.0,2400.0,1600.0,234.51,1,0,Chrome OS,2199.0,7.696212639346407,High (16GB),High (512GB),1.3,1,Ultralight
+Lenovo,Ultrabook,14.0,24,1.32,Intel,2.7,Intel,SSD,512.0,2560.0,1440.0,209.8,0,0,Windows,2382.0,7.776115477098742,Ultra (32GB+),High (512GB),2.7,1,Ultralight
+Asus,Notebook,15.6,4,2.0,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Linux,559.0,6.327936783729195,Low (≤4GB),Mid (256GB),2.5,0,Standard
+Lenovo,Notebook,17.3,8,2.8,AMD,2.5,AMD,HDD,1024.0,1600.0,900.0,106.11,0,0,Windows,519.0,6.253828811575473,Mid (8GB),Ultra (1TB+),2.25,0,Heavy
+Dell,Notebook,15.6,4,2.2,Intel,1.6,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,749.0,6.620073206530356,Low (≤4GB),Mid (256GB),1.6,0,Standard
+Lenovo,Ultrabook,12.5,8,1.36,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,176.23,0,1,Windows,1429.0,7.265429723253953,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Lenovo,Notebook,15.6,4,2.2,Intel,1.1,Intel,SSD,128.0,1920.0,1080.0,141.21,0,0,Windows,349.0,5.857933154483459,Low (≤4GB),Low (≤128GB),1.1,0,Standard
+HP,Gaming,15.6,8,2.2,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1099.0,7.003065458786462,Mid (8GB),Ultra (1TB+),2.8,1,Standard
+Dell,Notebook,14.0,8,1.64,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1179.0,7.07326971745971,Mid (8GB),Mid (256GB),2.8,0,Light
+Acer,Notebook,15.6,4,2.4,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Linux,441.8,6.093118200834482,Low (≤4GB),High (512GB),2.5,0,Standard
+Dell,Workstation,15.6,8,2.23,Intel,2.5,Nvidia,Hybrid,1088.0,1920.0,1080.0,141.21,0,0,Windows,1993.0,7.597897950521784,Mid (8GB),Ultra (1TB+),2.5,1,Standard
+MSI,Gaming,15.6,8,2.2,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1027.74,6.936090031409406,Mid (8GB),Mid (256GB),2.5,1,Standard
+Microsoft,Ultrabook,13.5,16,1.25,Intel,2.5,Intel,SSD,512.0,2256.0,1504.0,200.84,1,0,Windows,2589.0,7.859413154693583,High (16GB),High (512GB),2.5,1,Ultralight
+HP,Notebook,15.6,8,1.91,Intel,2.5,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,589.0,6.380122536899765,Mid (8GB),Low (≤128GB),2.5,0,Light
+Dell,Workstation,15.6,16,2.17,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1975.0,7.588829878307813,High (16GB),Mid (256GB),2.7,1,Standard
+HP,Workstation,15.6,8,2.31,Intel,2.9,Intel,SSD,512.0,1920.0,1080.0,141.21,0,1,Windows,1534.0,7.336285660021297,Mid (8GB),High (512GB),2.9,1,Standard
+Lenovo,Notebook,14.0,8,1.65,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1345.0,7.204892510204673,Mid (8GB),Mid (256GB),2.5,0,Light
+Dell,Notebook,15.6,8,2.36,Intel,1.8,AMD,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,979.0,6.887552571664617,Mid (8GB),Ultra (1TB+),1.8,0,Standard
+Dell,2 in 1 Convertible,11.6,4,1.47,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,135.09,1,0,Windows,479.0,6.173786103901937,Low (≤4GB),High (512GB),1.6,0,Ultralight
+Dell,Notebook,17.3,8,4.42,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,1,Windows,2046.0,7.624130585661289,Mid (8GB),Ultra (1TB+),2.7,0,Heavy
+Microsoft,Ultrabook,13.5,4,1.252,Intel,2.2,Intel,SSD,128.0,2256.0,1504.0,200.84,1,0,Windows,989.0,6.897704943128636,Low (≤4GB),Low (≤128GB),2.2,1,Ultralight
+Microsoft,Ultrabook,13.5,8,1.25,Intel,2.5,Intel,SSD,256.0,2256.0,1504.0,200.84,1,0,Windows,1799.0,7.495541943884256,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+HP,Notebook,17.3,8,2.5,Intel,2.5,Intel,SSD,256.0,1600.0,900.0,106.11,0,0,Windows,639.9,6.462873438510181,Mid (8GB),Mid (256GB),2.5,0,Heavy
+Acer,Notebook,15.6,4,2.23,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,544.0,6.300785794663244,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Acer,Netbook,11.6,4,1.4,Intel,1.6,Intel,SSD,128.0,1366.0,768.0,135.09,0,0,Windows,435.0,6.077642243349034,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Asus,Notebook,15.6,8,2.37,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,749.0,6.620073206530356,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Lenovo,Notebook,14.0,8,1.5,Intel,2.7,AMD,SSD,512.0,1920.0,1080.0,157.35,0,1,No OS,799.0,6.684611727667927,Mid (8GB),High (512GB),2.7,1,Light
+Lenovo,Notebook,15.6,8,2.67,Intel,2.9,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,2090.0,7.645397699428633,Mid (8GB),Mid (256GB),2.9,0,Heavy
+Asus,Notebook,15.6,4,2.0,Intel,1.1,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,304.0,5.720311776607412,Low (≤4GB),High (512GB),1.1,0,Standard
+Acer,Notebook,15.6,4,2.2,Intel,2.5,Nvidia,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,469.0,6.152732694704104,Low (≤4GB),High (512GB),2.5,0,Standard
+Dell,Notebook,15.6,8,2.02,Intel,1.6,AMD,HDD,2048.0,1920.0,1080.0,141.21,0,0,Windows,759.0,6.633318433280377,Mid (8GB),Ultra (1TB+),1.6,0,Standard
+HP,Gaming,17.3,12,3.78,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,1,Windows,1699.0,7.438383530044307,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Ultrabook,14.0,12,1.4,Intel,2.6,Intel,SSD,256.0,2560.0,1440.0,209.8,0,1,Windows,1858.0,7.527793987721444,High (16GB),Mid (256GB),2.6,1,Ultralight
+HP,2 in 1 Convertible,13.3,8,1.29,Intel,1.8,Intel,SSD,512.0,3840.0,2160.0,331.26,1,1,Windows,1999.0,7.600902459542082,Mid (8GB),High (512GB),1.8,1,Ultralight
+HP,Notebook,15.6,8,1.9,Intel,2.5,AMD,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,1154.0,7.051855622955894,Mid (8GB),High (512GB),2.5,0,Light
+Google,Ultrabook,12.3,8,1.1,Intel,1.2,Intel,SSD,128.0,2400.0,1600.0,234.51,1,0,Chrome OS,1275.0,7.151485463904735,Mid (8GB),Low (≤128GB),1.2,1,Ultralight
+Dell,Ultrabook,13.3,8,1.42,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,1841.85,7.519068565317946,Mid (8GB),Mid (256GB),1.6,1,Ultralight
+Asus,Notebook,15.6,12,2.06,Intel,2.6,Intel,Hybrid,1152.0,3840.0,2160.0,282.42,0,1,Windows,1299.0,7.170119543449628,High (16GB),Ultra (1TB+),2.6,0,Standard
+Dell,Notebook,14.0,8,1.79,Intel,2.3,Intel,SSD,128.0,1366.0,768.0,111.94,0,0,Windows,740.0,6.608000625296087,Mid (8GB),Low (≤128GB),2.3,0,Light
+Dell,Workstation,15.6,8,1.78,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,2408.0,7.786967002614872,Mid (8GB),Mid (256GB),2.8,1,Light
+Lenovo,Notebook,14.0,8,1.7,Intel,2.5,Intel,SSD,180.0,1920.0,1080.0,157.35,0,0,Windows,1364.0,7.21890970761906,Mid (8GB),Mid (256GB),2.5,0,Light
+Dell,Notebook,15.6,8,2.2,Intel,1.6,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,675.0,6.516193076042964,Mid (8GB),Ultra (1TB+),1.6,0,Standard
+Toshiba,Notebook,13.3,8,1.05,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,1672.0,7.422373700986824,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Dell,Notebook,15.6,8,2.16,Intel,1.8,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,1,Windows,1262.0,7.141245122350491,Mid (8GB),High (512GB),1.8,1,Standard
+Dell,Notebook,15.6,4,2.18,Intel,2.4,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,586.6,6.376046444299722,Low (≤4GB),Ultra (1TB+),2.4,0,Standard
+HP,Notebook,13.3,4,1.49,Intel,1.6,Intel,SSD,128.0,1920.0,1080.0,165.63,0,1,Windows,726.0,6.588926477533519,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Chuwi,Notebook,15.6,4,1.89,Intel,1.44,Intel,SSD,64.0,1920.0,1080.0,141.21,0,0,Windows,248.9,5.521060837840906,Low (≤4GB),Low (≤128GB),1.44,0,Light
+Lenovo,Notebook,15.6,4,2.3,Intel,2.0,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,565.0,6.338594078203183,Low (≤4GB),Low (≤128GB),2.0,0,Standard
+Lenovo,Notebook,14.0,8,1.75,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1049.0,6.956545443151569,Mid (8GB),Mid (256GB),1.6,0,Light
+Dell,Workstation,15.6,16,2.17,Intel,2.7,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,1,Windows,2338.0,7.757478766584179,High (16GB),High (512GB),2.7,1,Standard
+Dell,Notebook,15.6,16,2.06,Intel,2.8,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,1899.0,7.549609165154532,High (16GB),High (512GB),2.8,1,Standard
+Lenovo,Ultrabook,12.5,16,1.36,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,176.23,0,1,Windows,1798.0,7.494986233950533,High (16GB),High (512GB),2.7,1,Ultralight
+Asus,Ultrabook,12.5,16,0.91,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,176.23,0,0,Windows,1950.0,7.576097340623111,High (16GB),High (512GB),2.7,1,Ultralight
+Lenovo,Notebook,15.6,8,2.3,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1011.99,6.920661632531647,Mid (8GB),Mid (256GB),2.5,0,Standard
+Toshiba,Ultrabook,13.3,32,1.05,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,165.63,1,0,Windows,2799.0,7.937374696163295,Ultra (32GB+),High (512GB),2.7,1,Ultralight
+Asus,Gaming,15.6,8,1.99,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1350.0,7.208600337960199,Mid (8GB),Ultra (1TB+),2.8,1,Light
+Acer,Notebook,15.6,8,2.2,AMD,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,579.0,6.363028103540465,Mid (8GB),Ultra (1TB+),2.25,0,Standard
+Asus,Gaming,17.3,24,4.33,Intel,2.6,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,1,1,Windows,1269.0,7.146772179452637,Ultra (32GB+),Ultra (1TB+),2.6,1,Heavy
+Lenovo,Ultrabook,12.5,8,1.3,Intel,2.3,Intel,SSD,180.0,1366.0,768.0,125.37,0,1,Windows,1099.0,7.003065458786462,Mid (8GB),Mid (256GB),2.3,1,Ultralight
+Lenovo,Notebook,15.6,8,2.17,Intel,1.8,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,898.9,6.8022836460399025,Mid (8GB),Mid (256GB),1.8,0,Standard
+HP,Notebook,14.0,8,1.48,Intel,2.8,Intel,SSD,1024.0,1920.0,1080.0,157.35,0,0,Windows,1749.0,7.4673710669175595,Mid (8GB),Ultra (1TB+),2.8,1,Ultralight
+Lenovo,Notebook,13.3,8,1.4,Intel,2.4,Intel,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,949.0,6.856461984594587,Mid (8GB),Mid (256GB),2.4,0,Ultralight
+Lenovo,Notebook,15.6,8,2.3,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,911.0,6.815639990074331,Mid (8GB),Mid (256GB),2.5,0,Standard
+Asus,Netbook,11.6,4,1.2,Intel,1.1,Intel,SSD,64.0,1366.0,768.0,135.09,0,0,Windows,340.0,5.831882477283517,Low (≤4GB),Low (≤128GB),1.1,0,Ultralight
+HP,Notebook,15.6,8,1.91,Intel,2.5,AMD,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,618.99,6.429703348876805,Mid (8GB),Mid (256GB),2.5,0,Light
+Lenovo,2 in 1 Convertible,13.9,8,1.4,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,158.48,1,1,Windows,1599.0,7.3777589082278725,Mid (8GB),Mid (256GB),1.6,0,Ultralight
+Lenovo,Notebook,14.0,4,2.1,Intel,1.1,Intel,HDD,500.0,1366.0,768.0,111.94,0,0,Windows,299.0,5.703782474656201,Low (≤4GB),High (512GB),1.1,0,Standard
+Lenovo,Netbook,11.6,4,1.25,Intel,1.6,Intel,SSD,16.0,1366.0,768.0,135.09,0,0,Chrome OS,265.0,5.583496308781699,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Lenovo,Notebook,13.3,8,1.44,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,949.0,6.856461984594587,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Asus,Notebook,15.6,8,2.0,Intel,2.7,Intel,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,1224.0,7.110696122978827,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Acer,Notebook,15.6,4,2.2,Intel,1.6,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,613.0,6.419994928147142,Low (≤4GB),Ultra (1TB+),1.6,0,Standard
+HP,Ultrabook,13.3,8,1.34,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,165.63,0,1,Windows,1323.0,7.188412736496954,Mid (8GB),High (512GB),2.7,1,Ultralight
+Lenovo,Gaming,15.6,8,2.4,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,1,No OS,1149.0,7.047517221357296,Mid (8GB),Ultra (1TB+),2.8,1,Standard
+Dell,Ultrabook,13.3,8,1.29,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,165.63,1,1,Windows,899.0,6.802394763324311,Mid (8GB),Low (≤128GB),2.5,1,Ultralight
+Acer,Notebook,15.6,4,2.2,Intel,2.7,Nvidia,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,639.0,6.461468176353717,Low (≤4GB),High (512GB),2.7,0,Standard
+Dell,Notebook,15.6,8,2.18,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,836.0,6.729824070489475,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Dell,Notebook,15.6,16,2.2,Intel,1.8,AMD,Hybrid,2304.0,1920.0,1080.0,141.21,0,0,Windows,1219.24,7.106802839691678,High (16GB),Ultra (1TB+),1.8,1,Standard
+Xiaomi,Notebook,15.6,16,1.95,Intel,1.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,No OS,1399.95,7.244905856906428,High (16GB),Mid (256GB),1.8,1,Light
+Asus,Netbook,11.6,2,1.1,Intel,1.1,Intel,SSD,32.0,1366.0,768.0,135.09,0,0,Windows,245.0,5.5053315359323625,Low (≤4GB),Low (≤128GB),1.1,0,Ultralight
+HP,Notebook,15.6,4,2.04,Intel,1.6,Intel,HDD,1024.0,1366.0,768.0,100.45,1,0,Windows,521.47,6.258567565922647,Low (≤4GB),Ultra (1TB+),1.6,0,Standard
+Asus,Gaming,15.6,24,2.24,Intel,2.8,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,2968.0,7.99598047476376,Ultra (32GB+),High (512GB),2.8,1,Standard
+HP,Notebook,15.6,8,2.04,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,889.0,6.7912214627261855,Mid (8GB),Mid (256GB),2.5,0,Standard
+Asus,Gaming,17.3,16,3.0,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1504.0,7.316548177182976,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Gaming,15.6,8,3.2,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,1,Windows,1399.0,7.24422751560335,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+HP,Ultrabook,13.3,8,1.32,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,1399.0,7.24422751560335,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Dell,Notebook,14.0,8,1.64,Intel,2.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1279.73,7.155185506847295,Mid (8GB),Mid (256GB),2.6,0,Light
+HP,Notebook,15.6,4,1.63,Intel,2.5,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,689.0,6.536691597591305,Low (≤4GB),Low (≤128GB),2.5,0,Light
+Dell,Notebook,17.3,8,2.8,Intel,1.6,AMD,Hybrid,1152.0,1920.0,1080.0,127.34,0,1,Linux,889.0,6.7912214627261855,Mid (8GB),Ultra (1TB+),1.6,0,Heavy
+Lenovo,Notebook,14.0,8,2.02,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1340.0,7.201170883281678,Mid (8GB),Mid (256GB),2.3,0,Standard
+Lenovo,Notebook,15.6,4,2.2,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,799.0,6.684611727667927,Low (≤4GB),Ultra (1TB+),2.7,0,Standard
+Lenovo,Notebook,15.6,8,2.2,Intel,2.5,Nvidia,HDD,2048.0,1366.0,768.0,100.45,0,0,No OS,459.0,6.131226489483141,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Dell,Notebook,15.6,4,2.3,Intel,2.5,AMD,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,585.0,6.373319789577012,Low (≤4GB),High (512GB),2.5,0,Standard
+Dell,Notebook,15.6,8,1.9,Intel,2.8,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1377.0,7.228388451573604,Mid (8GB),Mid (256GB),2.8,0,Light
+Dell,Gaming,17.3,16,4.42,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,1,Windows,3012.77,8.01094706572388,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Toshiba,Notebook,15.6,8,2.0,Intel,2.5,Intel,HDD,500.0,1920.0,1080.0,141.21,0,1,Windows,860.0,6.7580945044277305,Mid (8GB),High (512GB),2.5,0,Standard
+Asus,Notebook,15.6,8,2.0,Intel,2.7,Nvidia,Hybrid,1280.0,3840.0,2160.0,282.42,0,1,Windows,1299.0,7.170119543449628,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Mediacom,Notebook,13.3,4,1.2,Intel,1.1,Intel,SSD,32.0,1920.0,1080.0,165.63,0,1,Windows,369.0,5.91350300563827,Low (≤4GB),Low (≤128GB),1.1,0,Ultralight
+Asus,Gaming,15.6,8,2.3,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1649.0,7.408530566894626,Mid (8GB),Ultra (1TB+),2.5,1,Standard
+Dell,Notebook,15.6,8,1.93,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1369.0,7.222566018822171,Mid (8GB),Mid (256GB),2.8,0,Light
+Dell,Notebook,15.6,8,2.2,Intel,1.6,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,797.41,6.682622249968917,Mid (8GB),Mid (256GB),1.6,0,Standard
+HP,Notebook,15.6,4,1.86,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,398.99,5.991439546795477,Low (≤4GB),Mid (256GB),1.6,0,Light
+HP,Gaming,17.3,12,2.62,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,0,Windows,1799.0,7.495541943884256,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,14.0,8,1.87,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,859.0,6.756932389247553,Mid (8GB),Mid (256GB),2.7,0,Light
+Dell,Ultrabook,13.3,8,1.2,Intel,1.8,Intel,SSD,256.0,3200.0,1800.0,276.05,1,0,Windows,1399.0,7.24422751560335,Mid (8GB),Mid (256GB),1.8,1,Ultralight
+Dell,Notebook,14.0,4,1.6,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,157.35,0,0,Windows,735.87,6.602411485857249,Low (≤4GB),Low (≤128GB),2.5,0,Light
+HP,Ultrabook,13.3,8,1.34,Intel,2.7,Intel,SSD,256.0,3200.0,1800.0,276.05,0,1,Windows,1145.0,7.044032897274685,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Acer,Gaming,15.6,8,2.4,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Linux,798.0,6.683360945766275,Mid (8GB),Ultra (1TB+),2.5,1,Standard
+Asus,Notebook,15.6,4,2.0,AMD,1.8,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,349.0,5.857933154483459,Low (≤4GB),High (512GB),1.62,0,Standard
+HP,Notebook,15.6,4,2.1,Intel,2.4,Intel,SSD,128.0,1920.0,1080.0,141.21,0,0,Windows,705.5,6.560323202124582,Low (≤4GB),Low (≤128GB),2.4,0,Standard
+Lenovo,Notebook,14.0,4,1.87,Intel,2.5,Intel,HDD,500.0,1920.0,1080.0,157.35,0,0,Windows,785.0,6.666956792429207,Low (≤4GB),High (512GB),2.5,0,Light
+Lenovo,Notebook,15.6,4,2.15,Intel,2.3,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,No OS,462.35,6.138482708032701,Low (≤4GB),Ultra (1TB+),2.3,0,Standard
+HP,Notebook,15.6,4,1.86,Intel,2.5,Intel,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,397.0,5.986452005284438,Low (≤4GB),High (512GB),2.5,0,Light
+Lenovo,Notebook,15.6,8,1.99,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,141.21,0,1,Windows,1729.0,7.455876687491824,Mid (8GB),High (512GB),2.7,1,Light
+Lenovo,Notebook,15.6,4,2.2,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,141.21,0,0,Windows,499.0,6.214608098422191,Low (≤4GB),Low (≤128GB),2.5,0,Standard
+Dell,Notebook,15.6,8,1.9,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1116.99,7.019287709131214,Mid (8GB),Mid (256GB),2.5,0,Light
+Dell,Gaming,17.3,16,4.42,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,1,Windows,2699.0,7.90100705199242,High (16GB),Ultra (1TB+),2.8,1,Heavy
+HP,Notebook,17.3,8,2.65,Intel,2.5,Intel,HDD,1024.0,1600.0,900.0,106.11,0,0,Windows,544.15,6.3010609861523905,Mid (8GB),Ultra (1TB+),2.5,0,Heavy
+HP,Notebook,17.3,8,2.63,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,0,Windows,1280.0,7.155396301896734,Mid (8GB),Ultra (1TB+),2.7,0,Heavy
+Asus,Notebook,15.6,4,2.0,Intel,1.1,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Linux,224.0,5.41610040220442,Low (≤4GB),High (512GB),1.1,0,Standard
+Mediacom,Notebook,13.3,4,1.35,Intel,1.44,Intel,SSD,32.0,1920.0,1080.0,165.63,0,1,Windows,255.0,5.545177444479562,Low (≤4GB),Low (≤128GB),1.44,0,Ultralight
+Lenovo,Notebook,17.3,6,2.8,Intel,2.7,Nvidia,Hybrid,1152.0,1600.0,900.0,106.11,0,0,Windows,949.0,6.856461984594587,Mid (8GB),Ultra (1TB+),2.7,0,Heavy
+HP,Notebook,15.6,6,1.91,AMD,2.5,AMD,SSD,128.0,1920.0,1080.0,141.21,0,1,Windows,568.9,6.3454609068409535,Mid (8GB),Low (≤128GB),2.25,0,Light
+Dell,Notebook,15.6,4,2.18,Intel,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,617.9,6.427943708745316,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Acer,2 in 1 Convertible,11.6,4,1.25,Intel,2.0,Intel,SSD,32.0,1920.0,1080.0,189.91,1,1,Windows,349.0,5.857933154483459,Low (≤4GB),Low (≤128GB),2.0,0,Ultralight
+Lenovo,Notebook,15.6,4,2.05,Intel,2.7,Intel,SSD,128.0,1920.0,1080.0,141.21,0,0,Windows,630.0,6.447305862541213,Low (≤4GB),Low (≤128GB),2.7,0,Standard
+HP,Ultrabook,13.3,16,1.16,Intel,1.2,Intel,SSD,512.0,3200.0,1800.0,276.05,1,1,Windows,1965.0,7.583756300707112,High (16GB),High (512GB),1.2,1,Ultralight
+Lenovo,Notebook,17.3,8,3.4,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,1,Windows,2999.0,8.006367567650246,Mid (8GB),Mid (256GB),2.8,0,Heavy
+Asus,Notebook,15.6,8,2.5,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,839.0,6.733401891837359,Mid (8GB),Ultra (1TB+),2.5,0,Heavy
+Dell,Ultrabook,13.3,8,1.21,Intel,1.6,Intel,SSD,128.0,3840.0,2160.0,331.26,1,1,Windows,1599.0,7.3777589082278725,Mid (8GB),Low (≤128GB),1.6,1,Ultralight
+Dell,Notebook,15.6,4,1.93,Intel,2.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,959.0,6.866933284461882,Low (≤4GB),High (512GB),2.6,0,Light
+Fujitsu,Notebook,15.6,8,2.2,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,739.0,6.606650186198215,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Lenovo,Notebook,15.6,4,2.2,Intel,1.1,Intel,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,344.0,5.84354441703136,Low (≤4GB),High (512GB),1.1,0,Standard
+Lenovo,Notebook,14.0,4,2.02,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,111.94,0,0,Windows,990.0,6.898714534329988,Low (≤4GB),High (512GB),2.5,0,Standard
+HP,Workstation,17.3,8,3.14,Intel,2.8,Nvidia,HDD,500.0,1600.0,900.0,106.11,0,0,Windows,1860.99,7.52940108725331,Mid (8GB),High (512GB),2.8,1,Heavy
+HP,Notebook,14.0,8,1.94,Intel,1.6,Intel,HDD,2048.0,1366.0,768.0,111.94,0,0,Windows,389.0,5.966146739123692,Mid (8GB),Ultra (1TB+),1.6,0,Light
+HP,Notebook,15.6,6,1.95,AMD,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,649.0,6.476972362889683,Mid (8GB),Mid (256GB),2.25,0,Light
+Lenovo,Notebook,15.6,8,2.3,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,830.0,6.7226297948554485,Mid (8GB),Mid (256GB),2.5,0,Standard
+Lenovo,Notebook,15.6,4,2.05,Intel,1.6,Intel,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,685.0,6.530877627725885,Low (≤4GB),High (512GB),1.6,0,Standard
+Mediacom,Notebook,14.0,4,1.4,Intel,1.44,Intel,SSD,32.0,1920.0,1080.0,157.35,0,0,Windows,249.0,5.521460917862246,Low (≤4GB),Low (≤128GB),1.44,0,Ultralight
+Toshiba,Ultrabook,14.0,16,1.24,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,157.35,1,0,Windows,1865.0,7.531552381407289,High (16GB),High (512GB),2.7,1,Ultralight
+Lenovo,Gaming,17.3,32,4.6,Intel,2.7,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,1,Windows,2663.0,7.88758403166028,Ultra (32GB+),Ultra (1TB+),2.7,1,Heavy
+MSI,Gaming,17.3,16,4.14,Intel,2.9,Nvidia,Hybrid,1536.0,1920.0,1080.0,127.34,0,0,Windows,2729.0,7.912056888179006,High (16GB),Ultra (1TB+),2.9,1,Heavy
+Dell,Notebook,15.6,8,2.2,Intel,2.7,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Linux,749.01,6.620086539774801,Mid (8GB),Mid (256GB),2.7,0,Standard
+Mediacom,Notebook,14.0,4,1.45,Intel,1.1,Intel,SSD,32.0,1920.0,1080.0,157.35,0,1,Windows,389.0,5.966146739123692,Low (≤4GB),Low (≤128GB),1.1,0,Ultralight
+Dell,Notebook,15.6,8,1.9,Intel,2.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,1008.52,6.917230249344655,Mid (8GB),High (512GB),2.6,0,Light
+HP,Notebook,13.3,4,1.49,Intel,2.4,Intel,SSD,128.0,1920.0,1080.0,165.63,0,0,Windows,719.0,6.579251212010101,Low (≤4GB),Low (≤128GB),2.4,0,Ultralight
+Dell,Notebook,15.6,16,1.93,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1537.39,7.338491693993433,High (16GB),Mid (256GB),2.8,1,Light
+Dell,Netbook,11.6,4,1.26,Intel,1.6,Intel,SSD,16.0,1366.0,768.0,135.09,0,0,Chrome OS,295.0,5.69035945432406,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+MSI,Gaming,17.3,16,4.5,Intel,2.7,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,2349.0,7.762170607138205,High (16GB),Ultra (1TB+),2.7,1,Heavy
+HP,Gaming,17.3,16,3.78,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,1,Windows,1498.0,7.312553498102598,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Ultrabook,14.0,12,1.4,Intel,2.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1673.0,7.422971251049421,High (16GB),Mid (256GB),2.6,1,Ultralight
+Lenovo,Notebook,15.6,12,2.2,Intel,1.8,Intel,HDD,1024.0,1366.0,768.0,100.45,1,0,Windows,609.0,6.413458957167357,High (16GB),Ultra (1TB+),1.8,0,Standard
+Asus,Gaming,17.3,8,2.73,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,1,Windows,1770.0,7.479299637782834,Mid (8GB),Ultra (1TB+),2.5,1,Heavy
+Asus,2 in 1 Convertible,15.6,8,2.2,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,1,0,Windows,739.0,6.606650186198215,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Lenovo,Notebook,15.6,12,2.2,AMD,3.6,AMD,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,949.0,6.856461984594587,High (16GB),High (512GB),3.24,1,Standard
+Dell,2 in 1 Convertible,11.6,4,1.39,Intel,1.0,Intel,SSD,128.0,1366.0,768.0,135.09,1,0,Windows,603.0,6.403574197934815,Low (≤4GB),Low (≤128GB),1.0,0,Ultralight
+Samsung,Notebook,15.6,16,2.5,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1699.0,7.438383530044307,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,17.3,4,2.8,Intel,2.5,Intel,HDD,500.0,1920.0,1080.0,127.34,0,0,No OS,529.0,6.272877006546167,Low (≤4GB),High (512GB),2.5,0,Heavy
+Lenovo,Notebook,15.6,8,2.29,Intel,2.3,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,459.0,6.131226489483141,Mid (8GB),Ultra (1TB+),2.3,0,Standard
+Lenovo,2 in 1 Convertible,13.3,8,1.37,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,165.63,1,1,Windows,2025.0,7.613818684808629,Mid (8GB),High (512GB),2.7,1,Ultralight
+Lenovo,Notebook,14.0,8,1.7,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1474.0,7.29641326877392,Mid (8GB),Mid (256GB),2.5,0,Light
+Dell,2 in 1 Convertible,12.5,8,1.34,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,176.23,1,0,Windows,1670.0,7.421177528595393,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Dell,Workstation,15.6,8,2.06,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,1,0,Windows,1763.0,7.475339236566737,Mid (8GB),Mid (256GB),2.8,1,Standard
+HP,Notebook,15.6,8,1.84,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1219.0,7.106606137727303,Mid (8GB),Mid (256GB),2.7,0,Light
+HP,Notebook,15.6,4,2.1,Intel,2.4,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,668.48,6.506501291645438,Low (≤4GB),High (512GB),2.4,0,Standard
+Acer,Notebook,14.0,4,1.6,Intel,1.1,Intel,SSD,32.0,1920.0,1080.0,157.35,0,0,Windows,329.0,5.799092654460526,Low (≤4GB),Low (≤128GB),1.1,0,Light
+MSI,Gaming,17.3,16,4.14,Intel,2.7,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,2199.0,7.696212639346407,High (16GB),Ultra (1TB+),2.7,1,Heavy
+Dell,Notebook,15.6,4,2.18,Intel,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,465.0,6.144185634125646,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+MSI,Gaming,15.6,16,1.8,Intel,2.8,Nvidia,Hybrid,2304.0,3840.0,2160.0,282.42,0,0,Windows,2299.0,7.7406644019172415,High (16GB),Ultra (1TB+),2.8,1,Light
+Toshiba,Notebook,15.6,8,2.2,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1399.0,7.24422751560335,Mid (8GB),Mid (256GB),2.5,0,Standard
+Lenovo,Notebook,15.6,6,2.4,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,564.0,6.336825731146441,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Lenovo,2 in 1 Convertible,15.6,8,2.0,Intel,2.8,Intel,SSD,256.0,1920.0,1080.0,141.21,1,1,Windows,1299.0,7.170119543449628,Mid (8GB),Mid (256GB),2.8,0,Standard
+Acer,Notebook,14.0,4,1.6,Intel,1.6,Intel,SSD,128.0,1366.0,768.0,111.94,0,0,Windows,349.0,5.857933154483459,Low (≤4GB),Low (≤128GB),1.6,0,Light
+Lenovo,Notebook,15.6,32,2.5,Intel,3.1,Nvidia,SSD,1024.0,3840.0,2160.0,282.42,0,1,Windows,4899.0,8.496990484098719,Ultra (32GB+),Ultra (1TB+),3.1,1,Heavy
+Dell,Gaming,15.6,16,2.59,Intel,2.6,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,879.01,6.77993327104405,High (16GB),Ultra (1TB+),2.6,1,Heavy
+Dell,Notebook,15.6,4,2.18,Intel,2.0,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,443.9,6.097849537811996,Low (≤4GB),Ultra (1TB+),2.0,0,Standard
+Dell,Notebook,15.6,4,2.25,Intel,2.0,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,359.0,5.886104031450156,Low (≤4GB),Ultra (1TB+),2.0,0,Standard
+Dell,Notebook,15.6,4,1.93,Intel,2.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Linux,869.0,6.76849321164863,Low (≤4GB),High (512GB),2.6,0,Light
+Asus,Gaming,17.3,8,3.0,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,1168.0,7.063903961472068,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Dell,Notebook,15.6,4,2.18,Intel,2.5,AMD,SSD,128.0,1920.0,1080.0,141.21,0,0,Linux,569.0,6.345636360828596,Low (≤4GB),Low (≤128GB),2.5,0,Standard
+HP,Ultrabook,15.6,8,1.84,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,1389.0,7.237059026124737,Mid (8GB),High (512GB),2.7,1,Light
+MSI,Gaming,15.6,16,2.94,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,2267.86,7.727032781686294,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Acer,2 in 1 Convertible,11.6,4,1.25,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,135.09,1,1,Chrome OS,379.0,5.940171252720432,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+HP,Notebook,14.0,8,2.31,Intel,2.6,Intel,SSD,256.0,1366.0,768.0,111.94,0,0,Windows,1124.0,7.025538314638521,Mid (8GB),Mid (256GB),2.6,0,Standard
+Lenovo,Notebook,14.0,8,1.65,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1465.0,7.290292882446597,Mid (8GB),Mid (256GB),2.3,0,Light
+Dell,Notebook,15.6,4,2.2,Intel,1.6,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,776.0,6.655440350367647,Low (≤4GB),Ultra (1TB+),1.6,0,Standard
+Fujitsu,Notebook,15.6,8,2.2,Intel,2.5,Intel,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,799.0,6.684611727667927,Mid (8GB),Mid (256GB),2.5,0,Standard
+HP,Notebook,15.6,4,1.88,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,932.0,6.838405200847344,Low (≤4GB),High (512GB),2.3,0,Light
+Lenovo,Notebook,15.6,8,2.2,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,899.0,6.802394763324311,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Mediacom,Notebook,14.0,2,1.4,Intel,1.44,Intel,SSD,32.0,1920.0,1080.0,157.35,0,0,Windows,239.0,5.480638923341991,Low (≤4GB),Low (≤128GB),1.44,0,Ultralight
+Lenovo,Notebook,15.6,4,2.2,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,141.21,0,0,No OS,468.0,6.150602768446279,Low (≤4GB),Low (≤128GB),2.5,0,Standard
+Asus,2 in 1 Convertible,13.3,6,1.5,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,165.63,1,0,Windows,639.01,6.4614838012316484,Mid (8GB),Ultra (1TB+),2.5,0,Light
+Dell,Notebook,15.6,8,2.0,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1820.0,7.507141079727608,Mid (8GB),Mid (256GB),2.8,0,Standard
+Asus,Ultrabook,14.0,16,1.1,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,157.35,0,0,Windows,1900.0,7.550135342488429,High (16GB),High (512GB),2.7,1,Ultralight
+Dell,Gaming,15.6,16,2.62,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,1479.0,7.299797366758161,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,15.6,4,1.8,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,829.0,6.721425700790643,Low (≤4GB),Mid (256GB),1.6,0,Light
+Lenovo,Notebook,15.6,4,2.2,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,579.0,6.363028103540465,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Asus,Notebook,15.6,8,2.0,Intel,1.1,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,399.0,5.991464547107982,Mid (8GB),Ultra (1TB+),1.1,0,Standard
+Asus,Notebook,15.6,8,1.99,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,906.62,6.810825788802163,Mid (8GB),Ultra (1TB+),2.5,0,Light
+Dell,Ultrabook,13.3,8,1.23,Intel,1.6,Intel,SSD,256.0,3200.0,1800.0,276.05,1,0,Windows,1869.0,7.533693709848633,Mid (8GB),Mid (256GB),1.6,1,Ultralight
+Lenovo,Notebook,14.0,2,1.42,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,111.94,0,0,Windows,249.0,5.521460917862246,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Lenovo,2 in 1 Convertible,13.3,8,1.37,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,165.63,1,1,Windows,1757.42,7.472170957561016,Mid (8GB),Mid (256GB),2.7,0,Ultralight
+Dell,Notebook,15.6,16,2.06,Intel,2.8,Nvidia,SSD,1024.0,3840.0,2160.0,282.42,1,0,Windows,2399.0,7.783224016336037,High (16GB),Ultra (1TB+),2.8,1,Standard
+Lenovo,Gaming,15.6,8,2.5,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1109.0,7.01211529430638,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+HP,Notebook,17.0,8,2.6,AMD,2.5,AMD,HDD,1024.0,1600.0,900.0,107.99,0,0,Windows,520.9,6.257475998649367,Mid (8GB),Ultra (1TB+),2.25,0,Heavy
+Lenovo,Ultrabook,14.0,16,1.14,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,157.35,0,1,Windows,2450.0,7.804251383528112,High (16GB),High (512GB),2.7,1,Ultralight
+Asus,Gaming,15.6,8,2.5,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,No OS,1169.0,7.064759027791802,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Acer,Notebook,15.6,4,2.4,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,450.0,6.111467339502679,Low (≤4GB),High (512GB),2.5,0,Standard
+Lenovo,Notebook,14.0,4,1.43,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,111.94,0,0,Windows,274.0,5.616771097666572,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Acer,Ultrabook,14.0,8,1.8,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,919.0,6.824373670043086,Mid (8GB),Mid (256GB),2.5,1,Light
+Razer,Gaming,14.0,16,1.95,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,2599.0,7.8632667240095735,High (16GB),Mid (256GB),2.8,1,Light
+Toshiba,Notebook,13.3,8,1.2,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1213.0,7.101675971619444,Mid (8GB),Mid (256GB),2.3,0,Ultralight
+Lenovo,Ultrabook,12.5,8,1.36,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,176.23,0,1,Windows,1584.0,7.368339686311381,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Asus,Gaming,17.3,32,3.8,Intel,2.7,Nvidia,SSD,512.0,1920.0,1080.0,127.34,0,1,Windows,2799.0,7.937374696163295,Ultra (32GB+),High (512GB),2.7,1,Heavy
+Acer,Gaming,15.6,8,2.4,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Linux,709.0,6.565264970035361,Mid (8GB),Ultra (1TB+),2.5,1,Standard
+Dell,Ultrabook,13.3,8,1.2,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1449.9,7.279939332521639,Mid (8GB),Mid (256GB),1.6,1,Ultralight
+MSI,Gaming,15.6,8,2.2,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1191.8,7.084058763450528,Mid (8GB),Ultra (1TB+),2.8,1,Standard
+HP,Notebook,15.6,4,1.86,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,No OS,364.9,5.902360072025161,Low (≤4GB),High (512GB),2.5,0,Light
+Toshiba,Notebook,15.6,8,2.0,Intel,2.5,Intel,HDD,500.0,1920.0,1080.0,141.21,0,1,Windows,1064.0,6.970730078143525,Mid (8GB),High (512GB),2.5,0,Standard
+Dell,Notebook,15.6,8,2.2,Intel,1.8,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,919.0,6.824373670043086,Mid (8GB),Mid (256GB),1.8,0,Standard
+Dell,Notebook,15.6,16,2.2,Intel,1.8,AMD,Hybrid,2304.0,1920.0,1080.0,141.21,0,0,Windows,1135.0,7.035268599281097,High (16GB),Ultra (1TB+),1.8,1,Standard
+Lenovo,Gaming,15.6,8,3.31,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1196.0,7.087573705557973,Mid (8GB),Ultra (1TB+),2.6,1,Heavy
+Dell,Gaming,17.3,32,4.42,Intel,2.8,Nvidia,Hybrid,1536.0,3840.0,2160.0,254.67,0,1,Windows,3147.37,8.054640137573424,Ultra (32GB+),Ultra (1TB+),2.8,1,Heavy
+Dell,Notebook,14.0,8,1.56,Intel,2.4,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1229.0,7.114769448366463,Mid (8GB),Mid (256GB),2.4,0,Light
+Lenovo,Notebook,15.6,4,2.2,Intel,1.1,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,419.0,6.040254711277414,Low (≤4GB),High (512GB),1.1,0,Standard
+Lenovo,Notebook,15.6,4,2.2,Intel,2.3,Intel,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,535.0,6.284134161070802,Low (≤4GB),High (512GB),2.3,0,Standard
+HP,Notebook,15.6,6,2.04,Intel,2.5,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,539.0,6.29156913955832,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+MSI,Gaming,17.3,8,2.7,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,1486.77,7.305033633553407,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Toshiba,Notebook,15.6,4,2.1,Intel,2.1,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,498.0,6.212606095751519,Low (≤4GB),Low (≤128GB),2.1,0,Standard
+Dell,Notebook,15.6,8,2.06,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,955.0,6.862757913051401,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+HP,Notebook,15.6,8,2.1,Intel,2.7,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,745.0,6.61472560020376,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Toshiba,Notebook,15.6,8,2.0,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1258.0,7.138073034044347,Mid (8GB),Mid (256GB),2.5,0,Standard
+Acer,Notebook,15.6,4,2.1,Intel,2.5,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Linux,412.0,6.023447592961033,Low (≤4GB),Low (≤128GB),2.5,0,Standard
+Microsoft,Ultrabook,13.5,8,1.252,Intel,2.8,Intel,SSD,256.0,2256.0,1504.0,200.84,1,0,Windows,1867.85,7.533078547412982,Mid (8GB),Mid (256GB),2.8,1,Ultralight
+Lenovo,Notebook,15.6,8,1.9,Intel,2.5,AMD,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,817.95,6.708023031928389,Mid (8GB),Ultra (1TB+),2.5,0,Light
+Lenovo,2 in 1 Convertible,13.3,8,1.3,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,1,1,Windows,1034.0,6.942156705699469,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Lenovo,Notebook,15.6,4,2.2,AMD,2.2,AMD,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,349.0,5.857933154483459,Low (≤4GB),Low (≤128GB),1.98,0,Standard
+HP,2 in 1 Convertible,14.0,4,1.63,Intel,2.4,Nvidia,SSD,128.0,1920.0,1080.0,157.35,1,1,Windows,699.0,6.551080335043404,Low (≤4GB),Low (≤128GB),2.4,0,Light
+MSI,Gaming,15.6,16,2.4,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,1294.0,7.166265974133638,High (16GB),Ultra (1TB+),2.8,1,Standard
+Asus,Ultrabook,14.0,8,1.1,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1135.0,7.035268599281097,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+HP,2 in 1 Convertible,11.6,8,1.4,Intel,1.1,Intel,SSD,64.0,1366.0,768.0,135.09,1,0,Chrome OS,495.0,6.206575926724928,Mid (8GB),Low (≤128GB),1.1,0,Ultralight
+LG,Ultrabook,15.6,8,1.09,Intel,1.8,Intel,SSD,512.0,1920.0,1080.0,141.21,0,1,Windows,2299.0,7.7406644019172415,Mid (8GB),High (512GB),1.8,1,Ultralight
+Acer,Gaming,15.6,16,2.5,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1299.0,7.170119543449628,High (16GB),Mid (256GB),2.5,1,Heavy
+MSI,Gaming,15.6,8,2.2,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,997.9,6.906654673538104,Mid (8GB),Mid (256GB),2.5,1,Standard
+Asus,Notebook,15.6,4,1.86,Intel,1.1,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,419.0,6.040254711277414,Low (≤4GB),Low (≤128GB),1.1,0,Light
+Dell,Gaming,15.6,16,3.21,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,2051.0,7.62657020629066,High (16GB),Ultra (1TB+),2.5,1,Heavy
+HP,Notebook,17.3,4,2.5,Intel,2.5,AMD,SSD,256.0,1920.0,1080.0,127.34,0,1,Windows,699.0,6.551080335043404,Low (≤4GB),Mid (256GB),2.5,0,Heavy
+Lenovo,2 in 1 Convertible,13.3,8,1.19,Intel,1.8,Intel,SSD,512.0,1920.0,1080.0,165.63,1,1,Windows,1499.0,7.313220387090301,Mid (8GB),High (512GB),1.8,1,Ultralight
+Dell,Gaming,15.6,16,3.49,Intel,2.9,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,2813.75,7.94262872668324,High (16GB),Ultra (1TB+),2.9,1,Heavy
+HP,Notebook,15.6,4,1.86,Intel,2.5,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,612.61,6.4193595471823075,Low (≤4GB),High (512GB),2.5,0,Light
+Dell,Notebook,15.6,4,2.2,Intel,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,545.67,6.30384532969252,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+HP,Notebook,17.3,6,2.65,AMD,2.4,AMD,HDD,2048.0,1920.0,1080.0,127.34,0,1,Windows,569.0,6.345636360828596,Mid (8GB),Ultra (1TB+),2.16,0,Heavy
+Lenovo,Notebook,15.6,4,2.1,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,318.0,5.765191102784844,Low (≤4GB),High (512GB),1.6,0,Standard
+Acer,Notebook,14.0,4,1.45,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,111.94,0,0,Chrome OS,375.0,5.929589143389895,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Lenovo,Notebook,14.0,4,1.7,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,699.0,6.551080335043404,Low (≤4GB),Mid (256GB),2.5,0,Light
+HP,Workstation,17.3,8,3.14,Intel,2.8,Nvidia,HDD,500.0,1920.0,1080.0,127.34,0,0,Windows,1907.99,7.554329585367344,Mid (8GB),High (512GB),2.8,1,Heavy
+Lenovo,2 in 1 Convertible,14.0,8,1.42,Intel,2.7,Intel,SSD,256.0,2560.0,1440.0,209.8,1,0,Windows,2590.0,7.85979918056211,Mid (8GB),Mid (256GB),2.7,0,Ultralight
+Toshiba,Notebook,13.3,8,1.5,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,973.0,6.881411303642535,Mid (8GB),Mid (256GB),2.5,0,Light
+Acer,Netbook,11.6,4,1.4,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,135.09,0,0,Windows,269.0,5.598421958998375,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Lenovo,2 in 1 Convertible,14.0,16,1.38,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,157.35,1,0,Windows,1749.0,7.4673710669175595,High (16GB),High (512GB),2.7,1,Ultralight
+Asus,2 in 1 Convertible,12.5,4,1.2,Intel,0.9,Intel,SSD,64.0,1920.0,1080.0,176.23,1,0,Chrome OS,669.0,6.507277712385012,Low (≤4GB),Low (≤128GB),0.9,0,Ultralight
+Toshiba,Ultrabook,13.3,16,1.36,Intel,2.5,Intel,SSD,512.0,1920.0,1080.0,165.63,1,0,Windows,1877.0,7.537962659768208,High (16GB),High (512GB),2.5,1,Ultralight
+HP,Notebook,15.6,4,2.1,Intel,2.7,AMD,HDD,500.0,1920.0,1080.0,141.21,0,1,Windows,689.0,6.536691597591305,Low (≤4GB),High (512GB),2.7,0,Standard
+Dell,Gaming,15.6,8,2.56,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,819.0,6.709304340258299,Mid (8GB),Ultra (1TB+),2.5,1,Heavy
+Lenovo,Notebook,15.6,4,2.2,AMD,2.9,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,399.0,5.991464547107982,Low (≤4GB),Mid (256GB),2.61,0,Standard
+Lenovo,Notebook,15.6,8,2.2,AMD,3.6,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,429.0,6.063785208687608,Mid (8GB),Ultra (1TB+),3.24,0,Standard
+Lenovo,Notebook,15.6,4,2.1,Intel,2.5,Intel,HDD,2048.0,1920.0,1080.0,141.21,0,0,Windows,621.45,6.433663303827795,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Lenovo,Notebook,15.6,4,1.9,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,No OS,450.0,6.111467339502679,Low (≤4GB),High (512GB),2.5,0,Light
+Dell,Notebook,15.6,8,2.18,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,795.0,6.679599185844383,Mid (8GB),Mid (256GB),2.5,0,Standard
+Acer,2 in 1 Convertible,13.3,8,1.6,Intel,1.6,Intel,SSD,256.0,1920.0,1080.0,165.63,1,1,Windows,999.0,6.907755278982137,Mid (8GB),Mid (256GB),1.6,0,Light
+Lenovo,Workstation,15.6,16,2.18,Intel,2.5,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,1855.0,7.526178913346146,High (16GB),High (512GB),2.5,1,Standard
+Lenovo,Notebook,14.0,8,1.8,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1191.0,7.083387847625295,Mid (8GB),Mid (256GB),2.3,0,Light
+HP,Notebook,17.3,6,2.71,AMD,2.5,AMD,HDD,2048.0,1920.0,1080.0,127.34,0,1,Windows,655.01,6.486176032730341,Mid (8GB),Ultra (1TB+),2.25,0,Heavy
+Lenovo,Gaming,15.6,8,2.5,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1249.0,7.1308988302963465,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Dell,Notebook,14.0,8,1.64,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,157.35,0,0,Linux,1089.0,6.993932975223189,Mid (8GB),Mid (256GB),2.8,0,Light
+Dell,Notebook,15.6,8,1.98,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Linux,726.0,6.588926477533519,Mid (8GB),Ultra (1TB+),2.5,0,Light
+Asus,Notebook,14.0,4,1.5,Intel,1.1,Intel,SSD,32.0,1920.0,1080.0,157.35,0,0,Windows,298.0,5.700443573390686,Low (≤4GB),Low (≤128GB),1.1,0,Light
+Dell,Notebook,15.6,16,1.93,Intel,2.6,Intel,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,1426.66,7.263792019312263,High (16GB),High (512GB),2.6,1,Light
+Lenovo,Notebook,14.0,8,1.87,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,857.07,6.754685681241666,Mid (8GB),Mid (256GB),2.5,0,Light
+Dell,Notebook,15.6,8,1.9,Intel,2.6,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1179.0,7.07326971745971,Mid (8GB),Mid (256GB),2.6,0,Light
+Lenovo,Notebook,15.6,4,2.19,AMD,2.5,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,298.0,5.700443573390686,Low (≤4GB),High (512GB),2.25,0,Standard
+Mediacom,Notebook,14.0,4,1.4,Intel,1.92,Intel,HDD,32.0,1920.0,1200.0,161.73,0,1,Windows,265.0,5.583496308781699,Low (≤4GB),Low (≤128GB),1.92,0,Ultralight
+HP,Notebook,17.3,8,2.63,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,0,Windows,1200.0,7.0909098220799835,Mid (8GB),Mid (256GB),2.7,0,Heavy
+Lenovo,Ultrabook,14.0,8,1.17,Intel,2.5,Intel,SSD,512.0,2560.0,1440.0,209.8,0,1,Windows,1686.64,7.431086382268411,Mid (8GB),High (512GB),2.5,1,Ultralight
+HP,2 in 1 Convertible,13.3,8,1.58,Intel,2.5,Intel,SSD,256.0,1366.0,768.0,117.83,1,1,Windows,836.6,6.730540659556327,Mid (8GB),Mid (256GB),2.5,0,Light
+Lenovo,Ultrabook,14.0,8,1.32,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1499.0,7.313220387090301,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Dell,Gaming,17.3,32,4.36,Intel,2.8,Nvidia,Hybrid,2048.0,3840.0,2160.0,254.67,0,0,Windows,3659.4,8.205327710041223,Ultra (32GB+),Ultra (1TB+),2.8,1,Heavy
+MSI,Gaming,17.3,8,2.7,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,1348.48,7.207474612044422,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,15.6,4,1.9,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,No OS,489.9,6.196240441064007,Low (≤4GB),Ultra (1TB+),2.5,0,Light
+Dell,Notebook,15.6,8,2.2,Intel,1.6,AMD,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,719.0,6.579251212010101,Mid (8GB),Ultra (1TB+),1.6,0,Standard
+Dell,2 in 1 Convertible,13.3,4,1.71,Intel,2.4,Intel,HDD,1024.0,1920.0,1080.0,165.63,1,0,Windows,649.0,6.476972362889683,Low (≤4GB),Ultra (1TB+),2.4,0,Light
+Dell,Notebook,15.6,8,2.32,Intel,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,589.52,6.3810035046658875,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+HP,Notebook,15.6,4,2.1,AMD,2.5,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,489.0,6.194405391104672,Low (≤4GB),Ultra (1TB+),2.25,0,Standard
+Acer,Gaming,17.3,16,4.2,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,1,Windows,1935.0,7.568379267836522,High (16GB),Ultra (1TB+),2.6,1,Heavy
+Dell,Notebook,15.6,12,2.25,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,649.0,6.476972362889683,High (16GB),Ultra (1TB+),2.5,0,Standard
+HP,Notebook,15.6,6,2.1,AMD,2.5,AMD,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,650.0,6.478509642208569,Mid (8GB),Ultra (1TB+),2.25,0,Standard
+Acer,Notebook,15.6,4,2.4,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,559.0,6.327936783729195,Low (≤4GB),High (512GB),2.5,0,Standard
+Lenovo,Notebook,13.3,8,1.44,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,960.0,6.8679744089702925,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Lenovo,Notebook,15.6,4,1.85,Intel,2.7,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,779.0,6.659293919683638,Low (≤4GB),Ultra (1TB+),2.7,0,Light
+HP,Workstation,15.6,16,2.6,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,2419.0,7.791522819150732,High (16GB),Mid (256GB),2.8,1,Heavy
+Dell,2 in 1 Convertible,13.3,8,1.55,Intel,1.6,Intel,HDD,1024.0,1920.0,1080.0,165.63,1,0,Windows,659.0,6.492239835020471,Mid (8GB),Ultra (1TB+),1.6,0,Light
+MSI,Gaming,15.6,16,1.8,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,2094.48,7.647537923058067,High (16GB),Ultra (1TB+),2.8,1,Light
+Acer,Notebook,15.6,4,2.4,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,410.8,6.0205377945936895,Low (≤4GB),High (512GB),2.5,0,Standard
+Dell,Notebook,15.6,8,2.0,Intel,2.7,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1207.0,7.0967213784947605,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Dell,Notebook,15.6,8,2.0,Intel,2.5,Intel,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,665.0,6.501289670540389,Mid (8GB),Mid (256GB),2.5,0,Standard
+Toshiba,Notebook,14.0,8,1.25,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,1,1,Windows,1535.0,7.336936913707618,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Lenovo,2 in 1 Convertible,14.0,8,1.7,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,1,0,Windows,999.0,6.907755278982137,Mid (8GB),Mid (256GB),2.5,0,Light
+Lenovo,Workstation,15.6,16,2.5,Intel,2.8,Nvidia,SSD,1024.0,3840.0,2160.0,282.42,0,1,Windows,3299.0,8.101677747454572,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Acer,Notebook,14.0,2,1.68,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,111.94,0,0,Chrome OS,330.0,5.802118375377063,Low (≤4GB),Low (≤128GB),1.6,0,Light
+Samsung,Ultrabook,13.3,16,0.81,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1649.0,7.408530566894626,High (16GB),Mid (256GB),2.7,1,Ultralight
+HP,Notebook,15.6,8,1.86,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,539.0,6.29156913955832,Mid (8GB),Mid (256GB),2.5,0,Light
+Dell,Notebook,14.0,8,1.6,Intel,2.5,Intel,SSD,256.0,1366.0,768.0,111.94,0,0,Windows,1126.71,7.027944306805558,Mid (8GB),Mid (256GB),2.5,0,Light
+HP,Workstation,17.3,16,3.0,Intel,2.9,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,1,Windows,4389.0,8.387084506069217,High (16GB),Mid (256GB),2.9,1,Heavy
+Lenovo,Netbook,11.6,4,1.4,Intel,1.6,Intel,SSD,128.0,1366.0,768.0,135.09,1,0,Windows,475.0,6.16541785423142,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+HP,Notebook,15.6,8,1.84,Intel,2.4,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1900.0,7.550135342488429,Mid (8GB),Mid (256GB),2.4,0,Light
+Asus,Notebook,15.6,4,2.45,Intel,2.3,Nvidia,HDD,1024.0,1366.0,768.0,100.45,0,0,No OS,579.0,6.363028103540465,Low (≤4GB),Ultra (1TB+),2.3,0,Standard
+Lenovo,Ultrabook,14.0,4,1.7,Intel,2.3,Intel,SSD,180.0,1920.0,1080.0,157.35,0,0,Windows,1096.0,7.00033446027523,Low (≤4GB),Mid (256GB),2.3,1,Light
+Asus,Notebook,15.6,4,2.37,Intel,2.7,Intel,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,849.9,6.746294612855512,Low (≤4GB),Mid (256GB),2.7,0,Standard
+Lenovo,2 in 1 Convertible,13.3,8,1.3,Intel,1.8,Intel,SSD,256.0,3200.0,1800.0,276.05,1,1,Windows,1199.0,7.090076835776092,Mid (8GB),Mid (256GB),1.8,0,Ultralight
+HP,Notebook,15.6,8,2.2,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1099.0,7.003065458786462,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+HP,Workstation,15.6,8,2.59,Intel,2.6,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1561.0,7.3537223303996315,Mid (8GB),Mid (256GB),2.6,1,Heavy
+Dell,Gaming,15.6,16,4.42,Intel,2.8,Nvidia,Hybrid,1280.0,3840.0,2160.0,282.42,0,1,Windows,2868.99,7.962063824427039,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Acer,Notebook,15.6,4,2.1,Intel,2.5,Intel,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,599.0,6.396929655216146,Low (≤4GB),Mid (256GB),2.5,0,Standard
+Lenovo,Gaming,15.6,8,2.5,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1048.0,6.955592608396297,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Dell,Ultrabook,12.5,16,1.18,Intel,2.8,Intel,SSD,256.0,1920.0,1080.0,176.23,0,0,Windows,1859.0,7.528331766707247,High (16GB),Mid (256GB),2.8,1,Ultralight
+Google,Ultrabook,12.3,8,1.1,Intel,1.2,Intel,SSD,256.0,2400.0,1600.0,234.51,1,0,Chrome OS,1559.0,7.352441100243583,Mid (8GB),Mid (256GB),1.2,1,Ultralight
+Asus,Ultrabook,13.3,8,1.2,Intel,2.5,Intel,SSD,256.0,3200.0,1800.0,276.05,0,1,Windows,1129.0,7.029972911706386,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Dell,Notebook,13.3,4,1.65,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,117.83,0,0,Windows,849.0,6.745236349484362,Low (≤4GB),High (512GB),2.5,0,Light
+Acer,Notebook,13.3,4,1.6,Intel,2.3,Intel,SSD,128.0,1366.0,768.0,117.83,0,0,Windows,655.0,6.486160788944089,Low (≤4GB),Low (≤128GB),2.3,0,Light
+Asus,Notebook,17.3,4,2.8,Intel,1.1,Nvidia,HDD,1024.0,1366.0,768.0,90.58,0,0,Windows,470.34,6.155579701959949,Low (≤4GB),Ultra (1TB+),1.1,0,Heavy
+Dell,Gaming,15.6,16,2.72,Intel,2.6,Nvidia,Hybrid,1152.0,3840.0,2160.0,282.42,1,1,Windows,1099.0,7.003065458786462,High (16GB),Ultra (1TB+),2.6,1,Heavy
+Samsung,Ultrabook,13.3,8,1.31,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,1599.0,7.3777589082278725,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Acer,Notebook,15.6,4,2.1,Intel,1.1,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,298.0,5.700443573390686,Low (≤4GB),Ultra (1TB+),1.1,0,Standard
+Dell,Notebook,15.6,16,2.3,Intel,2.7,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1181.27,7.075191598276645,High (16GB),Mid (256GB),2.7,1,Standard
+Samsung,2 in 1 Convertible,15.0,16,1.71,Intel,2.7,AMD,SSD,256.0,1920.0,1080.0,146.86,1,0,Windows,1799.0,7.495541943884256,High (16GB),Mid (256GB),2.7,1,Light
+Toshiba,Notebook,14.0,4,1.75,Intel,2.3,Intel,SSD,128.0,1366.0,768.0,111.94,0,1,Windows,1020.0,6.928537818164665,Low (≤4GB),Low (≤128GB),2.3,0,Light
+Dell,Gaming,15.6,8,2.62,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,1099.0,7.003065458786462,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+HP,Ultrabook,12.5,4,1.26,Intel,2.3,Intel,SSD,256.0,1366.0,768.0,125.37,0,0,Windows,1244.0,7.126890808898808,Low (≤4GB),Mid (256GB),2.3,1,Ultralight
+Asus,2 in 1 Convertible,15.6,12,2.3,Intel,2.7,Nvidia,HDD,2048.0,1920.0,1080.0,141.21,1,0,Windows,839.0,6.733401891837359,High (16GB),Ultra (1TB+),2.7,0,Standard
+Lenovo,Notebook,15.6,16,2.5,Intel,2.7,Nvidia,SSD,512.0,3840.0,2160.0,282.42,0,0,Windows,2370.0,7.771067086065406,High (16GB),High (512GB),2.7,1,Heavy
+Acer,Notebook,14.0,4,1.8,Intel,2.4,Intel,SSD,128.0,1920.0,1080.0,157.35,0,1,Windows,636.0,6.456769655572163,Low (≤4GB),Low (≤128GB),2.4,0,Light
+Razer,Gaming,14.0,16,1.95,Intel,2.8,Nvidia,SSD,512.0,1920.0,1080.0,157.35,0,0,Windows,2899.0,7.9724660159745655,High (16GB),High (512GB),2.8,1,Light
+Asus,Notebook,15.6,8,2.0,Intel,1.1,Intel,SSD,128.0,1920.0,1080.0,141.21,0,0,Windows,581.9,6.368015645051504,Mid (8GB),Low (≤128GB),1.1,0,Standard
+Dell,Gaming,17.3,32,4.42,Intel,2.8,Nvidia,Hybrid,2048.0,1920.0,1080.0,127.34,0,1,Windows,3588.8,8.18585176962404,Ultra (32GB+),Ultra (1TB+),2.8,1,Heavy
+Asus,Gaming,17.3,16,4.3,Intel,2.6,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,1,Windows,2350.0,7.762596048540069,High (16GB),Ultra (1TB+),2.6,1,Heavy
+Toshiba,Ultrabook,14.0,16,1.47,Intel,2.6,Nvidia,SSD,512.0,1920.0,1080.0,157.35,0,1,Windows,1764.0,7.475905969367397,High (16GB),High (512GB),2.6,1,Ultralight
+Lenovo,Notebook,15.6,8,2.2,Intel,1.6,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,No OS,329.0,5.799092654460526,Mid (8GB),Ultra (1TB+),1.6,0,Standard
+Lenovo,Ultrabook,14.0,16,1.7,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,157.35,0,0,Windows,2299.0,7.7406644019172415,High (16GB),High (512GB),2.7,1,Light
+MSI,Gaming,14.0,16,1.6,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,157.35,0,1,Windows,1891.0,7.545389749611823,High (16GB),Ultra (1TB+),2.8,1,Light
+MSI,Gaming,15.6,8,2.2,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1089.0,6.993932975223189,Mid (8GB),Ultra (1TB+),2.5,1,Standard
+Lenovo,Gaming,15.6,4,2.4,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,999.0,6.907755278982137,Low (≤4GB),Ultra (1TB+),2.8,1,Standard
+Acer,Gaming,17.3,16,4.2,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,1,Windows,2299.0,7.7406644019172415,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Dell,Gaming,15.6,8,2.62,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,985.0,6.893656354602635,Mid (8GB),Mid (256GB),2.5,1,Heavy
+Asus,Gaming,15.6,8,2.24,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1339.0,7.200424892944957,Mid (8GB),Ultra (1TB+),2.8,1,Standard
+Vero,Notebook,14.0,4,1.22,Intel,1.1,Intel,SSD,32.0,1920.0,1080.0,157.35,0,0,Windows,202.9,5.31762967758041,Low (≤4GB),Low (≤128GB),1.1,0,Ultralight
+Lenovo,2 in 1 Convertible,13.3,8,1.37,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,165.63,1,1,Windows,1970.0,7.58629630715272,Mid (8GB),High (512GB),2.7,1,Ultralight
+Lenovo,2 in 1 Convertible,15.6,8,2.08,Intel,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,1,0,Windows,959.0,6.866933284461882,Mid (8GB),Mid (256GB),2.5,0,Standard
+Apple,Ultrabook,12.0,8,0.92,Intel,1.2,Intel,SSD,512.0,2304.0,1440.0,226.42,0,1,macOS,1165.0,7.061334366910438,Mid (8GB),High (512GB),1.2,1,Ultralight
+Lenovo,2 in 1 Convertible,14.0,8,1.42,Intel,2.5,Intel,SSD,256.0,2560.0,1440.0,209.8,1,1,Windows,2330.0,7.754052639035757,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Asus,Notebook,14.0,4,1.63,Intel,1.1,Intel,SSD,32.0,1366.0,768.0,111.94,0,0,Windows,299.0,5.703782474656201,Low (≤4GB),Low (≤128GB),1.1,0,Light
+Dell,Notebook,15.6,8,1.95,Intel,2.5,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,810.0,6.698268054115413,Mid (8GB),Low (≤128GB),2.5,0,Light
+Lenovo,2 in 1 Convertible,13.9,8,1.38,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,158.48,1,1,Windows,1349.0,7.2078598714324755,Mid (8GB),Mid (256GB),2.7,0,Ultralight
+Dell,Notebook,15.6,8,2.0,Intel,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,739.0,6.606650186198215,Mid (8GB),Mid (256GB),2.5,0,Standard
+HP,Workstation,15.6,8,3.14,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,2064.9,7.633321245797583,Mid (8GB),Mid (256GB),2.8,1,Heavy
+Asus,Notebook,15.6,8,2.37,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1099.0,7.003065458786462,Mid (8GB),Mid (256GB),2.5,0,Standard
+Dell,Ultrabook,13.3,8,1.29,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1499.0,7.313220387090301,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Dell,Notebook,15.6,8,2.06,Intel,2.5,Nvidia,SSD,256.0,3840.0,2160.0,282.42,1,0,Windows,1749.0,7.4673710669175595,Mid (8GB),Mid (256GB),2.5,0,Standard
+Dell,Netbook,11.6,4,1.63,Intel,1.1,Intel,SSD,128.0,1366.0,768.0,135.09,0,0,Windows,744.0,6.61338421837956,Low (≤4GB),Low (≤128GB),1.1,0,Light
+HP,Netbook,12.5,8,1.26,Intel,2.6,Intel,SSD,256.0,1366.0,768.0,125.37,0,0,Windows,1389.0,7.237059026124737,Mid (8GB),Mid (256GB),2.6,0,Ultralight
+Toshiba,Notebook,15.6,4,2.1,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,780.0,6.660575149839686,Low (≤4GB),High (512GB),2.3,0,Standard
+HP,Notebook,15.6,8,2.04,AMD,2.5,AMD,HDD,2048.0,1366.0,768.0,100.45,0,0,Windows,629.0,6.4457198193855785,Mid (8GB),Ultra (1TB+),2.25,0,Standard
+Dell,Gaming,15.6,16,2.62,Intel,2.8,Nvidia,SSD,512.0,3840.0,2160.0,282.42,0,0,Windows,1679.0,7.426549072397305,High (16GB),High (512GB),2.8,1,Heavy
+Lenovo,Notebook,15.6,4,2.4,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,609.0,6.413458957167357,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+HP,Gaming,17.3,12,3.74,Intel,2.8,AMD,HDD,1024.0,1920.0,1080.0,127.34,0,1,Windows,1749.0,7.4673710669175595,High (16GB),Ultra (1TB+),2.8,1,Heavy
+MSI,Gaming,17.3,16,2.9,Intel,2.8,Nvidia,Hybrid,1536.0,1920.0,1080.0,127.34,0,0,Windows,2415.0,7.789868559054706,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Samsung,Ultrabook,13.3,8,0.81,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1499.0,7.313220387090301,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Dell,Notebook,15.6,8,1.98,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,961.0,6.8690144506657065,Mid (8GB),Ultra (1TB+),2.7,0,Light
+Dell,Notebook,15.6,8,2.18,Intel,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,789.81,6.673057736638866,Mid (8GB),Mid (256GB),2.5,0,Standard
+Lenovo,Ultrabook,14.0,8,1.32,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1859.0,7.528331766707247,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Razer,Ultrabook,12.5,16,1.29,Intel,2.5,Intel,SSD,512.0,3840.0,2160.0,352.47,1,1,Windows,1799.0,7.495541943884256,High (16GB),High (512GB),2.5,1,Ultralight
+HP,Netbook,11.6,4,1.23,Intel,1.6,Intel,SSD,16.0,1366.0,768.0,135.09,0,0,Chrome OS,385.0,5.955837369464831,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Dell,Gaming,17.3,16,4.36,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,1,Windows,2505.02,7.826451116270136,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Dell,Notebook,14.0,4,1.76,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,111.94,0,0,Windows,755.0,6.628041376179533,Low (≤4GB),High (512GB),2.3,0,Light
+Lenovo,Notebook,15.6,4,2.1,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,489.9,6.196240441064007,Low (≤4GB),High (512GB),2.5,0,Standard
+Toshiba,Ultrabook,14.0,4,1.25,Intel,2.5,Intel,SSD,128.0,1366.0,768.0,111.94,0,0,Windows,1090.0,6.994849985833071,Low (≤4GB),Low (≤128GB),2.5,1,Ultralight
+Lenovo,Ultrabook,14.0,8,1.13,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,157.35,0,1,Windows,2499.0,7.824046010856292,Mid (8GB),High (512GB),2.7,1,Ultralight
+MSI,Gaming,15.6,8,2.4,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1199.0,7.090076835776092,Mid (8GB),Mid (256GB),2.5,1,Standard
+Lenovo,Ultrabook,14.0,8,1.13,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1875.0,7.53689712956617,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Toshiba,Notebook,14.0,4,1.75,Intel,2.1,Intel,SSD,128.0,1366.0,768.0,111.94,0,0,Windows,499.0,6.214608098422191,Low (≤4GB),Low (≤128GB),2.1,0,Light
+Asus,2 in 1 Convertible,13.3,8,1.1,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,1358.0,7.214504414151143,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Dell,Notebook,14.0,4,1.76,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,111.94,0,0,Windows,585.0,6.373319789577012,Low (≤4GB),High (512GB),2.5,0,Light
+Acer,Netbook,11.6,4,1.35,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,135.09,0,1,Chrome OS,355.0,5.87493073085203,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Acer,Notebook,14.0,8,1.5,Intel,2.4,Intel,SSD,128.0,1920.0,1080.0,157.35,0,1,Windows,619.0,6.429719478039138,Mid (8GB),Low (≤128GB),2.4,0,Light
+Razer,Gaming,17.3,32,3.49,Intel,2.9,Nvidia,SSD,512.0,3840.0,2160.0,254.67,1,0,Windows,5499.0,8.612503371220562,Ultra (32GB+),High (512GB),2.9,1,Heavy
+Lenovo,Ultrabook,14.0,16,1.1,Intel,2.6,Intel,SSD,512.0,2560.0,1440.0,209.8,0,1,Windows,2099.0,7.649692623711514,High (16GB),High (512GB),2.6,1,Ultralight
+Asus,Notebook,15.6,4,2.1,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Linux,519.0,6.253828811575473,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Lenovo,Notebook,14.0,8,1.7,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1186.0,7.079184394609668,Mid (8GB),Mid (256GB),2.3,0,Light
+Lenovo,Notebook,14.0,8,1.32,Intel,2.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1650.0,7.409136443920128,Mid (8GB),Mid (256GB),2.6,0,Ultralight
+Dell,Gaming,15.6,16,3.21,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,2774.63,7.928633027440826,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Asus,Gaming,17.3,16,2.9,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,2419.0,7.791522819150732,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Toshiba,Notebook,15.6,4,2.0,Intel,2.4,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,669.0,6.507277712385012,Low (≤4GB),High (512GB),2.4,0,Standard
+Lenovo,Notebook,14.0,4,1.5,Intel,1.6,Intel,SSD,16.0,1366.0,768.0,111.94,0,0,Chrome OS,325.0,5.786897381366708,Low (≤4GB),Low (≤128GB),1.6,0,Light
+Asus,Notebook,15.6,8,2.3,Intel,2.5,Intel,HDD,128.0,1920.0,1080.0,141.21,0,0,Windows,590.0,6.3818160174060985,Mid (8GB),Low (≤128GB),2.5,0,Standard
+Asus,Gaming,17.3,16,2.73,Intel,2.6,Nvidia,Hybrid,1536.0,1920.0,1080.0,127.34,0,0,Windows,1799.0,7.495541943884256,High (16GB),Ultra (1TB+),2.6,1,Heavy
+Dell,Gaming,17.3,32,4.42,Intel,2.8,Nvidia,Hybrid,1536.0,1920.0,1080.0,127.34,0,1,Windows,3072.89,8.030699139463483,Ultra (32GB+),Ultra (1TB+),2.8,1,Heavy
+HP,Notebook,17.3,8,2.63,Intel,2.5,Nvidia,HDD,1024.0,1600.0,900.0,106.11,0,0,Windows,910.0,6.814542897259958,Mid (8GB),Ultra (1TB+),2.5,0,Heavy
+Dell,Notebook,15.6,8,2.18,Intel,2.5,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,713.99,6.572268556582216,Mid (8GB),Low (≤128GB),2.5,0,Standard
+HP,Ultrabook,14.0,8,1.54,Intel,2.5,Intel,SSD,512.0,1920.0,1080.0,157.35,0,0,Windows,1870.0,7.534228326274089,Mid (8GB),High (512GB),2.5,1,Light
+Dell,Notebook,15.6,4,2.18,Intel,2.7,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,739.0,6.606650186198215,Low (≤4GB),Mid (256GB),2.7,0,Standard
+HP,2 in 1 Convertible,11.6,4,1.4,Intel,1.1,Intel,SSD,32.0,1366.0,768.0,135.09,1,0,Chrome OS,615.0,6.423246963533519,Low (≤4GB),Low (≤128GB),1.1,0,Ultralight
+Asus,Ultrabook,13.3,8,1.45,Intel,2.3,Nvidia,SSD,512.0,1920.0,1080.0,165.63,0,1,Windows,1026.0,6.934397209928558,Mid (8GB),High (512GB),2.3,1,Ultralight
+HP,2 in 1 Convertible,13.3,8,1.28,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,2277.0,7.731053144007127,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+HP,Ultrabook,14.0,8,1.54,Intel,2.5,Intel,SSD,512.0,1920.0,1080.0,157.35,0,0,Windows,1468.0,7.292337176173877,Mid (8GB),High (512GB),2.5,1,Light
+HP,Notebook,15.6,4,1.86,Intel,1.6,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,No OS,299.0,5.703782474656201,Low (≤4GB),Low (≤128GB),1.6,0,Light
+Asus,Gaming,15.6,16,2.1,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1899.0,7.549609165154532,High (16GB),Ultra (1TB+),2.8,1,Standard
+Dell,Notebook,17.3,8,2.83,Intel,2.7,AMD,HDD,1024.0,1920.0,1080.0,127.34,0,0,Linux,865.0,6.763884908562435,Mid (8GB),Ultra (1TB+),2.7,0,Heavy
+Lenovo,Ultrabook,14.0,8,1.96,Intel,2.8,Nvidia,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1903.0,7.55171221535131,Mid (8GB),Mid (256GB),2.8,1,Light
+Asus,Notebook,15.6,8,2.3,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,787.0,6.669498089857879,Mid (8GB),Mid (256GB),2.7,0,Standard
+Dell,Notebook,15.6,8,1.9,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,141.21,0,0,Windows,945.0,6.852242569051878,Mid (8GB),Low (≤128GB),2.5,0,Light
+Asus,Notebook,15.6,4,2.0,Intel,1.1,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,449.0,6.1092475827643655,Low (≤4GB),Ultra (1TB+),1.1,0,Standard
+HP,2 in 1 Convertible,13.3,8,1.28,Intel,2.8,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,2559.0,7.847762537473608,Mid (8GB),Mid (256GB),2.8,0,Ultralight
+Dell,Notebook,13.3,8,1.62,Intel,2.3,Intel,HDD,1024.0,1920.0,1080.0,165.63,1,0,Windows,649.0,6.476972362889683,Mid (8GB),Ultra (1TB+),2.3,0,Light
+Lenovo,Notebook,15.6,4,2.2,Intel,2.0,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,No OS,469.0,6.152732694704104,Low (≤4GB),Ultra (1TB+),2.0,0,Standard
+Lenovo,Notebook,15.6,8,2.3,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,850.66,6.747187386150408,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+HP,Notebook,15.6,8,1.84,Intel,2.6,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1349.0,7.2078598714324755,Mid (8GB),Mid (256GB),2.6,0,Light
+Toshiba,Notebook,13.3,4,1.05,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,165.63,0,0,Windows,1285.0,7.1592919047975645,Low (≤4GB),Low (≤128GB),2.5,0,Ultralight
+Lenovo,Gaming,15.6,8,2.5,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,No OS,1017.0,6.925595197110468,Mid (8GB),Ultra (1TB+),2.5,1,Heavy
+Dell,Ultrabook,13.3,16,1.29,Intel,2.5,Intel,SSD,512.0,3200.0,1800.0,276.05,1,0,Windows,2240.0,7.714677473800927,High (16GB),High (512GB),2.5,1,Ultralight
+HP,Notebook,15.6,4,2.07,Intel,2.3,Intel,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,910.0,6.814542897259958,Low (≤4GB),High (512GB),2.3,0,Standard
+Toshiba,Ultrabook,13.3,8,1.2,Intel,2.3,Intel,SSD,256.0,1366.0,768.0,117.83,0,0,Windows,1095.0,6.999422467507961,Mid (8GB),Mid (256GB),2.3,1,Ultralight
+Lenovo,2 in 1 Convertible,13.3,8,1.37,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,165.63,1,1,Windows,1950.0,7.576097340623111,Mid (8GB),Mid (256GB),2.7,0,Ultralight
+Acer,Notebook,14.0,8,1.56,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,902.0,6.805722553416985,Mid (8GB),Mid (256GB),2.5,0,Light
+Dell,Workstation,15.6,8,2.23,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,1778.0,7.483806687665835,Mid (8GB),Ultra (1TB+),2.8,1,Standard
+Lenovo,Notebook,15.6,4,2.38,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,1055.0,6.962243464266207,Low (≤4GB),High (512GB),2.5,0,Standard
+Lenovo,Notebook,15.6,4,2.2,Intel,2.5,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,No OS,479.0,6.173786103901937,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Toshiba,Notebook,15.6,8,2.0,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1388.0,7.236339342754344,Mid (8GB),Mid (256GB),2.7,0,Standard
+Lenovo,Notebook,13.3,4,1.44,Intel,2.4,Intel,SSD,180.0,1920.0,1080.0,165.63,0,1,Windows,735.0,6.601230118728877,Low (≤4GB),Mid (256GB),2.4,0,Ultralight
+Samsung,Ultrabook,15.0,16,1.23,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,146.86,0,0,Windows,1849.0,7.52294091807237,High (16GB),Mid (256GB),2.7,1,Ultralight
+Dell,Ultrabook,12.5,8,1.6,Intel,2.8,Intel,SSD,256.0,1920.0,1080.0,176.23,0,0,Windows,1690.0,7.43307534889858,Mid (8GB),Mid (256GB),2.8,1,Light
+Asus,Notebook,15.6,4,2.0,Intel,1.1,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,398.99,5.991439546795477,Low (≤4GB),Ultra (1TB+),1.1,0,Standard
+Xiaomi,Ultrabook,13.3,8,1.28,Intel,2.3,Nvidia,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,935.0,6.8416154764775925,Mid (8GB),Mid (256GB),2.3,1,Ultralight
+Dell,Notebook,15.6,4,2.18,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,912.5,6.817283375818062,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+HP,Notebook,15.6,4,2.04,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,839.0,6.733401891837359,Low (≤4GB),Mid (256GB),2.5,0,Standard
+HP,2 in 1 Convertible,13.3,4,1.28,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,1700.0,7.438971592395862,Low (≤4GB),Mid (256GB),2.5,0,Ultralight
+HP,2 in 1 Convertible,15.6,4,2.3,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,1,0,Windows,684.8,6.53058604002882,Low (≤4GB),High (512GB),2.5,0,Standard
+Asus,Notebook,14.1,4,1.65,Intel,1.1,Intel,SSD,32.0,1366.0,768.0,111.14,0,0,Windows,348.0,5.855071922202427,Low (≤4GB),Low (≤128GB),1.1,0,Light
+Lenovo,Notebook,15.6,8,2.2,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,669.0,6.507277712385012,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Dell,Notebook,15.6,4,2.2,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,369.0,5.91350300563827,Low (≤4GB),High (512GB),1.6,0,Standard
+HP,2 in 1 Convertible,13.3,4,1.28,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,1799.0,7.495541943884256,Low (≤4GB),Mid (256GB),2.5,0,Ultralight
+Dell,Notebook,15.6,4,2.18,Intel,2.0,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,455.7,6.124026720190953,Low (≤4GB),Ultra (1TB+),2.0,0,Standard
+Asus,Gaming,17.3,12,2.2,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,1369.9,7.223222737441855,High (16GB),Ultra (1TB+),2.5,1,Standard
+Acer,Netbook,11.6,4,1.25,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,135.09,0,1,Chrome OS,297.0,5.697093486505405,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Lenovo,Notebook,17.3,4,2.8,AMD,2.2,AMD,HDD,500.0,1600.0,900.0,106.11,0,0,Windows,379.0,5.940171252720432,Low (≤4GB),High (512GB),1.98,0,Heavy
+HP,Notebook,14.0,4,1.95,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,157.35,0,0,Windows,1265.0,7.143617602704121,Low (≤4GB),Low (≤128GB),2.5,0,Light
+HP,2 in 1 Convertible,13.3,16,1.42,Intel,2.7,Intel,SSD,256.0,3200.0,1800.0,276.05,1,0,Windows,1399.0,7.24422751560335,High (16GB),Mid (256GB),2.7,1,Ultralight
+Samsung,Ultrabook,15.0,8,1.17,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,146.86,0,0,Windows,1699.0,7.438383530044307,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Lenovo,Ultrabook,14.0,8,1.32,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1799.0,7.495541943884256,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+MSI,Gaming,17.3,16,2.43,Intel,2.6,Nvidia,Hybrid,2560.0,3840.0,2160.0,254.67,0,1,Windows,2649.0,7.882314918980268,High (16GB),Ultra (1TB+),2.6,1,Standard
+Toshiba,Notebook,13.3,8,1.05,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1475.0,7.297091005160418,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Dell,Gaming,15.6,8,2.62,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Linux,929.0,6.835184586147301,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+HP,Notebook,15.6,8,2.04,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,900.0,6.803505257608338,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Dell,Notebook,15.6,4,2.18,Intel,2.0,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,614.0,6.421622267806518,Low (≤4GB),Ultra (1TB+),2.0,0,Standard
+Dell,Notebook,15.6,8,1.9,Intel,2.6,Intel,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,935.0,6.8416154764775925,Mid (8GB),High (512GB),2.6,0,Light
+Dell,2 in 1 Convertible,13.3,8,1.24,Intel,1.3,Intel,SSD,512.0,3200.0,1800.0,276.05,1,0,Windows,2013.1,7.607927724478835,Mid (8GB),High (512GB),1.3,1,Ultralight
+Asus,Gaming,17.3,32,3.58,Intel,2.7,Nvidia,SSD,512.0,1920.0,1080.0,127.34,0,1,Windows,1279.0,7.154615356913663,Ultra (32GB+),High (512GB),2.7,1,Heavy
+Dell,2 in 1 Convertible,13.3,16,1.22,Intel,1.3,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,1649.0,7.408530566894626,High (16GB),Mid (256GB),1.3,1,Ultralight
+Lenovo,Ultrabook,14.0,8,1.13,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,2049.0,7.6255950721324535,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Lenovo,Notebook,15.6,8,1.95,Intel,2.5,Intel,SSD,512.0,1920.0,1080.0,141.21,0,1,Windows,1962.99,7.582733397251754,Mid (8GB),High (512GB),2.5,1,Light
+LG,Ultrabook,15.6,16,1.08,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,141.21,1,1,Windows,2099.0,7.649692623711514,High (16GB),High (512GB),2.7,1,Ultralight
+HP,Netbook,12.5,8,1.26,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,176.23,0,0,Windows,1483.0,7.302496423727326,Mid (8GB),High (512GB),2.7,1,Ultralight
+Acer,Notebook,15.6,4,2.2,Intel,1.5,Intel,SSD,16.0,1920.0,1080.0,141.21,0,1,Chrome OS,359.0,5.886104031450156,Low (≤4GB),Low (≤128GB),1.5,0,Standard
+Lenovo,Notebook,15.6,8,2.6,Intel,2.3,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,789.0,6.672032945461067,Mid (8GB),Ultra (1TB+),2.3,0,Heavy
+LG,Ultrabook,14.0,8,0.98,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,157.35,1,1,Windows,1899.0,7.549609165154532,Mid (8GB),High (512GB),2.7,1,Ultralight
+Dell,Notebook,14.0,8,1.6,Intel,2.8,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1205.0,7.095064377287131,Mid (8GB),Mid (256GB),2.8,0,Light
+HP,Ultrabook,12.5,8,1.09,Intel,1.2,Intel,SSD,240.0,3840.0,2160.0,352.47,1,0,Windows,3100.0,8.03947991910045,Mid (8GB),Mid (256GB),1.2,1,Ultralight
+Lenovo,Notebook,15.6,6,2.2,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,789.0,6.672032945461067,Mid (8GB),Mid (256GB),2.7,0,Standard
+HP,Notebook,15.6,8,2.04,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1018.99,6.927548102308689,Mid (8GB),Mid (256GB),2.7,0,Standard
+Acer,Notebook,15.6,4,2.4,Intel,2.4,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,499.0,6.214608098422191,Low (≤4GB),Ultra (1TB+),2.4,0,Standard
+Lenovo,Notebook,13.3,4,1.44,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,165.63,0,0,Windows,881.0,6.782192056006791,Low (≤4GB),Low (≤128GB),2.5,0,Ultralight
+HP,Notebook,13.3,8,1.49,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,960.0,6.8679744089702925,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+MSI,Gaming,17.3,16,2.7,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1599.0,7.3777589082278725,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Dell,Gaming,15.6,16,2.6,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1349.0,7.2078598714324755,High (16GB),Ultra (1TB+),2.8,1,Heavy
+MSI,Gaming,15.6,8,2.2,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1119.91,7.021896134389698,Mid (8GB),Ultra (1TB+),2.5,1,Standard
+Dell,Notebook,15.6,4,2.18,Intel,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,684.99,6.530863050360161,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+HP,Ultrabook,15.6,8,1.84,Intel,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1296.99,7.1685721930741115,Mid (8GB),Mid (256GB),2.5,1,Light
+HP,Ultrabook,13.3,8,1.39,Intel,2.7,Intel,SSD,256.0,3200.0,1800.0,276.05,1,0,Windows,1149.0,7.047517221357296,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Toshiba,Notebook,15.6,16,2.4,Intel,2.6,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1975.0,7.588829878307813,High (16GB),Mid (256GB),2.6,1,Standard
+Lenovo,2 in 1 Convertible,13.3,8,1.37,Intel,2.5,Intel,SSD,512.0,1920.0,1080.0,165.63,1,1,Windows,1825.0,7.509883061154913,Mid (8GB),High (512GB),2.5,1,Ultralight
+Dell,Notebook,15.6,4,1.95,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,729.9,6.5942766514863465,Low (≤4GB),High (512GB),2.3,0,Light
+Lenovo,Ultrabook,12.5,8,1.36,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,176.23,0,1,Windows,1650.0,7.409136443920128,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+HP,Notebook,15.6,8,2.31,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1165.0,7.061334366910438,Mid (8GB),Mid (256GB),2.3,0,Standard
+Dell,Notebook,15.6,4,2.18,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,708.06,6.563940149185663,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+HP,Notebook,14.0,4,1.95,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,111.94,0,0,Windows,1149.0,7.047517221357296,Low (≤4GB),High (512GB),2.3,0,Light
+Lenovo,Notebook,15.6,4,2.2,Intel,1.1,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,309.0,5.736572297479192,Low (≤4GB),Ultra (1TB+),1.1,0,Standard
+HP,Ultrabook,12.5,4,1.26,Intel,2.3,Intel,HDD,500.0,1920.0,1080.0,176.23,0,0,Windows,1579.0,7.365180126021013,Low (≤4GB),High (512GB),2.3,1,Ultralight
+HP,Notebook,15.6,4,1.86,Intel,1.6,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,No OS,288.9,5.66953603592761,Low (≤4GB),Ultra (1TB+),1.6,0,Light
+Lenovo,2 in 1 Convertible,13.3,16,1.3,Intel,2.2,Intel,SSD,1024.0,3200.0,1800.0,276.05,1,1,Windows,1799.0,7.495541943884256,High (16GB),Ultra (1TB+),2.2,1,Ultralight
+Toshiba,Notebook,14.0,4,1.47,Intel,2.3,Intel,SSD,128.0,1920.0,1080.0,157.35,0,1,Windows,1105.0,7.00850518208228,Low (≤4GB),Low (≤128GB),2.3,0,Ultralight
+HP,Netbook,12.5,8,1.26,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,176.23,0,0,Windows,1669.0,7.4205789054108005,Mid (8GB),Mid (256GB),2.3,0,Ultralight
+Dell,Notebook,15.6,4,2.18,Intel,2.0,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,558.6,6.3272222427913265,Low (≤4GB),Ultra (1TB+),2.0,0,Standard
+MSI,Gaming,15.6,8,2.2,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1199.0,7.090076835776092,Mid (8GB),Ultra (1TB+),2.8,1,Standard
+Dell,Ultrabook,14.0,8,1.36,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1639.0,7.402451520818244,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Dell,Gaming,17.3,16,4.36,Intel,2.7,Nvidia,Hybrid,1536.0,2560.0,1440.0,169.78,0,0,Windows,2758.0,7.922623574217286,High (16GB),Ultra (1TB+),2.7,1,Heavy
+HP,Gaming,17.3,8,2.75,Intel,2.3,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,1,Windows,1399.0,7.24422751560335,Mid (8GB),Ultra (1TB+),2.3,1,Heavy
+Asus,Notebook,17.3,4,2.8,Intel,1.6,Nvidia,HDD,1024.0,1600.0,900.0,106.11,0,0,Windows,530.0,6.274762021241939,Low (≤4GB),Ultra (1TB+),1.6,0,Heavy
+Acer,Notebook,15.6,4,2.23,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,619.0,6.429719478039138,Low (≤4GB),High (512GB),2.5,0,Standard
+Toshiba,Notebook,15.6,8,2.2,Intel,2.3,Intel,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,1119.0,7.02108396428914,Mid (8GB),Mid (256GB),2.3,0,Standard
+Lenovo,2 in 1 Convertible,11.3,8,1.1,Intel,1.2,Intel,SSD,256.0,1920.0,1080.0,194.95,1,1,Windows,1299.0,7.170119543449628,Mid (8GB),Mid (256GB),1.2,0,Ultralight
+Lenovo,Gaming,15.6,16,2.5,AMD,2.1,AMD,Hybrid,1536.0,1920.0,1080.0,141.21,0,1,Windows,999.0,6.907755278982137,High (16GB),Ultra (1TB+),1.89,1,Heavy
+Dell,Ultrabook,12.5,8,1.36,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,176.23,1,0,Windows,1472.2,7.295192184570911,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Lenovo,Notebook,15.6,8,2.2,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,No OS,685.0,6.530877627725885,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Dell,Notebook,17.3,4,2.36,Intel,2.0,AMD,HDD,1024.0,1600.0,900.0,106.11,0,0,Windows,659.0,6.492239835020471,Low (≤4GB),Ultra (1TB+),2.0,0,Standard
+Acer,Notebook,14.0,4,1.68,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,111.94,0,0,Chrome OS,349.0,5.857933154483459,Low (≤4GB),Low (≤128GB),1.6,0,Light
+HP,Workstation,15.6,8,2.0,Intel,2.7,Nvidia,SSD,8.0,1920.0,1080.0,141.21,0,1,Windows,2249.0,7.718685495198466,Mid (8GB),Low (≤128GB),2.7,1,Standard
+Dell,Ultrabook,14.0,8,1.36,Intel,2.8,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1775.0,7.4821189235521155,Mid (8GB),Mid (256GB),2.8,1,Ultralight
+Toshiba,Notebook,13.3,8,1.2,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1460.0,7.2868764117507,Mid (8GB),Mid (256GB),2.3,0,Ultralight
+Asus,2 in 1 Convertible,12.5,8,1.2,Intel,1.2,Intel,SSD,64.0,1920.0,1080.0,176.23,0,0,Chrome OS,1159.0,7.05617528410041,Mid (8GB),Low (≤128GB),1.2,0,Ultralight
+Lenovo,Ultrabook,14.0,8,1.7,Intel,2.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1488.99,7.306524687507587,Mid (8GB),Mid (256GB),2.6,1,Light
+Dell,Gaming,17.3,16,4.36,Intel,2.8,Nvidia,Hybrid,1536.0,3840.0,2160.0,254.67,0,1,Windows,3154.0,8.056743774975313,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Dell,2 in 1 Convertible,13.3,8,1.24,Intel,1.2,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,1899.0,7.549609165154532,Mid (8GB),Mid (256GB),1.2,0,Ultralight
+HP,2 in 1 Convertible,11.6,4,1.45,Intel,1.1,Intel,SSD,256.0,1366.0,768.0,135.09,1,0,Windows,775.0,6.654152520183219,Low (≤4GB),Mid (256GB),1.1,0,Ultralight
+Dell,Ultrabook,13.3,8,1.3,Intel,2.5,Intel,SSD,256.0,3200.0,1800.0,276.05,0,0,Windows,1268.0,7.1459844677143876,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Acer,2 in 1 Convertible,11.6,4,1.25,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,135.09,1,1,Chrome OS,389.0,5.966146739123692,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Toshiba,Notebook,13.3,8,1.2,Intel,2.4,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1535.0,7.336936913707618,Mid (8GB),Mid (256GB),2.4,0,Ultralight
+Lenovo,Ultrabook,12.5,8,1.36,Intel,2.6,Intel,SSD,256.0,1920.0,1080.0,176.23,0,1,Windows,1760.0,7.473637108496206,Mid (8GB),Mid (256GB),2.6,1,Ultralight
+Acer,Notebook,15.6,12,2.4,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1009.0,6.917705609835305,High (16GB),Ultra (1TB+),2.5,0,Standard
+Toshiba,Ultrabook,12.5,8,1.1,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,176.23,1,0,Windows,1790.0,7.490529402060711,Mid (8GB),High (512GB),2.7,1,Ultralight
+HP,Notebook,15.6,8,2.04,Intel,2.5,Nvidia,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,846.5,6.742290839254605,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Dell,Notebook,15.6,4,2.25,Intel,2.0,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,465.62,6.1455152219349065,Low (≤4GB),Ultra (1TB+),2.0,0,Standard
+Dell,Notebook,15.6,4,1.9,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,825.0,6.716594773520978,Low (≤4GB),High (512GB),2.5,0,Light
+HP,Notebook,15.6,4,2.04,Intel,2.4,Intel,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,685.0,6.530877627725885,Low (≤4GB),High (512GB),2.4,0,Standard
+Dell,Gaming,17.3,32,4.42,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,1,Windows,3149.0,8.055157731819678,Ultra (32GB+),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,15.6,6,2.4,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,695.0,6.54534966033442,Mid (8GB),Mid (256GB),2.5,0,Standard
+Dell,2 in 1 Convertible,13.3,16,1.22,Intel,1.3,Intel,SSD,512.0,3200.0,1800.0,276.05,1,0,Windows,1899.0,7.549609165154532,High (16GB),High (512GB),1.3,1,Ultralight
+Dell,Ultrabook,14.0,8,1.5,Intel,2.6,Intel,SSD,256.0,2560.0,1440.0,209.8,1,0,Windows,1962.98,7.5827283055631725,Mid (8GB),Mid (256GB),2.6,1,Light
+Dell,Gaming,17.3,32,4.42,Intel,2.6,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,2800.0,7.937731775260109,Ultra (32GB+),Ultra (1TB+),2.6,1,Heavy
+Toshiba,Notebook,14.0,8,1.95,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1180.0,7.074116816197362,Mid (8GB),Mid (256GB),2.3,0,Light
+Asus,Gaming,17.3,16,2.73,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,2049.9,7.626034000179687,High (16GB),Ultra (1TB+),2.8,1,Heavy
+HP,Notebook,15.6,8,2.04,Intel,2.7,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,979.0,6.887552571664617,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Lenovo,Notebook,14.0,4,1.7,Intel,2.3,Intel,Other,508.0,1366.0,768.0,111.94,0,0,Windows,1002.0,6.910750787961936,Low (≤4GB),High (512GB),2.3,0,Light
+Asus,2 in 1 Convertible,15.6,16,2.3,Intel,2.7,Nvidia,Hybrid,2560.0,3840.0,2160.0,282.42,1,0,Windows,1799.0,7.495541943884256,High (16GB),Ultra (1TB+),2.7,1,Standard
+HP,Notebook,15.6,6,2.04,Intel,2.7,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,579.0,6.363028103540465,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Asus,Gaming,17.3,16,2.99,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1749.0,7.4673710669175595,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Dell,2 in 1 Convertible,15.6,12,2.19,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,141.21,1,1,Windows,1299.0,7.170119543449628,High (16GB),High (512GB),2.7,1,Standard
+Toshiba,Notebook,13.3,4,1.2,Intel,2.3,Intel,SSD,128.0,1920.0,1080.0,165.63,0,0,Windows,1195.0,7.086737934510577,Low (≤4GB),Low (≤128GB),2.3,0,Ultralight
+Lenovo,Notebook,15.6,6,2.2,AMD,3.6,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,549.0,6.309918278226516,Mid (8GB),Mid (256GB),3.24,0,Standard
+Fujitsu,Notebook,15.6,4,2.3,Intel,2.3,Intel,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,649.0,6.476972362889683,Low (≤4GB),Mid (256GB),2.3,0,Standard
+Toshiba,Notebook,14.0,4,1.75,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,111.94,0,0,Windows,915.0,6.82001636467413,Low (≤4GB),High (512GB),2.3,0,Light
+Dell,Notebook,15.6,4,2.25,Intel,2.5,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,599.0,6.396929655216146,Low (≤4GB),High (512GB),2.5,0,Standard
+HP,Notebook,15.6,8,2.04,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,806.0,6.693323668269949,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Lenovo,Gaming,15.6,8,2.5,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1189.0,7.0817085861055755,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Dell,Notebook,15.6,8,2.36,Intel,2.7,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,749.0,6.620073206530356,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Dell,Notebook,14.0,8,1.6,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,157.35,0,0,Windows,1119.0,7.02108396428914,Mid (8GB),Low (≤128GB),2.5,0,Light
+HP,Netbook,12.5,8,0.97,Intel,1.2,Intel,SSD,512.0,1920.0,1080.0,176.23,0,0,Windows,1908.0,7.554334823725748,Mid (8GB),High (512GB),1.2,1,Ultralight
+HP,Notebook,15.6,4,2.1,Intel,2.5,AMD,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,499.0,6.214608098422191,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Lenovo,Notebook,15.6,4,1.9,Intel,1.1,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,No OS,270.62,5.604404030675922,Low (≤4GB),Low (≤128GB),1.1,0,Light
+Lenovo,Notebook,15.6,8,2.3,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1349.0,7.2078598714324755,Mid (8GB),Mid (256GB),2.3,0,Standard
+Dell,2 in 1 Convertible,13.3,8,1.68,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,889.0,6.7912214627261855,Mid (8GB),Mid (256GB),2.5,0,Light
+Asus,Notebook,13.3,8,1.4,Intel,2.5,Intel,SSD,256.0,3200.0,1800.0,276.05,0,0,Windows,1150.0,7.048386408721883,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+HP,Ultrabook,13.3,8,1.11,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,165.63,1,1,Windows,1349.0,7.2078598714324755,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Acer,Notebook,15.6,4,2.4,Intel,1.1,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,380.0,5.942799375126701,Low (≤4GB),High (512GB),1.1,0,Standard
+Asus,Gaming,15.6,16,2.5,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,1799.0,7.495541943884256,High (16GB),Ultra (1TB+),2.8,1,Heavy
+HP,Ultrabook,14.0,8,1.48,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,157.35,0,0,Windows,2089.0,7.644919344958857,Mid (8GB),High (512GB),2.7,1,Ultralight
+Acer,Gaming,15.6,8,2.7,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1260.0,7.139660335964919,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+HP,Notebook,13.3,8,1.34,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,1189.0,7.0817085861055755,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Dell,Notebook,15.6,4,2.18,Intel,2.4,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,547.0,6.306275286948016,Low (≤4GB),Low (≤128GB),2.4,0,Standard
+HP,Notebook,14.0,4,1.64,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,111.94,0,0,Windows,779.0,6.659293919683638,Low (≤4GB),High (512GB),2.5,0,Light
+Toshiba,Notebook,13.3,4,1.2,Intel,2.3,Intel,SSD,128.0,1920.0,1080.0,165.63,0,0,Windows,1195.0,7.086737934510577,Low (≤4GB),Low (≤128GB),2.3,0,Ultralight
+HP,Notebook,14.0,4,1.48,Intel,2.4,Intel,SSD,256.0,1366.0,768.0,111.94,0,0,Windows,1099.99,7.003965054029298,Low (≤4GB),Mid (256GB),2.4,0,Ultralight
+HP,Notebook,14.0,4,1.95,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1205.0,7.095064377287131,Low (≤4GB),Mid (256GB),2.5,0,Light
+HP,Ultrabook,14.0,8,1.43,Intel,2.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1449.0,7.27931883541462,Mid (8GB),Mid (256GB),2.6,1,Ultralight
+HP,Notebook,14.0,8,1.64,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1049.26,6.956793031546652,Mid (8GB),Mid (256GB),2.5,0,Light
+HP,Notebook,14.0,4,1.64,Intel,2.4,Intel,HDD,500.0,1366.0,768.0,111.94,0,0,Windows,684.0,6.529418838262226,Low (≤4GB),High (512GB),2.4,0,Light
+Dell,Gaming,15.6,8,2.65,Intel,2.5,Nvidia,Other,1024.0,1920.0,1080.0,141.21,0,0,Windows,949.0,6.856461984594587,Mid (8GB),Ultra (1TB+),2.5,1,Heavy
+HP,Ultrabook,12.5,4,1.26,Intel,2.5,Intel,HDD,500.0,1920.0,1080.0,176.23,0,0,Windows,1539.0,7.3395376954076745,Low (≤4GB),High (512GB),2.5,1,Ultralight
+HP,Notebook,14.0,4,1.48,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1590.0,7.372118028337787,Low (≤4GB),Mid (256GB),2.5,0,Ultralight
+HP,Ultrabook,14.0,8,1.54,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1887.21,7.54338456933354,Mid (8GB),Mid (256GB),2.5,1,Light
+HP,Notebook,13.3,4,1.49,Intel,2.4,Intel,HDD,500.0,1366.0,768.0,117.83,0,0,Windows,800.0,6.68586094706836,Low (≤4GB),High (512GB),2.4,0,Ultralight
+Toshiba,Notebook,13.3,8,1.5,Intel,2.3,Intel,SSD,256.0,1366.0,768.0,117.83,0,0,Windows,1210.0,7.099201743553092,Mid (8GB),Mid (256GB),2.3,0,Light
+HP,Notebook,15.6,4,2.04,Intel,2.4,Intel,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,769.99,6.647675403310604,Low (≤4GB),Mid (256GB),2.4,0,Standard
+Lenovo,Notebook,17.3,16,2.4,Intel,2.7,Nvidia,SSD,512.0,3840.0,2160.0,254.67,0,1,Windows,2968.0,7.99598047476376,High (16GB),High (512GB),2.7,1,Standard
+Toshiba,Notebook,14.0,8,1.47,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1490.0,7.307202314764738,Mid (8GB),Mid (256GB),2.3,0,Ultralight
+HP,Notebook,14.0,8,1.43,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,2229.0,7.709756864454165,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Dell,2 in 1 Convertible,15.6,4,2.08,Intel,2.3,Intel,HDD,1024.0,1920.0,1080.0,141.21,1,1,Windows,795.99,6.680842131660057,Low (≤4GB),Ultra (1TB+),2.3,0,Standard
+Toshiba,Ultrabook,13.3,8,1.2,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1590.0,7.372118028337787,Mid (8GB),Mid (256GB),2.3,1,Ultralight
+HP,Notebook,13.3,8,1.11,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,1149.0,7.047517221357296,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+HP,Notebook,14.0,8,1.64,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1185.43,7.078704077085276,Mid (8GB),Mid (256GB),2.7,0,Light
+Dell,Notebook,15.6,8,2.09,Intel,2.4,Intel,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,1046.44,6.954104370919498,Mid (8GB),High (512GB),2.4,0,Standard
+HP,Ultrabook,12.5,4,1.26,Intel,2.5,Intel,SSD,256.0,1366.0,768.0,125.37,0,0,Windows,1559.0,7.352441100243583,Low (≤4GB),Mid (256GB),2.5,1,Ultralight
+HP,Notebook,14.0,4,2.31,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,111.94,0,0,Windows,1189.0,7.0817085861055755,Low (≤4GB),High (512GB),2.5,0,Standard
+HP,Notebook,14.0,4,1.95,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,111.94,0,0,Windows,1060.0,6.966967138613983,Low (≤4GB),High (512GB),2.5,0,Light
+Dell,Ultrabook,13.3,8,1.29,Intel,2.5,Intel,SSD,256.0,3200.0,1800.0,276.05,1,0,Windows,1624.0,7.393263094763838,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+HP,Notebook,17.3,8,2.63,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,0,Windows,1080.0,6.985641817639208,Mid (8GB),Mid (256GB),2.5,0,Heavy
+HP,Notebook,14.0,4,1.64,Intel,2.5,Intel,SSD,256.0,1366.0,768.0,111.94,0,0,Windows,973.0,6.881411303642535,Low (≤4GB),Mid (256GB),2.5,0,Light
+Acer,Notebook,15.6,6,2.1,AMD,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,409.0,6.016157159698354,Mid (8GB),Ultra (1TB+),2.25,0,Standard
+MSI,Gaming,17.3,8,2.7,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,1191.8,7.084058763450528,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+HP,Notebook,14.0,8,1.95,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1195.0,7.086737934510577,Mid (8GB),Mid (256GB),2.3,0,Light
+HP,Notebook,15.6,8,1.84,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1228.99,7.114761318252113,Mid (8GB),Mid (256GB),2.5,0,Light
+HP,Ultrabook,12.5,8,1.26,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,176.23,0,0,Windows,1349.0,7.2078598714324755,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+HP,Notebook,15.6,4,2.04,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,742.0,6.610696044717759,Low (≤4GB),High (512GB),2.5,0,Standard
+Toshiba,Ultrabook,14.0,8,1.47,Intel,2.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1725.0,7.453561871643373,Mid (8GB),Mid (256GB),2.6,1,Ultralight
+Dell,Notebook,15.6,8,2.09,Intel,2.4,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1062.95,6.969743676316205,Mid (8GB),Mid (256GB),2.4,0,Standard
+HP,Notebook,14.0,8,1.64,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1010.51,6.919199542866395,Mid (8GB),Mid (256GB),2.5,0,Light
+Lenovo,2 in 1 Convertible,15.6,4,1.8,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,1,1,Windows,847.0,6.742880635791903,Low (≤4GB),Mid (256GB),2.5,0,Light
+Vero,Notebook,14.0,2,1.45,Intel,1.44,Intel,SSD,32.0,1366.0,768.0,111.94,0,0,Windows,210.8,5.355642433167306,Low (≤4GB),Low (≤128GB),1.44,0,Ultralight
+Toshiba,Notebook,15.6,16,2.4,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1425.0,7.262628600974241,High (16GB),Mid (256GB),2.5,1,Standard
+Lenovo,Notebook,15.6,8,2.3,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1049.6,6.957116708519861,Mid (8GB),Mid (256GB),2.3,0,Standard
+HP,Notebook,14.0,4,1.54,Intel,2.3,Intel,HDD,500.0,1920.0,1080.0,157.35,0,0,Windows,1000.0,6.90875477931522,Low (≤4GB),High (512GB),2.3,0,Light
+HP,Notebook,15.6,8,1.84,Intel,2.4,Intel,Hybrid,756.0,1920.0,1080.0,141.21,0,0,Windows,2103.34,7.651757157760393,Mid (8GB),Ultra (1TB+),2.4,0,Light
+HP,Notebook,14.0,8,1.43,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1469.0,7.293017679772782,Mid (8GB),Mid (256GB),2.3,0,Ultralight
+MSI,Gaming,17.3,16,3.78,Intel,2.7,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,1,Windows,1545.64,7.343840115024246,High (16GB),Ultra (1TB+),2.7,1,Heavy
+Lenovo,Gaming,17.3,16,4.6,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,1,Windows,2289.99,7.736739317537815,High (16GB),Ultra (1TB+),2.6,1,Heavy
+Asus,Netbook,11.6,4,1.2,Intel,1.6,Intel,SSD,16.0,1366.0,768.0,135.09,0,0,Chrome OS,287.9,5.66608060747219,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Lenovo,Notebook,14.0,16,1.1,Intel,2.6,Intel,SSD,256.0,2560.0,1440.0,209.8,0,1,Windows,2620.0,7.8713112033234065,High (16GB),Mid (256GB),2.6,1,Ultralight
+HP,Notebook,15.6,8,1.91,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,979.0,6.887552571664617,Mid (8GB),Ultra (1TB+),2.7,0,Light
+Dell,2 in 1 Convertible,15.6,8,2.3,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,141.21,1,1,Windows,1094.0,6.9985096422506015,Mid (8GB),Mid (256GB),2.7,0,Standard
+HP,Notebook,15.6,4,2.04,Intel,2.5,Intel,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,979.0,6.887552571664617,Low (≤4GB),Mid (256GB),2.5,0,Standard
+Dell,Ultrabook,13.3,16,1.2,Intel,2.7,Intel,SSD,1024.0,3200.0,1800.0,276.05,1,0,Windows,2254.0,7.720905251936779,High (16GB),Ultra (1TB+),2.7,1,Ultralight
+HP,Notebook,15.6,4,2.31,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,705.15,6.559827679515073,Low (≤4GB),High (512GB),2.3,0,Standard
+HP,Notebook,15.6,4,1.96,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,No OS,499.0,6.214608098422191,Low (≤4GB),High (512GB),2.5,0,Light
+Acer,Notebook,15.6,8,2.4,AMD,2.2,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,449.0,6.1092475827643655,Mid (8GB),Ultra (1TB+),1.98,0,Standard
+Dell,2 in 1 Convertible,13.3,12,1.6,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,165.63,1,1,Windows,1299.0,7.170119543449628,High (16GB),Mid (256GB),2.7,0,Light
+MSI,Gaming,15.6,16,2.94,Intel,2.6,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,1819.0,7.506591780070841,High (16GB),Ultra (1TB+),2.6,1,Heavy
+HP,Notebook,15.6,8,2.04,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1070.0,6.976348070447749,Mid (8GB),Mid (256GB),2.7,0,Standard
+Asus,Gaming,17.3,16,4.0,Intel,2.6,Nvidia,HDD,1024.0,1920.0,1080.0,127.34,0,1,No OS,998.0,6.906754778648554,High (16GB),Ultra (1TB+),2.6,1,Heavy
+Dell,Notebook,15.6,4,2.25,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,559.0,6.327936783729195,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Dell,Notebook,15.6,16,2.32,Intel,2.7,AMD,HDD,2048.0,1920.0,1080.0,141.21,0,0,Windows,989.99,6.898704443461719,High (16GB),Ultra (1TB+),2.7,1,Standard
+MSI,Gaming,15.6,16,1.8,Intel,2.6,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,1929.0,7.5652752818989315,High (16GB),Ultra (1TB+),2.6,1,Light
+Dell,Ultrabook,13.3,8,1.29,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1458.0,7.285506548522786,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Asus,Gaming,17.3,64,3.58,Intel,2.7,Nvidia,SSD,1024.0,1920.0,1080.0,127.34,0,1,Windows,3975.0,8.288031567776464,Ultra (32GB+),Ultra (1TB+),2.7,1,Heavy
+Dell,2 in 1 Convertible,13.3,8,1.62,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,798.01,6.68337346133251,Mid (8GB),Mid (256GB),2.5,0,Light
+Dell,Gaming,15.6,16,3.21,Intel,2.6,Nvidia,Hybrid,1280.0,3840.0,2160.0,282.42,0,0,Windows,1329.0,7.1929342212158,High (16GB),Ultra (1TB+),2.6,1,Heavy
+Apple,Ultrabook,12.0,8,0.92,Intel,1.1,Intel,SSD,256.0,2304.0,1440.0,226.42,0,1,macOS,1300.0,7.170888478512505,Mid (8GB),Mid (256GB),1.1,1,Ultralight
+Dell,Notebook,15.6,4,2.06,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,481.98,6.179975244927748,Low (≤4GB),High (512GB),2.3,0,Standard
+HP,Notebook,15.6,4,2.31,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,1199.0,7.090076835776092,Low (≤4GB),High (512GB),2.3,0,Standard
+HP,Ultrabook,12.5,8,1.26,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,176.23,0,0,Windows,1199.0,7.090076835776092,Mid (8GB),Mid (256GB),2.3,1,Ultralight
+HP,Notebook,13.3,8,1.49,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1090.0,6.994849985833071,Mid (8GB),Mid (256GB),2.7,0,Ultralight
+Lenovo,Ultrabook,12.5,8,1.3,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,176.23,1,1,Windows,1713.49,7.446870939281707,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Lenovo,Notebook,17.3,8,3.0,Intel,2.3,AMD,HDD,1024.0,1600.0,900.0,106.11,0,0,Windows,659.0,6.492239835020471,Mid (8GB),Ultra (1TB+),2.3,0,Heavy
+Lenovo,Notebook,15.6,4,2.3,Intel,2.3,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,977.0,6.885509670034818,Low (≤4GB),Ultra (1TB+),2.3,0,Standard
+MSI,Gaming,17.3,16,3.78,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,2499.0,7.824046010856292,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,15.6,4,2.1,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,540.0,6.293419278846481,Low (≤4GB),High (512GB),2.3,0,Standard
+HP,Notebook,15.6,4,2.31,Intel,2.3,Intel,HDD,500.0,1920.0,1080.0,141.21,0,0,Windows,940.0,6.846943139585379,Low (≤4GB),High (512GB),2.3,0,Standard
+Lenovo,Ultrabook,12.5,8,0.99,Intel,1.2,Intel,SSD,512.0,2560.0,1440.0,234.98,1,1,Windows,1399.0,7.24422751560335,Mid (8GB),High (512GB),1.2,1,Ultralight
+Lenovo,Gaming,17.3,32,4.6,Intel,2.7,Nvidia,SSD,1536.0,1920.0,1080.0,127.34,0,1,Windows,3240.0,8.083637203141548,Ultra (32GB+),Ultra (1TB+),2.7,1,Heavy
+Lenovo,2 in 1 Convertible,10.1,4,0.69,Intel,1.44,Intel,SSD,64.0,1920.0,1200.0,224.17,1,1,Windows,646.27,6.472763518115628,Low (≤4GB),Low (≤128GB),1.44,0,Ultralight
+HP,Ultrabook,13.3,16,1.3,Intel,2.7,Intel,SSD,512.0,3840.0,2160.0,331.26,0,1,Windows,2049.0,7.6255950721324535,High (16GB),High (512GB),2.7,1,Ultralight
+Dell,Notebook,15.6,8,2.18,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,750.0,6.621405651764134,Mid (8GB),Mid (256GB),2.5,0,Standard
+HP,Notebook,14.0,4,1.54,Intel,2.3,Intel,HDD,500.0,1920.0,1080.0,157.35,0,0,Windows,1030.99,6.9392442560720795,Low (≤4GB),High (512GB),2.3,0,Light
+HP,Workstation,15.6,8,1.9,Intel,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1495.0,7.310550158534422,Mid (8GB),Mid (256GB),2.5,1,Light
+Lenovo,Notebook,14.0,8,1.7,Intel,2.3,Intel,SSD,180.0,1920.0,1080.0,157.35,0,0,Windows,1199.0,7.090076835776092,Mid (8GB),Mid (256GB),2.3,0,Light
+HP,Notebook,13.3,4,1.29,Intel,1.5,Intel,SSD,32.0,3200.0,1800.0,276.05,0,0,Chrome OS,615.0,6.423246963533519,Low (≤4GB),Low (≤128GB),1.5,0,Ultralight
+Acer,Notebook,15.6,4,2.4,AMD,2.2,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,387.0,5.961005339623274,Low (≤4GB),High (512GB),1.98,0,Standard
+Dell,Notebook,15.6,4,2.2,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Linux,393.49,5.977593791422191,Low (≤4GB),High (512GB),1.6,0,Standard
+HP,Notebook,15.6,4,1.86,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,No OS,345.99,5.849295961087796,Low (≤4GB),Ultra (1TB+),2.5,0,Light
+Asus,Gaming,17.3,8,2.7,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,1,Windows,1599.0,7.3777589082278725,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Dell,Ultrabook,13.3,4,1.4,Intel,1.6,AMD,SSD,256.0,1920.0,1080.0,165.63,0,1,Windows,818.35,6.708511342992233,Low (≤4GB),Mid (256GB),1.6,1,Ultralight
+HP,Netbook,12.5,4,2.4,Intel,2.3,Intel,SSD,128.0,1366.0,768.0,125.37,0,0,Windows,1599.0,7.3777589082278725,Low (≤4GB),Low (≤128GB),2.3,0,Standard
+Acer,Notebook,15.6,8,2.4,Intel,2.5,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,799.0,6.684611727667927,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Dell,Notebook,15.6,8,2.36,Intel,2.5,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,638.8,6.461155627515417,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+MSI,Gaming,17.3,8,2.6,Intel,2.6,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,0,Windows,1599.0,7.3777589082278725,Mid (8GB),Mid (256GB),2.6,1,Heavy
+HP,Notebook,15.6,4,1.96,Intel,1.6,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,500.0,6.2166061010848646,Low (≤4GB),Ultra (1TB+),1.6,0,Light
+Asus,Gaming,17.3,16,4.3,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,1,Windows,2299.0,7.7406644019172415,High (16GB),Ultra (1TB+),2.6,1,Heavy
+Dell,Ultrabook,12.5,4,1.5,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,125.37,0,0,Windows,1135.15,7.035400632817807,Low (≤4GB),High (512GB),2.3,1,Light
+Dell,Ultrabook,12.5,4,1.5,Intel,2.3,Intel,SSD,128.0,1366.0,768.0,125.37,0,0,Windows,1166.97,7.063022478126802,Low (≤4GB),Low (≤128GB),2.3,1,Light
+Acer,Notebook,15.6,4,2.2,Intel,1.5,Intel,SSD,16.0,1366.0,768.0,100.45,0,0,Chrome OS,209.0,5.3471075307174685,Low (≤4GB),Low (≤128GB),1.5,0,Standard
+HP,Workstation,17.3,8,3.0,Intel,2.6,AMD,HDD,1024.0,1920.0,1080.0,127.34,0,1,Windows,2899.0,7.9724660159745655,Mid (8GB),Ultra (1TB+),2.6,1,Heavy
+Lenovo,Gaming,15.6,16,2.4,Intel,2.8,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,1199.0,7.090076835776092,High (16GB),High (512GB),2.8,1,Standard
+Dell,Ultrabook,12.5,8,1.5,Intel,2.3,Intel,SSD,256.0,1366.0,768.0,125.37,0,0,Windows,1413.1,7.2542485653137305,Mid (8GB),Mid (256GB),2.3,1,Light
+MSI,Gaming,17.3,8,2.9,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,1511.19,7.32131421022041,Mid (8GB),Ultra (1TB+),2.6,1,Heavy
+Lenovo,2 in 1 Convertible,15.6,4,2.1,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,141.21,1,1,Windows,867.0,6.7661917146603505,Low (≤4GB),Mid (256GB),2.3,0,Standard
+HP,Notebook,15.6,4,2.1,AMD,2.5,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,398.0,5.988961416889864,Low (≤4GB),Ultra (1TB+),2.25,0,Standard
+Asus,Gaming,15.6,16,2.59,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1339.0,7.200424892944957,High (16GB),Ultra (1TB+),2.6,1,Heavy
+HP,Notebook,13.3,8,1.16,Intel,1.1,Intel,SSD,256.0,3200.0,1800.0,276.05,1,0,Windows,1699.0,7.438383530044307,Mid (8GB),Mid (256GB),1.1,0,Ultralight
+Dell,Notebook,15.6,4,2.24,Intel,2.3,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,769.15,6.646585301070466,Low (≤4GB),High (512GB),2.3,0,Standard
+Lenovo,Notebook,15.6,4,2.1,Intel,2.0,Intel,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,429.0,6.063785208687608,Low (≤4GB),Low (≤128GB),2.0,0,Standard
+HP,Ultrabook,13.3,8,1.16,Intel,2.5,Intel,SSD,512.0,1920.0,1080.0,165.63,0,0,Windows,1969.0,7.585788821732034,Mid (8GB),High (512GB),2.5,1,Ultralight
+Lenovo,2 in 1 Convertible,10.1,4,0.69,Intel,1.44,Intel,SSD,64.0,1920.0,1200.0,224.17,1,1,Other,549.0,6.309918278226516,Low (≤4GB),Low (≤128GB),1.44,0,Ultralight
+Dell,Ultrabook,13.3,8,1.23,Intel,2.4,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1379.0,7.22983877815125,Mid (8GB),Mid (256GB),2.4,1,Ultralight
+Lenovo,Gaming,17.3,16,4.6,Intel,2.7,Nvidia,SSD,1280.0,1920.0,1080.0,127.34,0,1,Windows,2749.99,7.919716125876165,High (16GB),Ultra (1TB+),2.7,1,Heavy
+Razer,Ultrabook,12.5,8,1.25,Intel,2.5,Intel,SSD,256.0,3840.0,2160.0,352.47,1,0,Windows,1029.0,6.937314081223682,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Toshiba,Ultrabook,13.3,16,1.05,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,165.63,0,0,Windows,2226.0,7.708410667257367,High (16GB),High (512GB),2.7,1,Ultralight
+Asus,Gaming,17.3,8,3.52,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,0,Windows,1312.49,7.180442995849564,Mid (8GB),Ultra (1TB+),2.6,1,Heavy
+Vero,Notebook,13.3,4,1.35,Intel,1.44,Intel,SSD,32.0,1920.0,1080.0,165.63,0,0,Windows,196.0,5.2832037287379885,Low (≤4GB),Low (≤128GB),1.44,0,Ultralight
+HP,Notebook,13.3,8,1.16,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1690.0,7.43307534889858,Mid (8GB),Mid (256GB),2.3,0,Ultralight
+HP,Notebook,14.0,8,1.43,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1513.0,7.322510433997394,Mid (8GB),Mid (256GB),2.3,0,Ultralight
+Dell,Notebook,15.6,4,2.09,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Linux,523.63,6.262693252225446,Low (≤4GB),High (512GB),2.3,0,Standard
+Asus,Notebook,15.6,4,2.0,Intel,2.4,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,435.0,6.077642243349034,Low (≤4GB),Ultra (1TB+),2.4,0,Standard
+Lenovo,2 in 1 Convertible,14.0,8,1.8,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,157.35,1,1,Windows,1669.0,7.4205789054108005,Mid (8GB),Mid (256GB),2.5,0,Light
+Lenovo,2 in 1 Convertible,10.1,4,0.69,Intel,1.44,Intel,SSD,64.0,1920.0,1200.0,224.17,1,1,Windows,479.0,6.173786103901937,Low (≤4GB),Low (≤128GB),1.44,0,Ultralight
+HP,Ultrabook,12.5,8,1.26,Intel,2.4,Intel,SSD,256.0,1366.0,768.0,125.37,0,0,Windows,1895.0,7.547501682814967,Mid (8GB),Mid (256GB),2.4,1,Ultralight
+Lenovo,Gaming,15.6,8,2.4,Intel,2.5,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,No OS,989.0,6.897704943128636,Mid (8GB),Ultra (1TB+),2.5,1,Standard
+HP,Gaming,17.3,8,3.35,Intel,2.3,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,1,Windows,1129.0,7.029972911706386,Mid (8GB),Ultra (1TB+),2.3,1,Heavy
+HP,Notebook,15.6,8,2.04,Intel,2.7,Intel,HDD,2048.0,1366.0,768.0,100.45,0,0,Windows,629.0,6.4457198193855785,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Lenovo,2 in 1 Convertible,14.0,8,1.8,Intel,2.6,Nvidia,SSD,512.0,1920.0,1080.0,157.35,1,1,Windows,2050.38,7.626268016386377,Mid (8GB),High (512GB),2.6,1,Light
+Asus,Notebook,14.0,4,1.5,Intel,1.1,Intel,SSD,32.0,1366.0,768.0,111.94,0,0,Windows,278.0,5.631211781821365,Low (≤4GB),Low (≤128GB),1.1,0,Light
+HP,Ultrabook,15.6,8,1.84,Intel,2.7,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,752.0,6.6240652277998935,Mid (8GB),Mid (256GB),2.7,1,Light
+Acer,Notebook,15.6,4,2.23,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,616.0,6.424869023905388,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Lenovo,Notebook,15.6,16,2.5,Intel,2.5,AMD,Other,1024.0,1920.0,1080.0,141.21,0,0,Windows,1099.0,7.003065458786462,High (16GB),Ultra (1TB+),2.5,1,Heavy
+HP,Workstation,17.3,8,3.0,Intel,2.6,Nvidia,SSD,256.0,1920.0,1080.0,127.34,0,1,Windows,3949.4,8.281572118590915,Mid (8GB),Mid (256GB),2.6,1,Heavy
+Dell,Notebook,15.6,8,2.5,Intel,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,784.0,6.665683717782408,Mid (8GB),Ultra (1TB+),2.5,0,Heavy
+MSI,Gaming,17.3,16,3.78,Intel,2.7,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,2399.0,7.783224016336037,High (16GB),Ultra (1TB+),2.7,1,Heavy
+HP,Ultrabook,15.6,8,1.88,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,2171.72,7.683735117835295,Mid (8GB),Mid (256GB),2.5,1,Light
+Lenovo,2 in 1 Convertible,14.0,16,2.8,Intel,2.6,Intel,SSD,512.0,2560.0,1440.0,209.8,1,1,Windows,2440.0,7.80016307039296,High (16GB),High (512GB),2.6,1,Heavy
+MSI,Gaming,15.6,8,2.4,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1142.8,7.042111331481216,Mid (8GB),Ultra (1TB+),2.8,1,Standard
+HP,2 in 1 Convertible,13.3,8,1.48,Intel,2.4,Intel,SSD,256.0,1920.0,1080.0,165.63,1,0,Windows,1629.0,7.396335293800808,Mid (8GB),Mid (256GB),2.4,0,Ultralight
+HP,Workstation,15.6,8,2.59,Intel,2.6,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,2229.0,7.709756864454165,Mid (8GB),Mid (256GB),2.6,1,Heavy
+HP,2 in 1 Convertible,13.3,8,1.48,Intel,2.6,Intel,SSD,256.0,2560.0,1440.0,220.84,1,0,Windows,1799.0,7.495541943884256,Mid (8GB),Mid (256GB),2.6,0,Ultralight
+HP,Workstation,15.6,8,2.0,Intel,2.6,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1899.0,7.549609165154532,Mid (8GB),Mid (256GB),2.6,1,Standard
+HP,Ultrabook,12.5,8,1.26,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,176.23,0,0,Windows,2296.95,7.739772700121512,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Dell,Notebook,15.6,8,2.18,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1009.9,6.918596302160012,Mid (8GB),Mid (256GB),2.7,0,Standard
+HP,Notebook,15.6,8,1.88,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,1579.0,7.365180126021013,Mid (8GB),Mid (256GB),2.3,0,Light
+Lenovo,2 in 1 Convertible,14.0,8,1.27,Intel,2.5,Intel,SSD,256.0,2560.0,1440.0,209.8,1,1,Windows,2339.0,7.757906208351747,Mid (8GB),Mid (256GB),2.5,0,Ultralight
+Lenovo,Notebook,15.6,4,1.9,Intel,2.0,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,No OS,339.0,5.8289456176102075,Low (≤4GB),Ultra (1TB+),2.0,0,Light
+HP,Notebook,15.6,4,1.86,AMD,1.8,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,297.0,5.697093486505405,Low (≤4GB),High (512GB),1.62,0,Light
+Lenovo,Notebook,15.6,8,2.32,Intel,2.3,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,No OS,599.0,6.396929655216146,Mid (8GB),Ultra (1TB+),2.3,0,Standard
+Dell,Gaming,15.6,8,2.62,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,1199.0,7.090076835776092,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Dell,Notebook,15.6,8,2.04,Intel,2.3,Nvidia,SSD,256.0,3840.0,2160.0,282.42,1,1,Windows,2250.68,7.719431883248258,Mid (8GB),Mid (256GB),2.3,0,Standard
+HP,Notebook,15.6,4,1.91,AMD,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,478.89,6.173556910972577,Low (≤4GB),Mid (256GB),2.25,0,Light
+MSI,Gaming,17.3,16,2.7,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1492.8,7.309078487922966,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Ultrabook,14.0,12,1.4,Intel,2.6,Intel,SSD,512.0,1920.0,1080.0,157.35,0,0,Windows,2299.0,7.7406644019172415,High (16GB),High (512GB),2.6,1,Ultralight
+Lenovo,Notebook,15.6,8,2.5,Intel,2.3,AMD,Other,1024.0,1920.0,1080.0,141.21,0,0,Windows,788.49,6.67138716737102,Mid (8GB),Ultra (1TB+),2.3,0,Heavy
+HP,2 in 1 Convertible,13.3,8,1.48,Intel,2.6,Intel,SSD,512.0,2560.0,1440.0,220.84,1,0,Windows,2041.0,7.621684998724611,Mid (8GB),High (512GB),2.6,1,Ultralight
+Lenovo,Ultrabook,14.0,8,1.7,Intel,2.6,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1499.0,7.313220387090301,Mid (8GB),Mid (256GB),2.6,1,Light
+MSI,Gaming,14.0,16,1.7,Intel,2.6,Nvidia,Hybrid,1280.0,1920.0,1080.0,157.35,0,0,Windows,1769.0,7.478734825567875,High (16GB),Ultra (1TB+),2.6,1,Light
+HP,Gaming,15.6,8,2.62,Intel,2.8,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,899.0,6.802394763324311,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,15.6,8,2.2,Intel,2.0,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,459.0,6.131226489483141,Mid (8GB),Ultra (1TB+),2.0,0,Standard
+HP,Notebook,15.6,4,2.1,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,No OS,476.99,6.1695898117705275,Low (≤4GB),High (512GB),2.3,0,Standard
+Dell,Gaming,15.6,8,2.62,Intel,2.8,Nvidia,Hybrid,1152.0,3840.0,2160.0,282.42,0,0,Windows,1498.0,7.312553498102598,Mid (8GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Notebook,15.6,8,1.95,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1390.0,7.237778191923443,Mid (8GB),Mid (256GB),2.5,0,Light
+Lenovo,Notebook,15.6,4,2.2,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,468.0,6.150602768446279,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+HP,Notebook,14.0,2,1.44,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,111.94,0,0,Windows,249.0,5.521460917862246,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+MSI,Gaming,15.6,8,2.2,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,839.0,6.733401891837359,Mid (8GB),Ultra (1TB+),2.7,1,Standard
+HP,Notebook,15.6,8,1.96,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,679.0,6.522092798170152,Mid (8GB),Mid (256GB),2.5,0,Light
+HP,Notebook,15.6,16,2.1,Intel,1.8,Intel,SSD,512.0,1920.0,1080.0,141.21,0,0,Windows,1159.0,7.05617528410041,High (16GB),High (512GB),1.8,1,Standard
+Asus,Notebook,15.6,4,2.2,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,369.0,5.91350300563827,Low (≤4GB),High (512GB),1.6,0,Standard
+Lenovo,Notebook,15.6,4,2.1,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,No OS,398.0,5.988961416889864,Low (≤4GB),High (512GB),2.3,0,Standard
+Lenovo,Notebook,15.6,8,2.2,Intel,2.7,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,No OS,709.0,6.565264970035361,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+Asus,Notebook,14.0,4,2.0,Intel,2.4,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,769.0,6.646390514847729,Low (≤4GB),Mid (256GB),2.4,0,Standard
+Lenovo,Notebook,15.6,4,2.32,Intel,2.5,Intel,Other,1024.0,1920.0,1080.0,141.21,0,0,Windows,825.0,6.716594773520978,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Lenovo,Gaming,15.6,16,3.31,Intel,2.6,Nvidia,SSD,512.0,1920.0,1080.0,141.21,0,1,Windows,1305.0,7.174724309836376,High (16GB),High (512GB),2.6,1,Heavy
+MSI,Gaming,15.6,16,1.91,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,2153.37,7.6752536164097185,High (16GB),Ultra (1TB+),2.6,1,Light
+HP,Notebook,15.6,4,2.07,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,650.0,6.478509642208569,Low (≤4GB),High (512GB),2.3,0,Standard
+Lenovo,2 in 1 Convertible,14.0,8,1.36,Intel,2.3,Intel,SSD,256.0,2560.0,1440.0,209.8,1,1,Windows,1637.0,7.401231264413015,Mid (8GB),Mid (256GB),2.3,0,Ultralight
+Lenovo,Ultrabook,15.6,6,1.54,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,831.0,6.723832440821209,Mid (8GB),Mid (256GB),2.7,1,Light
+Dell,Notebook,15.6,8,1.98,Intel,2.7,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Linux,895.01,6.797951573626936,Mid (8GB),Mid (256GB),2.7,0,Light
+Acer,Notebook,15.6,4,2.1,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,333.0,5.8111409929767,Low (≤4GB),High (512GB),2.5,0,Standard
+HP,Notebook,15.6,6,2.18,Intel,2.6,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,799.0,6.684611727667927,Mid (8GB),Ultra (1TB+),2.6,0,Standard
+Asus,Gaming,15.6,8,2.591,Intel,2.6,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,1,Windows,909.0,6.813444599510896,Mid (8GB),Ultra (1TB+),2.6,1,Heavy
+Dell,2 in 1 Convertible,15.6,16,2.09,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,141.21,1,0,Windows,1179.0,7.07326971745971,High (16GB),High (512GB),2.7,1,Standard
+Acer,Notebook,15.6,4,2.23,Intel,2.5,Nvidia,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,691.0,6.539585955617669,Low (≤4GB),Mid (256GB),2.5,0,Standard
+Dell,Ultrabook,13.3,8,1.23,Intel,2.4,Intel,SSD,256.0,3200.0,1800.0,276.05,1,0,Linux,1099.0,7.003065458786462,Mid (8GB),Mid (256GB),2.4,1,Ultralight
+Acer,Gaming,17.3,16,4.2,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,1,Windows,2599.0,7.8632667240095735,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Lenovo,Gaming,15.6,8,2.4,Intel,2.5,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,819.0,6.709304340258299,Mid (8GB),Ultra (1TB+),2.5,1,Standard
+Samsung,2 in 1 Convertible,12.3,4,1.15,Samsung,2.0,ARM,SSD,32.0,2400.0,1600.0,234.51,1,1,Chrome OS,659.0,6.492239835020471,Low (≤4GB),Low (≤128GB),1.4,0,Ultralight
+HP,Notebook,15.6,4,1.86,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,485.0,6.186208623900494,Low (≤4GB),High (512GB),2.5,0,Light
+Apple,Ultrabook,12.0,8,0.92,Intel,1.1,Intel,SSD,256.0,2304.0,1440.0,226.42,0,1,macOS,1163.0,7.059617628291383,Mid (8GB),Mid (256GB),1.1,1,Ultralight
+Dell,2 in 1 Convertible,13.3,8,1.6,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,1,1,Windows,1199.0,7.090076835776092,Mid (8GB),Mid (256GB),2.5,0,Light
+HP,Notebook,15.6,12,2.21,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1327.0,7.191429330036379,High (16GB),Ultra (1TB+),2.8,0,Standard
+Lenovo,Notebook,15.6,4,1.9,Intel,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,No OS,368.0,5.910796644040527,Low (≤4GB),Ultra (1TB+),2.5,0,Light
+Asus,Gaming,17.3,16,4.3,Intel,2.6,Nvidia,Hybrid,1536.0,1920.0,1080.0,127.34,0,1,Windows,2150.0,7.67368812926773,High (16GB),Ultra (1TB+),2.6,1,Heavy
+Acer,Notebook,15.6,4,2.1,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,272.0,5.60947179518496,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+MSI,Gaming,17.3,16,2.43,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,2048.9,7.625546290454842,High (16GB),Ultra (1TB+),2.8,1,Standard
+Dell,Notebook,15.6,4,2.3,Intel,2.0,AMD,SSD,128.0,1366.0,768.0,100.45,0,0,Windows,499.0,6.214608098422191,Low (≤4GB),Low (≤128GB),2.0,0,Standard
+Lenovo,Notebook,15.6,8,2.2,Intel,2.5,Nvidia,HDD,500.0,1366.0,768.0,100.45,0,0,No OS,629.0,6.4457198193855785,Mid (8GB),High (512GB),2.5,0,Standard
+Dell,2 in 1 Convertible,15.6,16,2.0,Intel,1.8,Intel,SSD,512.0,1920.0,1080.0,141.21,1,0,Windows,1285.0,7.1592919047975645,High (16GB),High (512GB),1.8,1,Standard
+Dell,Ultrabook,13.3,16,1.2,Intel,2.7,Intel,SSD,512.0,3200.0,1800.0,276.05,1,0,Windows,2680.0,7.893945138235959,High (16GB),High (512GB),2.7,1,Ultralight
+Asus,Gaming,15.6,8,2.2,Intel,2.6,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,1169.0,7.064759027791802,Mid (8GB),Ultra (1TB+),2.6,1,Standard
+Dell,Notebook,15.6,8,2.36,Intel,2.5,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,889.0,6.7912214627261855,Mid (8GB),Mid (256GB),2.5,0,Standard
+HP,Notebook,15.6,8,1.91,Intel,2.5,Intel,SSD,256.0,1366.0,768.0,100.45,0,0,Windows,579.0,6.363028103540465,Mid (8GB),Mid (256GB),2.5,0,Light
+Lenovo,Notebook,15.6,4,2.2,AMD,2.2,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,299.0,5.703782474656201,Low (≤4GB),High (512GB),1.98,0,Standard
+Acer,Notebook,17.3,8,3.3,Intel,2.0,Nvidia,HDD,1024.0,1600.0,900.0,106.11,0,0,Windows,629.0,6.4457198193855785,Mid (8GB),Ultra (1TB+),2.0,0,Heavy
+Asus,Gaming,15.6,16,2.2,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,0,Windows,2449.0,7.803843303538772,High (16GB),Ultra (1TB+),2.8,1,Standard
+Apple,Ultrabook,12.0,8,0.92,Intel,1.2,Intel,SSD,512.0,2304.0,1440.0,226.42,0,1,macOS,1279.0,7.154615356913663,Mid (8GB),High (512GB),1.2,1,Ultralight
+Asus,Notebook,15.6,16,2.2,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1749.0,7.4673710669175595,High (16GB),Ultra (1TB+),2.8,1,Standard
+MSI,Gaming,17.3,16,2.43,Intel,2.6,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,1,Windows,1948.99,7.575579523339515,High (16GB),Ultra (1TB+),2.6,1,Standard
+Dell,2 in 1 Convertible,15.6,8,2.191,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,1,1,Windows,999.0,6.907755278982137,Mid (8GB),Mid (256GB),2.5,0,Standard
+Asus,Gaming,17.3,16,2.9,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1949.0,7.575584651557793,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Acer,Netbook,11.6,2,1.3,Intel,1.5,Intel,SSD,32.0,1366.0,768.0,135.09,0,0,Chrome OS,174.0,5.1647859739235145,Low (≤4GB),Low (≤128GB),1.5,0,Ultralight
+Acer,Notebook,17.3,4,3.3,Intel,2.5,Nvidia,HDD,1024.0,1600.0,900.0,106.11,0,0,Windows,598.0,6.395261598115449,Low (≤4GB),Ultra (1TB+),2.5,0,Heavy
+Lenovo,Notebook,17.3,8,2.8,Intel,2.5,Intel,HDD,1024.0,1600.0,900.0,106.11,0,0,No OS,539.0,6.29156913955832,Mid (8GB),Ultra (1TB+),2.5,0,Heavy
+Lenovo,Gaming,15.6,8,2.6,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,1,Windows,1272.0,7.149131598557407,Mid (8GB),Ultra (1TB+),2.6,1,Heavy
+Acer,2 in 1 Convertible,14.0,8,1.2,Intel,1.3,Intel,SSD,256.0,1920.0,1080.0,157.35,1,1,Windows,1149.0,7.047517221357296,Mid (8GB),Mid (256GB),1.3,0,Ultralight
+Lenovo,Notebook,15.6,8,2.3,Intel,2.6,Intel,SSD,256.0,1920.0,1080.0,141.21,0,1,Windows,1529.0,7.333023014386481,Mid (8GB),Mid (256GB),2.6,0,Standard
+MSI,Gaming,15.6,8,2.2,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1476.11,7.297842755045979,Mid (8GB),Ultra (1TB+),2.6,1,Standard
+HP,Notebook,15.6,6,2.1,AMD,2.7,AMD,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,529.0,6.272877006546167,Mid (8GB),Ultra (1TB+),2.43,0,Standard
+Dell,Ultrabook,12.5,8,1.26,Intel,2.4,Intel,SSD,256.0,1920.0,1080.0,176.23,1,0,Windows,1713.37,7.44680094517285,Mid (8GB),Mid (256GB),2.4,1,Ultralight
+Dell,2 in 1 Convertible,15.0,4,2.08,Intel,2.4,Intel,HDD,500.0,1920.0,1080.0,146.86,1,0,Windows,509.0,6.234410725718371,Low (≤4GB),High (512GB),2.4,0,Standard
+Asus,Notebook,15.6,4,2.65,Intel,1.6,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,309.0,5.736572297479192,Low (≤4GB),Ultra (1TB+),1.6,0,Heavy
+Dell,Ultrabook,13.3,8,1.29,Intel,2.7,Intel,SSD,256.0,3200.0,1800.0,276.05,1,0,Windows,1477.0,7.298445101508147,Mid (8GB),Mid (256GB),2.7,1,Ultralight
+Dell,Notebook,15.6,4,2.18,Intel,2.5,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,521.86,6.259313741806043,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+Lenovo,Gaming,15.6,16,2.6,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,1,1,Windows,1029.0,6.937314081223682,High (16GB),Ultra (1TB+),2.6,1,Heavy
+MSI,Gaming,15.6,8,2.2,Intel,2.8,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1149.0,7.047517221357296,Mid (8GB),Ultra (1TB+),2.8,1,Standard
+Lenovo,Netbook,12.5,16,1.3,Intel,2.5,Intel,SSD,512.0,1920.0,1080.0,176.23,1,1,Windows,1650.0,7.409136443920128,High (16GB),High (512GB),2.5,1,Ultralight
+Razer,Gaming,14.0,16,1.95,Intel,2.8,Nvidia,SSD,1024.0,1920.0,1080.0,157.35,0,0,Windows,3499.0,8.160518247477505,High (16GB),Ultra (1TB+),2.8,1,Light
+Dell,Notebook,15.6,8,2.3,Intel,2.4,Intel,HDD,1024.0,1366.0,768.0,100.45,1,0,Windows,469.01,6.152753971073506,Mid (8GB),Ultra (1TB+),2.4,0,Standard
+MSI,Gaming,17.3,16,2.7,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,127.34,0,0,Windows,1598.0,7.377133712833954,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Apple,Ultrabook,11.6,4,1.08,Intel,1.6,Intel,SSD,256.0,1366.0,768.0,135.09,0,0,macOS,959.0,6.866933284461882,Low (≤4GB),Mid (256GB),1.6,1,Ultralight
+HP,Notebook,15.6,4,2.1,Intel,2.5,Intel,HDD,1024.0,1920.0,1080.0,141.21,0,0,Windows,478.0,6.171700597410915,Low (≤4GB),Ultra (1TB+),2.5,0,Standard
+HP,Ultrabook,14.0,8,1.54,Intel,2.5,Intel,SSD,256.0,2560.0,1440.0,209.8,0,0,Windows,2198.19,7.695844389732659,Mid (8GB),Mid (256GB),2.5,1,Light
+Dell,Notebook,15.6,4,2.24,Intel,2.3,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,737.0,6.6039438246004725,Low (≤4GB),High (512GB),2.3,0,Standard
+MSI,Gaming,15.6,8,2.3,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1169.0,7.064759027791802,Mid (8GB),Ultra (1TB+),2.6,1,Standard
+Lenovo,Notebook,13.3,16,1.4,Intel,2.7,Intel,SSD,512.0,1920.0,1080.0,165.63,0,1,Windows,1499.0,7.313220387090301,High (16GB),High (512GB),2.7,1,Ultralight
+Lenovo,Notebook,15.6,6,2.2,AMD,3.6,AMD,SSD,256.0,1920.0,1080.0,141.21,0,0,Windows,597.57,6.394543477223177,Mid (8GB),Mid (256GB),3.24,0,Standard
+Asus,Ultrabook,13.3,8,1.45,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,165.63,0,0,Windows,1280.0,7.155396301896734,Mid (8GB),Mid (256GB),2.5,1,Ultralight
+Acer,Notebook,15.6,4,2.4,Intel,2.0,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Linux,361.8,5.893851718240982,Low (≤4GB),High (512GB),2.0,0,Standard
+Dell,2 in 1 Convertible,17.3,16,2.77,Intel,2.7,Nvidia,SSD,512.0,1920.0,1080.0,127.34,1,0,Windows,1799.0,7.495541943884256,High (16GB),High (512GB),2.7,1,Heavy
+HP,Notebook,14.0,4,1.54,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,157.35,0,0,Windows,1099.99,7.003965054029298,Low (≤4GB),Mid (256GB),2.3,0,Light
+Asus,Gaming,15.6,16,2.5,Intel,2.8,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,1,Windows,1600.0,7.3783837129967145,High (16GB),Ultra (1TB+),2.8,1,Heavy
+Dell,Notebook,14.0,4,1.6,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,111.94,0,0,Windows,875.0,6.775366090936392,Low (≤4GB),High (512GB),2.5,0,Light
+Asus,Gaming,15.6,16,2.34,Intel,2.6,Nvidia,Hybrid,1280.0,1920.0,1080.0,141.21,0,1,Windows,2325.0,7.75190533307861,High (16GB),Ultra (1TB+),2.6,1,Standard
+Lenovo,Notebook,15.6,8,2.3,Intel,2.5,Intel,SSD,256.0,1920.0,1080.0,141.21,0,1,No OS,573.0,6.352629396319567,Mid (8GB),Mid (256GB),2.5,0,Standard
+Dell,2 in 1 Convertible,13.3,8,1.24,Intel,1.2,Intel,SSD,256.0,3200.0,1800.0,276.05,1,0,Windows,1813.0,7.503289630675082,Mid (8GB),Mid (256GB),1.2,0,Ultralight
+Dell,Notebook,15.6,4,2.2,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Linux,324.0,5.783825182329737,Low (≤4GB),High (512GB),1.6,0,Standard
+HP,Notebook,15.6,4,1.86,AMD,2.5,AMD,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,399.0,5.991464547107982,Low (≤4GB),High (512GB),2.25,0,Light
+Lenovo,Notebook,15.6,6,2.4,Intel,2.3,Nvidia,SSD,128.0,1920.0,1080.0,141.21,0,0,Windows,569.0,6.345636360828596,Mid (8GB),Low (≤128GB),2.3,0,Standard
+Lenovo,Notebook,14.0,8,1.9,Intel,2.3,Intel,SSD,256.0,1920.0,1080.0,157.35,0,1,Windows,1072.0,6.9782137426306985,Mid (8GB),Mid (256GB),2.3,0,Light
+Dell,Notebook,15.6,4,2.2,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,443.99,6.09805181000363,Low (≤4GB),High (512GB),1.6,0,Standard
+Asus,Notebook,15.6,4,2.0,Intel,1.1,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,339.0,5.8289456176102075,Low (≤4GB),Ultra (1TB+),1.1,0,Standard
+Asus,Gaming,17.3,16,4.0,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,127.34,0,1,Windows,1900.0,7.550135342488429,High (16GB),Ultra (1TB+),2.6,1,Heavy
+Dell,Notebook,15.6,4,2.29,Intel,2.5,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,490.0,6.19644412779452,Low (≤4GB),High (512GB),2.5,0,Standard
+Lenovo,Notebook,15.6,8,2.32,Intel,2.5,AMD,Other,1024.0,1920.0,1080.0,141.21,0,0,Windows,895.0,6.79794041297493,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+MSI,Gaming,15.6,8,2.4,Intel,2.6,Nvidia,Hybrid,1152.0,1920.0,1080.0,141.21,0,0,Windows,1229.0,7.114769448366463,Mid (8GB),Ultra (1TB+),2.6,1,Standard
+Lenovo,2 in 1 Convertible,14.0,4,1.8,Intel,2.3,Intel,SSD,128.0,1920.0,1080.0,157.35,1,0,Windows,833.01,6.726245392694536,Low (≤4GB),Low (≤128GB),2.3,0,Light
+Asus,Ultrabook,13.3,8,1.2,Intel,0.9,Intel,SSD,512.0,1920.0,1080.0,165.63,0,1,Windows,729.0,6.593044534142437,Mid (8GB),High (512GB),0.9,1,Ultralight
+Dell,Notebook,15.6,6,2.3,Intel,2.4,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,459.0,6.131226489483141,Mid (8GB),Ultra (1TB+),2.4,0,Standard
+Acer,Notebook,15.6,4,2.4,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Linux,289.0,5.66988092298052,Low (≤4GB),High (512GB),1.6,0,Standard
+Dell,Notebook,15.6,2,2.2,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,379.0,5.940171252720432,Low (≤4GB),High (512GB),1.6,0,Standard
+Lenovo,Notebook,15.6,8,2.6,Intel,2.6,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,899.0,6.802394763324311,Mid (8GB),Ultra (1TB+),2.6,0,Heavy
+HP,Notebook,15.6,6,2.04,AMD,2.9,AMD,Other,1024.0,1920.0,1080.0,141.21,0,0,Windows,549.99,6.311716660167896,Mid (8GB),Ultra (1TB+),2.61,0,Standard
+Dell,Notebook,15.6,8,2.3,Intel,2.7,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,805.99,6.6933112766194425,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+HP,Netbook,11.6,2,1.17,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,135.09,0,0,Windows,209.0,5.3471075307174685,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Asus,Notebook,15.6,4,2.2,Intel,2.5,Nvidia,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,720.32,6.581082866839071,Low (≤4GB),High (512GB),2.5,0,Standard
+Lenovo,2 in 1 Convertible,14.0,4,1.8,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,157.35,1,1,Windows,638.0,6.459904454377535,Low (≤4GB),Low (≤128GB),2.5,0,Light
+Lenovo,2 in 1 Convertible,13.3,16,1.3,Intel,2.5,Intel,SSD,512.0,3200.0,1800.0,276.05,1,1,Windows,1499.0,7.313220387090301,High (16GB),High (512GB),2.5,1,Ultralight
+Lenovo,Notebook,14.0,2,1.5,Intel,1.6,Intel,SSD,64.0,1366.0,768.0,111.94,0,0,Windows,229.0,5.438079308923196,Low (≤4GB),Low (≤128GB),1.6,0,Light
+HP,Notebook,15.6,6,2.19,Intel,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,764.0,6.639875833826536,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Asus,Notebook,15.6,4,2.2,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,369.0,5.91350300563827,Low (≤4GB),High (512GB),1.6,0,Standard
+Asus,Ultrabook,13.3,8,1.2,Intel,0.9,Intel,SSD,512.0,1920.0,1080.0,165.63,0,1,Windows,729.0,6.593044534142437,Mid (8GB),High (512GB),0.9,1,Ultralight
+Dell,Notebook,15.6,6,2.3,Intel,2.4,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,459.0,6.131226489483141,Mid (8GB),Ultra (1TB+),2.4,0,Standard
+Acer,Notebook,15.6,4,2.4,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Linux,289.0,5.66988092298052,Low (≤4GB),High (512GB),1.6,0,Standard
+Dell,Notebook,15.6,2,2.2,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,379.0,5.940171252720432,Low (≤4GB),High (512GB),1.6,0,Standard
+Lenovo,Notebook,15.6,8,2.6,Intel,2.6,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,899.0,6.802394763324311,Mid (8GB),Ultra (1TB+),2.6,0,Heavy
+HP,Notebook,15.6,6,2.04,AMD,2.9,AMD,Other,1024.0,1920.0,1080.0,141.21,0,0,Windows,549.99,6.311716660167896,Mid (8GB),Ultra (1TB+),2.61,0,Standard
+Dell,Notebook,15.6,8,2.3,Intel,2.7,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,805.99,6.6933112766194425,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+HP,Netbook,11.6,2,1.17,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,135.09,0,0,Windows,209.0,5.3471075307174685,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Asus,Notebook,15.6,4,2.2,Intel,2.5,Nvidia,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,720.32,6.581082866839071,Low (≤4GB),High (512GB),2.5,0,Standard
+Lenovo,2 in 1 Convertible,14.0,4,1.8,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,157.35,1,1,Windows,638.0,6.459904454377535,Low (≤4GB),Low (≤128GB),2.5,0,Light
+Lenovo,2 in 1 Convertible,13.3,16,1.3,Intel,2.5,Intel,SSD,512.0,3200.0,1800.0,276.05,1,1,Windows,1499.0,7.313220387090301,High (16GB),High (512GB),2.5,1,Ultralight
+Lenovo,Notebook,14.0,2,1.5,Intel,1.6,Intel,SSD,64.0,1366.0,768.0,111.94,0,0,Windows,229.0,5.438079308923196,Low (≤4GB),Low (≤128GB),1.6,0,Light
+HP,Notebook,15.6,6,2.19,Intel,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,764.0,6.639875833826536,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Asus,Notebook,15.6,4,2.2,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,369.0,5.91350300563827,Low (≤4GB),High (512GB),1.6,0,Standard
+Asus,Ultrabook,13.3,8,1.2,Intel,0.9,Intel,SSD,512.0,1920.0,1080.0,165.63,0,1,Windows,729.0,6.593044534142437,Mid (8GB),High (512GB),0.9,1,Ultralight
+Dell,Notebook,15.6,6,2.3,Intel,2.4,Intel,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,459.0,6.131226489483141,Mid (8GB),Ultra (1TB+),2.4,0,Standard
+Acer,Notebook,15.6,4,2.4,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Linux,289.0,5.66988092298052,Low (≤4GB),High (512GB),1.6,0,Standard
+Dell,Notebook,15.6,2,2.2,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,379.0,5.940171252720432,Low (≤4GB),High (512GB),1.6,0,Standard
+Lenovo,Notebook,15.6,8,2.6,Intel,2.6,Nvidia,HDD,1024.0,1920.0,1080.0,141.21,0,1,Windows,899.0,6.802394763324311,Mid (8GB),Ultra (1TB+),2.6,0,Heavy
+HP,Notebook,15.6,6,2.04,AMD,2.9,AMD,Other,1024.0,1920.0,1080.0,141.21,0,0,Windows,549.99,6.311716660167896,Mid (8GB),Ultra (1TB+),2.61,0,Standard
+Dell,Notebook,15.6,8,2.3,Intel,2.7,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Linux,805.99,6.6933112766194425,Mid (8GB),Ultra (1TB+),2.7,0,Standard
+HP,Netbook,11.6,2,1.17,Intel,1.6,Intel,SSD,32.0,1366.0,768.0,135.09,0,0,Windows,209.0,5.3471075307174685,Low (≤4GB),Low (≤128GB),1.6,0,Ultralight
+Asus,Notebook,15.6,4,2.2,Intel,2.5,Nvidia,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,720.32,6.581082866839071,Low (≤4GB),High (512GB),2.5,0,Standard
+Lenovo,2 in 1 Convertible,14.0,4,1.8,Intel,2.5,Intel,SSD,128.0,1920.0,1080.0,157.35,1,1,Windows,638.0,6.459904454377535,Low (≤4GB),Low (≤128GB),2.5,0,Light
+Lenovo,2 in 1 Convertible,13.3,16,1.3,Intel,2.5,Intel,SSD,512.0,3200.0,1800.0,276.05,1,1,Windows,1499.0,7.313220387090301,High (16GB),High (512GB),2.5,1,Ultralight
+Lenovo,Notebook,14.0,2,1.5,Intel,1.6,Intel,SSD,64.0,1366.0,768.0,111.94,0,0,Windows,229.0,5.438079308923196,Low (≤4GB),Low (≤128GB),1.6,0,Light
+HP,Notebook,15.6,6,2.19,Intel,2.5,AMD,HDD,1024.0,1366.0,768.0,100.45,0,0,Windows,764.0,6.639875833826536,Mid (8GB),Ultra (1TB+),2.5,0,Standard
+Asus,Notebook,15.6,4,2.2,Intel,1.6,Intel,HDD,500.0,1366.0,768.0,100.45,0,0,Windows,369.0,5.91350300563827,Low (≤4GB),High (512GB),1.6,0,Standard
