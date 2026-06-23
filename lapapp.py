@@ -3,9 +3,9 @@ import pandas as pd
 import numpy as np
 import warnings
 warnings.filterwarnings('ignore')
- 
+
 st.set_page_config(page_title="Laptop Price Predictor", page_icon="💻", layout="wide")
- 
+
 st.markdown("""
 <style>
 .main-header {
@@ -39,16 +39,16 @@ st.markdown("""
 .info-card b { color: #1F3864 !important; }
 </style>
 """, unsafe_allow_html=True)
- 
+
 st.markdown("""
 <div class="main-header">
     <h1>💻 Laptop Price Predictor</h1>
     <p>Predict laptop price using 3 ML Models (Ridge, Random Forest, XGBoost) trained on 1300+ laptops</p>
 </div>
 """, unsafe_allow_html=True)
- 
+
 EUR_TO_INR = 90.0  # conversion rate
- 
+
 @st.cache_resource
 def train_models():
     from sklearn.model_selection import train_test_split
@@ -61,36 +61,36 @@ def train_models():
     from sklearn.ensemble import RandomForestRegressor
     from sklearn.metrics import r2_score, mean_absolute_error
     from xgboost import XGBRegressor
- 
-    df = pd.read_csv('laptop_price_featured.csv')
+
+    df = pd.read_csv('data/laptop_price_featured.csv')
     TARGET    = 'log_price'
     DROP_COLS = ['Price_euros','log_price','Ram','Weight','Cpu','Gpu','Memory','ScreenResolution','OpSys']
     drop_existing = [c for c in DROP_COLS if c in df.columns]
     X = df.drop(columns=drop_existing)
     y = df[TARGET]
- 
+
     numerical_cols   = X.select_dtypes(include=['int64','float64']).columns.tolist()
     categorical_cols = X.select_dtypes(include='object').columns.tolist()
     binary_cols      = [c for c in numerical_cols if X[c].nunique() == 2]
     numerical_cols   = [c for c in numerical_cols if c not in binary_cols]
- 
+
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
- 
+
     preprocessor = ColumnTransformer([
         ('num', Pipeline([('imp',SimpleImputer(strategy='median')),('sc',StandardScaler())]), numerical_cols),
         ('cat', Pipeline([('imp',SimpleImputer(strategy='most_frequent')),
                           ('enc',OneHotEncoder(handle_unknown='ignore',sparse_output=False))]), categorical_cols),
         ('bin','passthrough',binary_cols),
     ], remainder='drop')
- 
+
     X_train_proc = preprocessor.fit_transform(X_train)
     X_test_proc  = preprocessor.transform(X_test)
     selector = SelectKBest(f_regression, k=20)
     X_train_sel = selector.fit_transform(X_train_proc, y_train)
     X_test_sel  = selector.transform(X_test_proc)
- 
+
     results = {}
- 
+
     # 1. Ridge Regression
     ridge = Ridge(alpha=1.0, random_state=42)
     ridge.fit(X_train_sel, y_train)
@@ -100,7 +100,7 @@ def train_models():
         'r2': r2_score(y_test, pred),
         'mae': mean_absolute_error(y_test, pred),
     }
- 
+
     # 2. Random Forest
     rf = RandomForestRegressor(n_estimators=200, max_depth=12, min_samples_split=5,
                                random_state=42, n_jobs=-1)
@@ -111,7 +111,7 @@ def train_models():
         'r2': r2_score(y_test, pred),
         'mae': mean_absolute_error(y_test, pred),
     }
- 
+
     # 3. XGBoost
     xgb = XGBRegressor(n_estimators=300, learning_rate=0.05, max_depth=6,
                        subsample=0.8, colsample_bytree=0.8,
@@ -123,11 +123,11 @@ def train_models():
         'r2': r2_score(y_test, pred),
         'mae': mean_absolute_error(y_test, pred),
     }
- 
+
     best_name = max(results, key=lambda k: results[k]['r2'])
- 
+
     return results, best_name, preprocessor, selector, numerical_cols, categorical_cols, binary_cols
- 
+
 with st.spinner("Training 3 models... (first load ~45 sec)"):
     try:
         results, best_name, preprocessor, selector, numerical_cols, categorical_cols, binary_cols = train_models()
@@ -135,7 +135,7 @@ with st.spinner("Training 3 models... (first load ~45 sec)"):
     except Exception as e:
         st.error(f"Error: {e}")
         st.stop()
- 
+
 # ── Sidebar ───────────────────────────────────────────────────
 st.sidebar.markdown("## Laptop Specifications")
 company   = st.sidebar.selectbox("Brand", ["Dell","Lenovo","HP","Asus","Acer","MSI",
@@ -155,7 +155,7 @@ cpu_ghz   = st.sidebar.slider("CPU Speed (GHz)", 0.9, 4.5, 2.5, 0.1)
 gpu_brand = st.sidebar.selectbox("GPU Brand", ["Intel","Nvidia","AMD","ARM"])
 os_clean  = st.sidebar.selectbox("OS", ["Windows","macOS","Linux","Chrome OS","No OS"])
 weight_kg = st.sidebar.slider("Weight (kg)", 0.5, 5.0, 2.0, 0.1)
- 
+
 # ── Derived features ──────────────────────────────────────────
 ppi = round(((res_width**2 + res_height**2)**0.5) / float(inches), 2)
 ram_tier_map = {2:"Low (<=4GB)",4:"Low (<=4GB)",6:"Mid (8GB)",8:"Mid (8GB)",
@@ -172,7 +172,7 @@ weight_cat = ("Ultralight" if weight_kg<1.5 else "Light" if weight_kg<2.0
               else "Standard" if weight_kg<2.5 else "Heavy")
 cpu_score_map = {"Intel":1.0,"AMD":0.9,"Apple":1.2,"Samsung":0.7}
 cpu_perf_score = round(cpu_score_map.get(cpu_brand,0.8)*cpu_ghz, 3)
- 
+
 input_data = pd.DataFrame([{
     "Company":company,"TypeName":type_name,"Inches":float(inches),
     "Ram_GB":ram_gb,"Weight_kg":weight_kg,"cpu_brand":cpu_brand,
@@ -184,7 +184,7 @@ input_data = pd.DataFrame([{
     "is_premium":is_premium,"weight_category":weight_cat,
     "cpu_perf_score":cpu_perf_score,
 }])
- 
+
 # ── Main layout ───────────────────────────────────────────────
 st.markdown("### Selected Specifications")
 c1,c2,c3 = st.columns(3)
@@ -207,27 +207,27 @@ st.markdown(f'<div class="info-card" style="margin-top:1rem">'
             f'<b>GPU:</b> {gpu_brand} &nbsp;|&nbsp;'
             f'<b>Premium:</b> {"Yes" if is_premium else "No"}</div>',
             unsafe_allow_html=True)
- 
+
 st.markdown("---")
 st.markdown("### Price Prediction — All 3 Models")
- 
+
 if st.button("Predict Price", use_container_width=True, type="primary"):
     try:
         X_proc = preprocessor.transform(input_data)
         X_sel  = selector.transform(X_proc)
- 
+
         preds_inr = {}
         for name, info in results.items():
             price_eur = np.expm1(info['model'].predict(X_sel)[0])
             preds_inr[name] = price_eur * EUR_TO_INR
- 
+
         # Best model highlighted first
         best_price = preds_inr[best_name]
         low_inr, high_inr = best_price*0.85, best_price*1.15
         segment = ("Budget" if best_price<45000 else
                    "Mid-Range" if best_price<90000 else
                    "Premium" if best_price<160000 else "Ultra Premium")
- 
+
         st.markdown(f"""
         <div class="best-box">
             <h2>Best Model Prediction — {best_name}</h2>
@@ -235,7 +235,7 @@ if st.button("Predict Price", use_container_width=True, type="primary"):
             <p>Range: ₹{low_inr:,.0f} — ₹{high_inr:,.0f} &nbsp;|&nbsp; Segment: {segment}</p>
             <p style="font-size:0.85rem; opacity:0.75">≈ €{best_price/EUR_TO_INR:,.0f} EUR &nbsp;|&nbsp; R² = {results[best_name]['r2']:.3f}</p>
         </div>""", unsafe_allow_html=True)
- 
+
         st.markdown("#### Comparison across all 3 models")
         cols = st.columns(3)
         for col, (name, info) in zip(cols, results.items()):
@@ -249,7 +249,7 @@ if st.button("Predict Price", use_container_width=True, type="primary"):
                     <p>≈ €{price/EUR_TO_INR:,.0f} EUR</p>
                     <p>R² = {info['r2']:.3f} | MAE = {info['mae']:.3f}</p>
                 </div>""", unsafe_allow_html=True)
- 
+
         comp_df = pd.DataFrame({
             'Model': list(results.keys()),
             'Predicted Price (INR)': [f"₹{preds_inr[n]:,.0f}" for n in results],
@@ -258,12 +258,12 @@ if st.button("Predict Price", use_container_width=True, type="primary"):
             'Test MAE (log scale)': [f"{results[n]['mae']:.3f}" for n in results],
         })
         st.dataframe(comp_df, use_container_width=True, hide_index=True)
- 
+
     except Exception as e:
         st.error(f"Prediction error: {e}")
 else:
     st.info("Set specs in sidebar then click Predict Price")
- 
+
 st.markdown("---")
 with st.expander("About this App"):
     c1,c2,c3 = st.columns(3)
