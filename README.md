@@ -119,7 +119,6 @@ Deployed on **Streamlit Community Cloud**, connected directly to this GitHub rep
 
 ## 📸 Screenshots
 
-> Replace these placeholders with real screenshots before submitting — upload your images to the repo (e.g. inside a `screenshots/` folder) and update the paths below.
 
 **Sidebar — Specification Input Form**
 ![Sidebar input form](screenshots/sidebar.png)
