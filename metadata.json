@@ -1,0 +1,34 @@
+{
+  "numerical_cols": [
+    "Inches",
+    "Ram_GB",
+    "Weight_kg",
+    "cpu_ghz",
+    "storage_gb",
+    "res_width",
+    "res_height",
+    "ppi",
+    "cpu_perf_score"
+  ],
+  "categorical_cols": [
+    "Company",
+    "TypeName",
+    "cpu_brand",
+    "gpu_brand",
+    "storage_type",
+    "os_clean",
+    "ram_tier",
+    "storage_tier",
+    "weight_category"
+  ],
+  "binary_cols": [
+    "is_touchscreen",
+    "is_ips",
+    "is_premium"
+  ],
+  "target": "log_price",
+  "model_type": "XGBoostRegressor",
+  "n_features_in": 20,
+  "feature_k": 20,
+  "note": "Predictions are in log scale; apply np.expm1() to get EUR price"
+}
