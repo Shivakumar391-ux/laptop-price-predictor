@@ -26,6 +26,8 @@ st.markdown("""
 .info-card {
     background: #f8f9fa; border-left: 4px solid #2E5D9E;
     padding: 1rem 1.2rem; border-radius: 6px; margin: 0.5rem 0;
+    color: #1F3864 !important;
+}
 }
 </style>
 """, unsafe_allow_html=True)
